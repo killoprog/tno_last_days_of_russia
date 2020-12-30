@@ -5,17 +5,17 @@ POLITICS_OLOF_PALME_NOTUSED_DESC:0 "Улоф Пальме, ставший защ
 POLITICS_TAGE_ERLANDER_DESC:0 "In 1945, Prime Minister Per Albin Hansson died suddenly while stepping off a train in Stockholm. Hansson left an immense legacy in his wake. His tenure as head of government had dramatically altered the state of the Swedish nation and at the time of his death he had shown no sign of wishing to stop. So it fell, somewhat unexpectedly, to Minister of Education Tage Erlander to take the reins of both the Social Democratic Party and Sweden itself. Erlander's government was formed at a time of great uncertainty for Sweden. Europe, as the country had known it, was now gone; replaced by Germany's new order. Sweden was now the only Scandinavian country not under direct German rule. Even as the war in Europe came to a close, it seemed possible that the country might not survive that way for long. In order to prevent such a fate, Erlander opened Sweden to trade and cooperation with Germany. This decision quickly became the core argument against the Social Democratic government; as the People's Party began to take a clear pro-american stance.\n\nSince those days, Erlander has proven himself to be a diligent disciple of the Hansson days. While not as charismatic as his predecessor, the Prime Minister's policies have kept him popular. Universal health insurance, larger pensions and expanded child care are but some of the reforms implemented during the late forties and fifties. Much of this has been affordably achieved due to the small size of the army, as well as the surprising benefits to trade with Germany.\n\nHowever, all is not well in Sweden. Erlander is more than aware of Germany's subtle attempts to influence the nation; something that the opposition is very public about too. The coming years will demonstrate if the price paid for 'Folkhemmet' can still be justified."
 
 #Party Names
-SWE_communist_party:0 "VPK"
-SWE_ultranational_socialism_party:0 "NRP"
-SWE_socialist_party:0 "SP"
-SWE_social_democrat_party:0 "SAP"
-SWE_social_liberal_party:0 "FP"
-SWE_market_liberal_party:0 "M"
-SWE_social_conservative_party:0 "KD"
-SWE_authoritarian_democrat_party:0 "C"
-SWE_despotism_party:0 "Bernadotte"
-SWE_national_socialism_party:0 "SSS"
-SWE_fascist_party:0 "NSR"
+SWE_communist_party:0 "ВПК"
+SWE_ultranational_socialism_party:0 "НРП"
+SWE_socialist_party:0 "СП"
+SWE_social_democrat_party:0 "САП"
+SWE_social_liberal_party:0 "ФП"
+SWE_market_liberal_party:0 "М"
+SWE_social_conservative_party:0 "КД"
+SWE_authoritarian_democrat_party:0 "С"
+SWE_despotism_party:0 "Бернадотт"
+SWE_national_socialism_party:0 "ССС"
+SWE_fascist_party:0 "НСП"
 
 SWE_socialist_party_long:0 "Socialistiska Partiet"
 SWE_ultranational_socialism_party_long:0 "Nordiska Rikspartiet"
@@ -31,11 +31,11 @@ SWE_communist_party_long:0 "Vänsterpartiet Kommunisterna"
 
 #ideas
 SWE_folkhemmet:0 "Дом для народа"
-SWE_folkhemmet_desc:0 "Модель шведского государства-это модель, в которой государство выступает в качестве дома для народа. Дом, в котором его обитатели защищены от природной стихии. Если " дом " оставляет своих обитателей умирать в пасти волка или на милость бури, можно называть это место жилищем? Точно так же, что за государство, если оно не может защитить свой народ от непредсказуемых элементов повседневной жизни или от враждебных субъектов в постоянно меняющейся среде? \n\Шведское государство, в свою очередь, существует не для престижа, не для величия, а для своего народа. Оно способствует социальному и политическому удобству населения, самые основные потребности которого никогда не ставятся под сомнение. Словно оплот тепла в холодном мире."
+SWE_folkhemmet_desc:0 "Модель шведского государства - это модель, в которой государство выступает в качестве некого дома для народа. Дом, в котором его обитатели защищены от природной стихии окружающей среды. Если "дом" оставляет своих обитателей умирать в пасти волка или на милость бури, можно ли называть это место настоящим домом? Точно так же, что за государство, если оно не может защитить свой народ от непредсказуемых элементов повседневной жизни или от враждебных субъектов в постоянно меняющейся среде? \n\Шведское государство не ставит целью своего существования международный престиж или величие, а прежде всего - благосостояние собственного народа. Оно облегчает социальное и политическиое положение народа, самые основные потребности которого никогда не ставятся под сомнение. Словно оплот тепла в эдаком холодном мире."
 SWE_schwedenisierung:0 "Осторожное сотрудничество"
-SWE_schwedenisierung_desc:0 "Шведское государство, несмотря на то, что его часто называют бастионом света и свободы, находится в тесном сотрудничестве с империей, которую. можно охарактеризовать только как его совершенно противоположную. Окруженная немцами и их империей, Пактом Единства, Швеция участвует в конструктивном и тесном сотрудничестве с Германским Рейхом - и это оказалось благом. Немецкие промышленные инвестиции обеспечивают прямую занятость тысячам шведов. \n\nПока шведское правительство время от времени поддерживает рейх, немцы стараются сохранить эти выгодные отношений. Хватка Рейха над Швецией-это не столько мертвая хватка, сколько теплое рукопожатие, и народ Швеции этим доволен."
+SWE_schwedenisierung_desc:0 "Шведское государство, несмотря на то, что его часто кличут не иначе как бастионом света и свободы, находится в тесном сотрудничестве с империей, которую можно охарактеризовать только как полный антипод первому. Окруженная немцами и их империей, Пактом Единства, Швеция участвует в взаимовыгодном и тесном сотрудничестве с Германским Рейхом - и это доказало свою выгоду. Немецкие промышленные инвестиции обеспечивают прямую занятость тысячам шведов. \n\nПока шведское правительство время от времени поддерживает Рейх, немцы довольны и стараются сохранить эти выгодные отношения. Хватка Рейха над Швецией - это не столько мертвая хватка, сколько теплое рукопожатие, и народ Швеции этим доволен."
 SWE_exports_to_germany:0 "Экспорт в Германию"
-SWE_exports_to_germany_desc:0 "Потребности могущественной немецкой промышленности огромны, а с огромной промышленностью появляется и большой спрос на руду. Шведские горнодобывающие компании широко использовали это, нанимая многие тысячи шведов на железных рудниках по всей стране и получая немалую прибыль. Кроме того, немецкие фирмы, такие как "Рейхсверке", получили концессии на управление крупными шахтами внутри страны, нанимая сотни импортированных рабов для добычи полезных ископаемых под шведской землей(которые тихо документируются как рабочие-мигранты). В результате Швеция пользуется довольно большими торговыми привилегиями в Пакте Единства. Привилегиями, которые для любого шведского бизнесмена стоят гораздо больше, чем жизнь нескольких иностранных рабов."
+SWE_exports_to_germany_desc:0 "Потребности могущественной немецкой промышленности огромны, а с огромной промышленностью появляется и большой спрос на руду. Шведские горнодобывающие компании широко использовали это, нанимая многие тысячи шведов на железных рудниках по всей стране, и получая на этом немалую прибыль. Кроме того, немецкие фирмы, такие как "Рейхсверке", получили концессии на управление крупными шахтами внутри страны, нанимая сотни импортированных рабов для добычи полезных ископаемых под шведской почвой (которые неофициально квалифицируются как рабочие-мигранты). В результате, Швеция пользуется довольно большими торговыми привилегиями в Пакте Единства. Привилегиями, которые для любого шведского бизнесмена стоят гораздо больше, чем жизнь нескольких иностранных рабов."
 
 #events
 
