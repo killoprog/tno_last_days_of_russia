@@ -1454,7 +1454,7 @@ GER_norfolk_accords_desc:0 "В конце концов, даже фюрер не
 
  GER_our_tariffs:0 "Наши тарифы"
  GER_our_tariffs_desc:0 "Настало время начать переговоры с Японией по вопросу снижения тарифов. Конечно, мы ожидали, что самое первое из предложений, выдвинутых Токио, будет ни чем иным, как почти полной отменой тарифов и смертью торговых ограничений. Однако есть опасения, что реализация первых предложений, выдвинутых японцами, приведет лишь к тому, что поток дешевых маньчжурских товаров хлынет в германскую экономику, заглушая нашу собственную отечественную промышленность.\n\nВ качестве альтернативы, чтобы развеять подобные опасения, мы можем занять более жесткую позицию за столом переговоров и потребовать лучшей сделки для защиты нашей промышленности. Однако это, конечно, может привести к срыву наших зарождающихся теплых с Японией и осложнить наши дальнейшие переговоры. Наши следующие шаги будут иметь решающее значение."
-
+.
  GER_manchuko_the_forge:0 "Маньчжурская кузница"
  GER_manchuko_the_forge_desc:0 "Мануфактуры Маньчжоу-Го работают день и ночь круглый год, производя все, что только можно себе представить. От промышленного оборудования до потребительских товаров, Маньчжурия оказалась поистине мастерской мира.\n\nВ то время как многие немецкие промышленные магнаты могут видеть в этом не более чем угрожающего конкурента, существует также возможность использовать кузницы Маньчжоу-Го в наших интересах. Дешевое промышленное оборудование, доставляемое из Маньчжурии по более низкой цене, чем наши текущие поставки, должно, как мы надеемся, снизить эксплуатационные и пусконаладочные расходы немецкой промышленности. Если все пойдет хорошо, мы увидим заметное благо для конкурентоспособности и экономической эффективности нашей производственной экономики."
 
@@ -1644,72 +1644,72 @@ GER_norfolk_accords_desc:0 "В конце концов, даже фюрер не
 
  #Flags
 
- SGR_Energiesicherungsgesetz_flag:0 "§WThe §QEnergiesicherungsgesetz§! has been passed§!"
- SGR_OC_Fuhrererlass:0 "§WThe §OFührererlass§! has been passed.§!"
- SGR_OC_the_true_ideology:0 "§WThe §rParty§! is returning to its §rroots§!.§!"
+ SGR_Energiesicherungsgesetz_flag:0 "§W§QЗакон об энергетическом обеспечении§! был принят Рейхстагом.§!"
+ SGR_OC_Fuhrererlass:0 "§W§OЭдикты фюрера§! были приняты Рейхстагом.§!"
+ SGR_OC_the_true_ideology:0 "§W§rПартия§! возвращается к своим §rкорням§!.§!"
 
  #Tooltips
 
- SGR_OC_gdp_bonus_tt:0 "\n§WWe §Grecuperate§! a fraction of our pre-§ROil Crisi§!s §GGDP Growth§!.§!"
+ SGR_OC_gdp_bonus_tt:0 "\n§WМы §Gвосстанавливаем§! §Gрост нашего ВВП§! §Rдокризисного уровня§!.§!"
 
- SGR_OC_slaves_temp_tt:0 "§W§R5000 'Ostarbeiter'§! are drawn back from the §Yeast§! to work the §geconomy§!.§!"
+ SGR_OC_slaves_temp_tt:0 "§W§R5000 'Остарбайтеров'§! вернутся с §Yвостокс§!, чтобы работать в нашей §gэкономике§!.§!"
 
- SGR_OC_Volksarchitekt_tt:0 "§RThe §gReich§! is the §OFührer's§! greatest work.§!"
- SGR_OC_Volksbund_tt:0 "§R§xChange§! is coming to the §gReich§!.§!"
- SGR_OC_Volkswille_tt:0 "§RWe can rely on no one but §xour own people§!.§!"
+ SGR_OC_Volksarchitekt_tt:0 "§R §gРейх§! - это величайшее творение §OФюрера§!.§!"
+ SGR_OC_Volksbund_tt:0 "§R§xПеремены§! грядут в §gРейх§!.§!"
+ SGR_OC_Volkswille_tt:0 "§RМы не можем полагаться ни на кого, кроме §xнаших собственных людей§!.§!"
 
- SGR_OC_true_ideology_tt:0 "§WThe §Rbrunt§! of the §rNSDAP§!'s strangelhold over the §gpeople§! becomes available.§!"
+ SGR_OC_true_ideology_tt:0 "§WУсиление §Rхватки§! §rНСДАП§! над §gнародом§! становится доступным.§!"
 
- SGR_OC_budget_renegotiations_tt:0 "§WThe §gReich's§! contributions to the §QZollverein's§! budget increase by §Y7.5%§!, while other members increase their commitment by §Y5%§!.§!"
- SGR_OC_united_europe_tt:0 "§W§QZollverein§! members are 'made' to increase their budget contributions by §Y10%§! in solidarity to the §gReich§!, which in turn increases its own contributions by §Y5%§!.§!"
- SGR_OC_nsdap_zv_tt:0 "§WThe §QZollverein§! is §Rforced§! to increase its contributions by §Y15%§!.§!"
+ SGR_OC_budget_renegotiations_tt:0 "§WВзносы §gРейха§! в бюджет §QЦольверайна§! увеличатся на §Y7.5%§!, в то время как другие члены увеличат свои обязательства на §Y5%§!.§!"
+ SGR_OC_united_europe_tt:0 "§WЧлены §QЦольверайна§! увеличат свои взносы на §Y10%§! в знак 'солидарности' с §gРейхом§!, который, в свою очередь, увеличивает свои собственные взносы на §Y5%§!.§!"
+ SGR_OC_nsdap_zv_tt:0 "§W§QЦольверайн§! §Rвынужден§! увеличить свои взносы на§Y15%§!.§!"
 
- SGR_ZV_energiesicherungsgesetz_tt:0 "§WDecisions to §Rhandle the Oil Crisis§! become available to rest of the §QZollverein§!.§!"
+ SGR_ZV_energiesicherungsgesetz_tt:0 "§WРешения для §Rпреодоления нефтяного кризиса§! становятся доступными для остальной части §QЦольверайна§!.§!"
 
- SGR_OC_energiesicherungsgesetz_tt:0 "§W§YDecisions§! to improve the §QEconomic Situation§! §Gbecome available§!.§!"
+ SGR_OC_energiesicherungsgesetz_tt:0 "§W§YРешения§! по улучшению §Qэкономической ситуации§! §Gстановятся доступными§!.§!"
 
- SGR_OC_stability_factor_decrease_tt:0 "§WThe impact of §RSocial Tension§! on §RWeekly Stability decay§! §Gdecreases§!.§!"
+ SGR_OC_stability_factor_decrease_tt:0 "§WВлияние §Rсоциальной напряженности§! на §Rженедельном изменении стабильности§! §Gснижается§!.§!"
 
- SGR_OC_debt_300_tt:0 "§W§RNational debt§! increases by §R300 million USD§!.§!"
- SGR_OC_debt_50_tt:0 "§W§RNational debt§! increases by §R50 million USD§!.§!"
- SGR_OC_debt_20_tt:0 "§W§RNational debt§! increases by §R20 million USD§!.§!"
+ SGR_OC_debt_300_tt:0 "§W§RНациональный долг§! увеличится на §R300 миллионов USD§!.§!"
+ SGR_OC_debt_50_tt:0 "§W§RНациональный долг§! увеличится на §R50 миллионов  USD§!.§!"
+ SGR_OC_debt_20_tt:0 "§W§RНациональный долг§! увеличится на §R20 миллионов  USD§!.§!"
 
- SGR_OC_money_150_tt:0 "§WWe are paid §G150 million USD§!.§!"
- SGR_OC_money_150_cost_tt:0 "§WWe §Rpay 150 million USD§!.§!"
+ SGR_OC_money_150_tt:0 "§WМы заплатили §G150 миллионов USD§!.§!"
+ SGR_OC_money_150_cost_tt:0 "§WМы §Rзаплатим 150 миллионов USD§!.§!"
 
- SGR_OC_improvement_condition_tt:0 "§WWe are ready to implement an §QEconomic Reform§!.§!"
+ SGR_OC_improvement_condition_tt:0 "§WМы готовы провести §Qэкономическую реформу§!.§!"
 
- SGR_initialize_oilcrisis_tt:0 "§WThe §QZollverein§!'s economy is collapsing!§!"
- SGR_halt_repatriation_tt:0 "§WThe §QRepatriation§! of slaves will be §xhalted§! indefinitely.§!"
- SGR_muss_sein_tt:0 "§WThe §Rhardest choices§! require the §Rstrongest wills§!.§!"
+ SGR_initialize_oilcrisis_tt:0 "§WЭкономика §QЦольверайна§! рушится!§!"
+ SGR_halt_repatriation_tt:0 "§W §QРепатриация§! рабов будет §xприостановлена§! на неопределенный срок.§!"
+ SGR_muss_sein_tt:0 "§W§RТруднейший выбор§! требует от нас §Rстальной воли§!.§!"
 
 
- SGR_OC_unemployment_rising_tt:0 "§WThe §ROil Crisis§! is wreaking havoc on §gGermany§!!§!"
- SGR_OC_western_ZV_payments_less_tt:0 "§WThe western §QZollverein§! is struck by the §ROil Crisis§!.§!"
- SGR_OC_eastern_ZV_fucked_tt:0 "§WThe eastern §QZollverein§! is struck by the §ROil Crisis§!.§!"
- SGR_OC_emergency_conference_tt:0 "§WThe §REmergency Meeting§! commences.§!"
- SGR_OC_preliminary_decision_tt:0 "§WA §Rpreliminary decision§! has been made.§!"
- SGR_OC_gangs_plan_tt:0 "§WThe §GGang's§! plan will be followed.§!"
- SGR_OC_fuhrers_plan_tt:0 "§WThe §OFührer's§! plan will be followed.§!"
- SGR_OC_partys_plan_tt:0 "§WThe §rNSDAP§! as a whole will be directly involved.§!"
+ SGR_OC_unemployment_rising_tt:0 "§W §RНефтяной кризис§! сеет хаос по всей §gГермании§!!§!"
+ SGR_OC_western_ZV_payments_less_tt:0 "§WЗападные члены §QЦольверайна§! поражены §Rнефтяным кризисом§!.§!"
+ SGR_OC_eastern_ZV_fucked_tt:0 "§WВосточные члены §QЦольверайна§! уничтожены §Rнефтяным кризисом§!.§!"
+ SGR_OC_emergency_conference_tt:0 "§WНачинается §Rэкстренное совещание§!§!"
+ SGR_OC_preliminary_decision_tt:0 "§W§RПредварительное решение§! должно быть принято.§!"
+ SGR_OC_gangs_plan_tt:0 "§WМы сосредоточимся на плане §GБанды§!§!"
+ SGR_OC_fuhrers_plan_tt:0 "§WМы сосредоточимся на плане §OФюрера§!.§!"
+ SGR_OC_partys_plan_tt:0 "§W§rНСДАП§! будет принимать непосредственное участие в нашем плане.§!"
 
- SGR_OC_economic_improvement_tt:0 "§WThe §Yeffects§! of the §ROil Crisis§! will improve at the cost of §RSocial Tension§!."
+ SGR_OC_economic_improvement_tt:0 "§W§YПоследствия§! §Rнефтяного кризиса§! улучшатся за счет §Rсоциальной напряженности§!."
  
- SGR_OC_social_tension_small_tt:0 "§W§RSocial Tension§! improves §Osomewhat§!.§!"
- SGR_OC_social_tension_med_tt:0 "§W§RSocial Tension§! improves §Ymoderately§!.§!"
- SGR_OC_social_tension_big_tt:0 "§W§RSocial Tension§! improves §Gsignificantly§!.§!"
+ SGR_OC_social_tension_small_tt:0 "§W§RСоциальная напряженность§! §Oмедленно§! приходит в норму.§!"
+ SGR_OC_social_tension_med_tt:0 "§W§RСоциальная напряженность§! §Oумеренно§! приходит в норму.§!"
+ SGR_OC_social_tension_big_tt:0 "§W§RСоциальная напряженность§! §Oбыстро§! приходит в норму.§!"
 
- SGR_OC_social_tension_worse_small_tt:0 "§W§RSocial Tension§! worsens §Ysomewhat§!.§!"
- SGR_OC_social_tension_worse_med_tt:0 "§W§RSocial Tension§! worsens §Omoderately§!.§!"
- SGR_OC_social_tension_worse_big_tt:0 "§W§RSocial Tension§! worsens §Rsignificantly§!.§!"
+ SGR_OC_social_tension_worse_small_tt:0 "§W§RСоциальное напряжение§! §Yмедленно§! обостряется.§!"
+ SGR_OC_social_tension_worse_med_tt:0 "§W§RСоциальное напряжение§! §Yумеренно§! обостряется.§!"
+ SGR_OC_social_tension_worse_big_tt:0 "§W§RСоциальное напряжение§! §Yбыстро§! обостряется.§!"
 
- SGR_OC_econ_status_better_small_tt:0 "§WThe §QEconomic Status§! improves §Osomewhat§!.§!"
- SGR_OC_econ_status_better_med_tt:0 "§WThe §QEconomic Status§! improves §Ymoderately§!.§!"
- SGR_OC_econ_status_better_big_tt:0 "§WThe §QEconomic Status§! improves §Gsignificantly§!.§!"
+ SGR_OC_econ_status_better_small_tt:0 "§WНаше §Qэкономическое положение§! §Oмедленно§! улучшается.§!"
+ SGR_OC_econ_status_better_med_tt:0 "§WНаше §Qэкономическое положение§! §Oумеренно§! улучшается.§!"
+ SGR_OC_econ_status_better_big_tt:0 "§WНаше §Qэкономическое положение§! §Oбыстро§! улучшается§!"
 
- SGR_OC_tick_increase_small_tt:0 "§WThe rate by which §RSocial Tension§! increases every two weeks §Rincreases§! §Ysomewhat§!.§!"
- SGR_OC_tick_increase_med_tt:0 "§WThe rate by which §RSocial Tension§! increases every two weeks §Rincreases§! §Osignificantly§!.§!"
- SGR_OC_tick_increase_big_tt:0 "§WThe rate by which §RSocial Tension§! increases every two weeks §Rincreases§! §Rdrastically§!!§!"
+ SGR_OC_tick_increase_small_tt:0 "§WСкорость нарастания §Rсоциальной напряженности§! каждые две недели §Yмедленно§! возрастает.§!"
+ SGR_OC_tick_increase_med_tt:0 "§WСкорость нарастания §Rсоциальной напряженности§! каждые две недели §Yумеренно§! возрастает.§!"
+ SGR_OC_tick_increase_big_tt:0 "§WWСкорость нарастания §Rсоциальной напряженности§! каждые две недели §Yужасно быстро§! растет!§!"
 
  GER_achilles_heel_struck:0 "Удар по ахиллесовой пяте"
  GER_heart_bleeds:0 "Кровоточащее сердце"
@@ -1739,17 +1739,17 @@ GER_norfolk_accords_desc:0 "В конце концов, даже фюрер не
  GER_government_outreach:0 "Скрытое одобрение"
  GER_a_peak_past_the_curtain:0 "За коричневой занавеской"
  GER_volksbund:0 "Народный союз Германии"
- GER_the_partys_might:0 "The Party's Might"
- GER_the_true_ideology:0 "The True Ideology"
- GER_to_banish_want:0 "To Banish Want"
- GER_caesars_due:0 "Caesar's Due"
- GER_the_model_society:0 "The Model Society"
- GER_to_banish_fear:0 "To Banish Fear"
- GER_social_justice:0 "Social Justice"
- GER_kraft_durch_freude:0 "Kraft durch Freude"
- GER_a_strong_people:0 "A Strong People"
- GER_an_only_party:0 "An Only Party"
- GER_volkswille:0 "Volkswille"
+ GER_the_partys_might:0 "Мощь партии"
+ GER_the_true_ideology:0 "Истинная идеология"
+ GER_to_banish_want:0 "Изгнать желание"
+ GER_caesars_due:0 "Долги цезаря"
+ GER_the_model_society:0 "Модель общества"
+ GER_to_banish_fear:0 "Покончить с страхом"
+ GER_social_justice:0 "Социальная справедливость"
+ GER_kraft_durch_freude:0 "Сила через радость"
+ GER_a_strong_people:0 "Сильный народ"
+ GER_an_only_party:0 "Только партия"
+ GER_volkswille:0 " Воля народа"
 
  GER_achilles_heel_struck_desc:0 "Мы думали, имели все. Впервые за несколько десятилетий будущее Рейха казалось светлым - экономика была на подъеме, протесты почти повсеместно исчезли, а доверие народа к своему правительству было беспрецедентным. Однако оказалось достаточно дуновения легкого ветерка, чтобы весь карточный домик закачался. И вот, легкий ветерок превратился в шторм.\n\nКак известно, цепь сильна лишь настолько, насколько сильно ее самое слабое звено, и этот нефтяной кризис ударил по нашему самому больному месту - по экономике. Внезапный дефицит товаров остановил приток капитала и материалов, а цены на Франкфуртской фондовой бирже упали до невиданных уровней. Мы не единственная страна, оказавшаяся в бедственном положении - нехватка топлива означает, что международная торговля стала слишком дорогим удовольствием. Если мы хотим выбраться из этой дыры, то должны уповать только на собственные силы. "
  GER_heart_bleeds_desc:0 "Кризис берет свое. Бесчисленные предприятия закрыли свои двери на неопределенный срок, а безработные начали заполнять улицы. Всего несколько дней назад немцы считали, что они находятся в середине золотого века, теперь же они столкнулись с кризисом, схожей с катастрофой пятидесятых, если не с адом Веймарской речпублики. Правительство, делают все, чтобы исправить ситуацию, но люди требуют работы, еды, помощи для своих семей, и все это сейчас и сразу.\n\nАртерии Рейха перерезаны, и его кровь разливается по всей Европе. Сердце Европы в опасности."
@@ -1779,17 +1779,17 @@ GER_norfolk_accords_desc:0 "В конце концов, даже фюрер не
  GER_government_outreach_desc:0 "Национал-социалистическая немецкая рабочая партия на законных основаниях является единственной партией, которая имеет право на существование - все остальные были официально распущены еще давным давно. Это, наряду с другой политикой национал-социалистической администрации, разрушило открытое сопротивление правительству. Только когда мир загорелся, а внутренние столпы стабильности Германии пошатнулись, у наиболее смелых антифашистов появилась возможность по-настоящему сплотиться против НСДАП и ее приспешников.\n\nБанда не может бросить вызов Шпееру - пока нет, - но они могут начать подрывать его. Эти многочисленные группы, хотя и разрозненные и лишенные связи, представляют собой ценный актив, и все члены Банды начнут использовать все влияние, которое они накопили за многие годы пребывания министрами и предполагаемыми союзниками фюрера, чтобы направить ресурсы в последний бой против темной волны Германии.\n\nНаступает час, когда фашизм набирает силу, а судьба Германии висит на волоске. Остается только надеяться, что свастика не будет править Европой вечно."
  GER_a_peak_past_the_curtain_desc:0 "Из окон Фольксхалле почти каждый день можно было видеть людей, толпившихся на улицах. Несущие флаги, размахивающие транспарантами, представляющие ту часть немецкого общества, которая, по-мнению нацистов, существовала только в рамках лихорадочных пропагандистских пьес, созданных для того, чтобы демонизировать их как "антифашистских евреев-любителей". Теперь, когда хватка НСДАП ослабевает с каждым днем, все больше людей находят в себе смелость выйти на улицы, от городов с десятитысячным населением до памятников нацистского господства в Германии, все маршируют и требуют чего-то большего. В их глазах понятия "перемены" недостаточно.\n\nХотя многие, если не большинство, все еще считают мечту о демократической Германии диким абсурдом, голоса значительной части страны нельзя отрицать. Для Банды - население, медленно поворачивающееся против страны, которая теперь открыто истекает кровью из своих ран, с разделенным правительством и кликами у власти, это то, о чем они раньше не смели мечтать...\n\nВсе это кажется слишком знакомым."
  GER_volksbund_desc:0 "Между всеми членами Банды был тайный страх. По мере того, как пепел гражданской войны в Германии оседал, сгоревшие здания восстанавливались, павших солдат хоронили в братских могилах, а те, кто страдал, медленно возвращались к подобию нормальной жизни, они боялись, что нацистская пропаганда задушит то, что осталось от искупительного будущего.\n\nИ все же они продолжали надеяться. Годы и годы спустя, по мере того как тонкая линия сужалась, а власть Шпеера росла, поскольку его радикальные реформы начали превращать Германию в новый вид сверхдержавы, те, кто стремился освободиться от нацистского правления, увидели окно возможностей, и борьба в темноте началась заново.\n\nЗатем чиркнула спичка. С приходом и уходом экономического краха и внутреннего беспорядка, наряду с тонким вмешательством Банды, движение против правительства взорвалось-до такой степени, что оно вышло из-под их контроля.\n\nЛюдвиг Эрхард, Хеннинг фон Тресков, Гельмут Шмидт и Курт Георг Кизингер, хотя и продолжают работать внутри НСДАП, наблюдают, как судьба Германии приближается все ближе и ближе, быстрее, чем можно было бы ожидать."
- GER_the_partys_might_desc:0 "The Gang may say what they want about their proposed reforms during the time of this crisis, but they are shaky at best, and easily prone to further destruction of the German economy, judging by how Erhard's strict policies of liberalization had gotten them here to the first place. That was not to say that Speer is a fan of Oberländer's ilk- not at all, as it often clashes with his much purer vision of National Socialism. Still, they hold vast influence over the Reich, and Speer is certain that his charismatic nature can craft deals leaning towards his way, guaranteeing Germany's survival through this period of strife.\n\n§RThough there is no guarantee this will end well.§!"
- GER_the_true_ideology_desc:0 "Such complexities and needless frivolities that the Gang has come up with ever since their meteoric rise to power as Speer's ministers have only proven themselves to fuel the fire of the brewing liberal conspiracy that considers itself righteous in its perceived war against National Socialism. To this, Oberländer sees it as sheer madness - attempting to manufacture problems where none existed beforehand. Hitler's vision was bold and revolutionary, and it worked, and worked well.\n\nWith a long list of demands from the NSDAP's hardliners, Speer must now look over all of them in their demand to return back to Germany's roots. Though some demands seem... particularly egregious, the Führer must see them through in order to safeguard both his influence over the Reich, and the NSDAP's. If it curbed the power of the Gang, so be it.\n\n§RAlbert Speer needs only the Party to bring back prosperity.§!"
- GER_to_banish_want_desc:0 "The weave of political intrigue and slow, methodical change is a poison distributed amongst Western liberal democracies. It is unfit to serve in the Reich - a dictatorship whereupon the Führer is the will of the People and nothing less. Some may consider this an excuse to justify Judeo-Bolshevik sentiment. They would be wholly incorrect in interpreting Hitler's vision. Western individualism, tainted with degeneracy and moral degradation, has no place here. It is only the People, the collective whole, marching forward together in unison that can determine the way forward.\n\nThose who possess much must be forced to give up what they needn't, and those who possess nothing will be given their opportunity to show that they, along with all members of German society, are worthy of living as well as their richest neighbor.\n\n§RIn time, the Reich will move past the clutches of the decadent, Jewish capitalist world economy.§!"
- GER_caesars_due_desc:0 "The Zollverein, now and forever, exists solely as a tool to supply the German economy, the German needs, and the German people. The east is its conquest, its industries the plunder, and its labor the lasting reward to bring bountiful riches back to the homeland. Though many consider the Drive to the East unsuccessful, Oberländer merely sees it having taken upon a new form. What remains of the pitiful Slavs toiling will toil harder to serve the Reich's needs, for it takes precedence above all else.\n\n§REven if we must drag every rebellious Slav back to where they belong, be it with whip or with bullet.§!"
- GER_the_model_society_desc:0 "Through the many successes of the Reich, it has sadly suffered in the meantime with a tense conflict that had passed under Hitler's ever-watchful eye, resulting in two cataclysms of the second West Russian War and the German Civil War. Years after the dust has settled, however, Germany has rebounded, but many are still left to suffer. They are the most particularly vulnerable group, those dragged behind by low-income jobs and others simply living in areas devastated and not yet recovered.\n\nThe liberal paradigm of reaching out and offering comforting lies to these people of the Reich must be stopped here and now. Welfare of the Aryan man must be expanded - the light of National Socialism brought to the worse-off, in turn enlightening them to the eternal values that Hitler had consolidated and set out to achieve.\n\n§RThose who refuse our offer of salvation will find themselves abandoned. The destiny of the Aryan does not accept cowardice and ideological emptiness.§!"
- GER_to_banish_fear_desc:0 "National Socialism accommodates the everyday man. It feeds him, clothes him, finds him a job that he is comfortable with. It gives him a family, of strong moral values, of love and care between mother and father and son and daughter. For who suffers from their livelihood to be paid in full by the state, a life of allowed abundance, and comfort amongst his community. Through the degradation of the many mistakes formed within the rotting structure within the NSDAP, this knowledge has been lost on the German people.\n\nThis loss of unity is the prevailing cause for so much of Germany's suffering during the on-going crisis. The spirit of rebellion, bolstered by parasitic Judeo-Bolshevik causes feeding on chaos like a mosquito would from a human's blood- it must be crushed.\n\n§RThe banners will fly again, and every radio and television will broadcast the glory that the German people must return to - will return to.§!"
- GER_social_justice_desc:0 "Every society is as perfect as its lowest rung. Both Speer and Oberländer know this, and the latter has a solution. It is not enough for the state to bring only welfare to them. They must be uplifted to a higher strata, a sense of living that the People can take joy from. Even the poorest man within the Reich cannot only buy a loaf of bread a day. He must be able to support his entire family, and comfortably at that. Massive investment and propaganda campaigns will roll through every city, town and village. Even if it comes at the expense of the budget, the world shall know the purity of the NSDAP's benevolence.\n\n§RWhile simultaneously broadcasting the inhumanities and imperfections of corrupt liberalistic dogma.§!"
- GER_kraft_durch_freude_desc:0 "Even now, as we begin to re-open and re-invest into the facilities that bridged the gaps between classes while the Reich mended the world of Aryan society and began its transformation, leisure camps meant for anyone of any class to experience the ideal - what everyone deserved, the voices of rebellion continue to bite at our ankles like rabid dogs. This is an unacceptable proposition, and the demands they have given us completely impossible and incompatible with pure National Socialism - so we must intensify our efforts to calm them down.\n\n§RAnd there is an easy solution if they continue to disobey.§!"
- GER_a_strong_people_desc:0 "Though we have taken significant action to turn around public view, many still remain adamant on going against us. The swastika now, more than ever, flies draped across the red and white banner wherever the eye can see, but just as commonly do people slash and burn them. This disastrous display cannot be shown, and the People must believe that these anti-government anarchists and bandits are nothing more than a Jewish-funded mob of dissidents and non-Aryans propped up by the declining West.\n\n§RThey will be shown, all day and all night, that the Reich is eternal, from the past, to the present, and towards all of the future!§!"
- GER_an_only_party_desc:0 "The pathetic stain known as 'democracy' continues to fester like a tumor in the darkness, aided by the capitalist scum working in tandem with the Judeo-Bolshevik menace. They must be reminded of the New World Order that has been established by us, by our victory, by our means. Not for a second could any rational person imagine a 'democratic' Germany triumphing over Europe. The only fate it would have then would be to be butchered by its neighbours, torn into pieces and cast into irrelevance forever. No - it is the Führer and the Party that has gotten us here, and never anything else!\n\n§RThose who think otherwise will be silenced.§!"
- GER_volkswille_desc:0 "National Socialism's most universal tenant is that it follows the will of the People. As it has from the very beginning of its creation up until now. Yet, even with all our efforts, as we broadcast footage from the golden era that Germany experienced under National Socialism, so many continue to regard us as a failed government. This economic crisis has exposed to us a painful truth - that the People are not in one. The People ask for National Socialism - and yet they clamor for inefficient Fascism, corrupt Liberalism, and many more ideologies. The will of the People lies shattered.\n\n§RHow do we put the pieces back together in time?§!"
+ GER_the_partys_might_desc:0 "Банда может говорить что угодно о предлагаемых ею реформах, но они в лучшем случае спорны и легко могут привести к дальнейшему разрушению немецкой экономики, судя по тому, как Эрхард настаивает на дальнейшей политике жесткой либерализации. Шпеер тоже не ссожет нам помочь, поскольку он не является поклонником системы Оберлендеоа, которая противоречит его видению гораздо более чистого национал-социализма. Тем не менее, все они имеют огромное влияние на Рейх, а Шпеер еще и уверен, что его харизма поможет склонить партию на его сторону, гарантируя выживание Германии в этот период кризиса.\n\n§RХотя у нас нет никакой гарантии, что все это закончится хорошо.§!"
+ GER_the_true_ideology_desc:0 "Такие сложности и ненужные фривольности, которые банда придумала с момента своего стремительного восхождения к власти, только подлили масла в огонь назревающего либерального заговора. Они считают себя праведными воинами в своей предполагаемой войне против национал-социализма. Оберлендер смотрит на это, как безумие чистой воды-пытаться создавать проблемы там, где их раньше не существовало. Видение Гитлера было смелым и революционным, и оно работало, и работало хорошо.\n\nИмея длинный список требований от консерваторов из НСДАП, Шпееру следует рассмотреть их все. Мы должны вернуться к корням Германии. Хотя некоторые требования и кажутся... чересчур вопиющими, фюрер должен довести их до конца, чтобы сохранить как свое влияние на Рейх, так и влияние НСДАП. И если это уменьшит влияние Банды, то это только к лучшему.\n\n§RЧтобы вернуть Германию в эпозу процветания, Шпееру нужна только партия.§!"
+ GER_to_banish_want_desc:0 "Переплетение политических интриг и медленных изменений - это яд, распространяемый среди сторонников западных либеральных демократий. Эта система непригодна для  Рейха -диктатуре, при которой фюрер является волей народа. Некоторые могут посчитать это оправданием иудео-большевистских настроений. Они совершенно неверно истолковали бы видение Гитлера. Западному индивидуализму, запятнанному вырождением и моральной деградацией, нет места в нашей стране. Только народ, коллективное целое, в унисон идущее вперед, может определить наш путь.\n\nТе, у кого есть слишком много, должны быть готовы отказаться от лишнего, а те, у кого нет ничего, получат возможность доказать, что они, как и все члены немецкого общества, достойны жить так же, как и их самый богатый сосед.\n\n§RСо временем Рейх вырвется из тисков декадентской, еврейской капиталистической мировой экономики.§!"
+ GER_caesars_due_desc:0 "Цольверайн отныне и навсегда существует исключительно как инструмент для обеспечения нужд немецкой экономики и немецкого народа. Восток - это наши завоевания, грабеж - это наша промышленность, а их вечный труд - наша награда за то, чтобы вернуть на родину те щедрые богатства, что мы на них потратили. Хотя многие считают поход на Восток неудачным, Оберлендер видит, что он просто принял новую форму. То, что останется от жалких славян, будет трудиться еще усерднее, чтобы вечно служить нуждам Рейха, ибо это превыше всего.\n\n§RПусть даже для этого нам придется тащить каждого мятежного славянина туда, где ему самое место, будь то кнутом или пулей.§!"
+ GER_the_model_society_desc:0 "Благодаря многочисленным успехам Рейха, он в то же время, сильно пострадал от напряженного конфликта, который проходил под неусыпным наблюдением Гитлера, что привело к двум катаклизмам - Западнорусской войне и Бюргеркригу. Однако спустя годы после того, как пыль осела, Германия восстановилась, но многие гоаждане все еще страдают. Они -наиболее уязвимая группа, те, кого тянет за собой работа с низким доходом, а другие, просто живут в разрушенных или еще не восстановленных районах.\n\nЛиберальная парадигма протягивания руки и предложения утешительной лжи этим людям должна быть остановлена здесь и сейчас. Благосостояние арийского человека должно быть на должном уровне - свет национал-социализма, в свою очередь просветит их к вечным ценностям, которые Гитлер консолидировал и намеревался достичь.\n\n§RТе, кто откажутся от нашего предложения спастись, окажутся брошенными на произвол судьбы. Душа арийца не должна ведать трусости и идеологической пустоты.§!"
+ GER_to_banish_fear_desc:0 "Национал-социализм создан и для помощи обычному человеку. Он кормит, одевает, находит ему работу, с которой человеку становится комфортно. Это дает ему возможность завести семью, прививает правильные моральные ценности, любовь и заботу за матерью и отцом, сыном и дочерью. Для тех, кто страдает от того, что их средства к существованию полностью оплачиваются государством, жизнь вообще проходит в изобилии и комфорте. Из-за деградации и многих ошибок, образовавшихся в гниющей структуре НСДАП, это знание было утеряно для немецкого народа.\n\nЭта потеря единства является основной причиной многих страданий Германии во время продолжающегося кризиса. Дух бунта, поддерживается паразитическим иудео-большевизмом, питающийся хаосом, как комар питается человеческой кровью, - он должен быть раздавлен.\n\n§RЗнамена со свастикой снова будут развеваться на каждом доме, и каждое радио и телевидение будет транслировать славу, к которой немецкий народ должен вернуться.§!"
+ GER_social_justice_desc:0 "Каждое общество столь же совершенно, как и его низшая ступень. И Шпеер, и Оберлендер знают это, и у последнего есть решение. Недостаточно того, чтобы государство просто приносило народу благо. Уровень жизни должен быть поднят на более высокий уровень, чувство жизни, от которого люди должны получать радость. Даже самый бедный человек в Рейхе должен не только иметь возможность купить буханку хлеба. Он должен быть в состоянии содержать всю свою семью, и притом содержать с комфортом. Массовые инвестиционные и пропагандистские кампании прокатятся по каждому городу, поселку и деревне. Даже если это произойдет за счет бюджета, мир узнает чистоту благожелательности НСДАП.\n\n§RОдновременно транслируя бесчеловечность и несовершенство коррумпированной либеральной догмы.§!"
+ GER_kraft_durch_freude_desc:0 "Даже сейчас, когда мы начинаем заново открывать и реинвестировать в объекты, которые преодолели разрыв между классами, в то время как Рейх исправил мир арийского общества и начал его трансформацию, мы должны открыть лагеря отдыха. Предназначенные для любого человека любого класса - это то, что заслужил каждый ариец, верный нашему правительству. Пока голоса восстания продолжают кусать нас за лодыжки, как бешеные собаки, они предъявляют нам неприемлемые предложения и требования, которые совершенно несовместимы с идеей национал-социализма, - поэтому мы должны активизировать наши пропангадистские усилия, чтобы успокоить или заставить их замолчать.\n\n§RИ у нас есть простое решение, если они будут продолжать нас ослушиваться.§!"
+ GER_a_strong_people_desc:0 "Хотя мы предприняли значительные действия, чтобы изменить общественное мнение, многие все еще остаются непреклонными в том, чтобы идти против нас. Свастика теперь, как никогда, развевается на красно-белом знамени везде, где только может видеть глаз, но так же часто люди идут ее сжигать. Это катастрофическое зрелище нельзя замалчивать. Люди должны верить, что эти антиправительственные анархисты и бандиты - не что иное, как финансируемая евреями толпа диссидентов и неарийцев, поддерживаемая гниющим Западом.\n\n§RИм будет показано, что Рейх вечен, от прошлого до настоящего и ко светлому будущему!§!"
+ GER_an_only_party_desc:0 "Жалкое пятно, известное как "демократия", продолжает гноиться, как опухоль во тьме, с помощью капиталистической мрази, работающей в тандеме с иудео-большевистской угрозой. Им нужно напомнить о Новом Мировом Порядке, который был установлен нами, нашей победой, нашими людьми. Ни на секунду ни один здравомыслящий человек не может представить себе "демократическую" Германию, торжествующую над Европой. Единственная судьба, которая у него тогда была бы, - быть убитым нашими соседями, разорванными на куски и навсегда брошенными на произвол судьбы. Нет, это фюрер и партия привели нас сюда, к торжеству и превосходству!\n\n§RТех, кто думает иначе, заставят замолчать.§!"
+ GER_volkswille_desc:0 "Самый главный принцип национал-социализма состоит в том, что он следует воле народа. Как это было с самого начала его создания и до сих пор. Тем не менее, несмотря на все наши усилия, когда мы транслируем кадры из золотой эры, которую Германия пережила при национал-социализме, многие продолжают считать нас несостоявшимся правительством. Этот экономический кризис обнажил перед нами болезненную истину - народ не является единым организмом. Люди требуют национал-социализма - и в то же время они требуют неэффективного фашизма, коррумпированного либерализма и многих других идеологий. Воля народа разбита вдребезги.\n\n§RКак нам собрать все эти кусочки воедино?§!"
 
  #Events
  
