@@ -225,7 +225,7 @@ GER_Espionage_debug_omsk_unite:0 "§GDEBUG§! - Omsk WSB Unification"
 GER_Espionage_debug_father_unite:0 "§GDEBUG§! - Father FST Unification"
 
 #### Tooltips ####
-GER_Espionage_new_operation_available_tt:0 "§YНовые§! §RСпециальные операции§! §Yстади доступны.§!"
+GER_Espionage_new_operation_available_tt:0 "§YНовые§! §RСпециальные операции§! §Yстали доступны.§!"
 GER_Espionage_doing_special_mission:0 "§RСпециальная операция§! уже идет"
 
 SGR_RND_regimestab_tt:0 "§YСтабильность режима§! только выигиает от ослабления §rреакционного крыла НСДАП§!."
@@ -246,27 +246,27 @@ SGR_RND_thailand_foothold_tt:0 "§Wплацдарм в [SIA.GetName]§!" SGR_RND
 SGR_RND_USA.USA_foothold_tt:0 "§WИСБ имеет первоначальный успех в проникновении в [USA.GetName]§!"
 SGR_RND_USA_leaning_tt:0 "§YНаш режим§! должен быть §Wнейтральным§! или §Oконсервативным§!"
 
-GER_Espionage_decrease_gdp_growth:0 "Our §YGDP Growth§! will §Rdecrease§!."
-GER_Espionage_lnpp_discredited:0 "§eL-NPP§! support will drop nationwide."
-GER_Espionage_IBR_increase_reformism:0 "§YThis will increase Reformism in the Council.§!"
-GER_Espionage_IBR_decrease_reformism:0 "§YThis will decrease Reformism in the Council.§!"
-GER_Espionage_IBR_franco_influence:0 "\n§YFranco's§! influence will increase."
-GER_Espionage_IBR_war_exhaustion:0 "§wWar Exhaustion§! will §Rincrease by 5%§!"
-GER_Espionage_BFI_increase_ital_independence:0 "§RItaly will drift towards independence.§!"
+GER_Espionage_decrease_gdp_growth:0 "Наш §Yрост ВВП§! будет §Rснижаться§!."
+GER_Espionage_lnpp_discredited:0 "Поддержка §eЛ-НПП§! упадет по всей стране."
+GER_Espionage_IBR_increase_reformism:0 "§YЭто усилит реформизм в Иберийском Совете.§!"
+GER_Espionage_IBR_decrease_reformism:0 "§YЭто уменьшит реформизм в Иберийском Совете§!"
+GER_Espionage_IBR_franco_influence:0 "\nВлияние §YФранко§! уменьшится."
+GER_Espionage_IBR_war_exhaustion:0 "§wВоенное истощенте§! §Rувеличится на 5%§!"
+GER_Espionage_BFI_increase_ital_independence:0 "§RИталия будет стремиться к независимости.§!"
 
 SGR_RND_mission_success_increase_tt:0 "Это увеличит наши шансы на §Tуспешное выполнение миссий§!." SGR_RND_burgundy_final_success_tt:0 "Знание этих §P'Глобалпланов'§!, несмоненно, пригодится нам в будущем."
 
-GER_Espionage_omsk_insurgency_increase:0 "Our §Ycounter-insurgency progress§! shall decrease by §Y10§!."
+GER_Espionage_omsk_insurgency_increase:0 "Наш §Yпрогресс в борьбе с повстанцами§! уменьшится на §Y10§!."
 
 #### Ideas ####
-GER_Espionage_spynetworks:0 "[getGermanIntelAgencyShort] Presence"
-GER_Espionage_spynetworks_desc:0 "The [getGermanIntelAgency], Germany's new and long arm reaching into the clandestine, has built up a presence within our country."
+GER_Espionage_spynetworks:0 "Присутствие [getGermanIntelAgencyShort]"
+GER_Espionage_spynetworks_desc:0 "[getGermanIntelAgency], новая и длинная рука Германии, создала свою шпионскую сеть внутри нашей страны."
 
 GER_SGR_RND_dynamic_modifier:0 "Имперская Служба Безопасности"
 GER_SGR_reichsnachrichtendienst_dynamic_modifier: 0 "Имперская Служба Безопасности"
-GER_SGR_reichsnachrichtendienst_dynamic_modifier_desc:0 "The Reichsnachrichtendienst is the new foreign intelligence agency of Germany, directly subordinated to the Führer. Reinhard Gehlen, the Reich's most enigmatic spymaster, leads this new agency."
-GER_SGR_RND_advisors:0 "RND Advisors"
-GER_SGR_RND_advisors_desc:0 "Advisors from Germany's Reichsnachrichtendienst sent to train and advise the local regime's troops."
+GER_SGR_reichsnachrichtendienst_dynamic_modifier_desc:0 "Имперская Служба Безопасности - новое внешнеполитическое разведывательное управление Германии, непосредственно подчиненное фюреру. Рейнхард Гелен, самый загадочный шпион Рейха, возглавляет это новое агентство."
+GER_SGR_RND_advisors:0 "Советники из ИСБ"
+GER_SGR_RND_advisors_desc:0 "Советники из немецкой ИСБ, направлены в нашу страгу для обучения и консультирования войск нашего режима."
 
 GER_BOR_Orpo_dynamic_modifier:0 "Ordnungspolizei"
 
