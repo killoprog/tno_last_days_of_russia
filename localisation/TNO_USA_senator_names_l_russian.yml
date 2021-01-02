@@ -3,11 +3,11 @@
 
   ############# PARTIES
 
- RD_R_SENATOR_PARTY:0 "(§wР§!-§BД§! - §wРеспубликанец§!) "
- RD_D_SENATOR_PARTY:0 "(§wР§!-§BД§! - §BДемократ§!) "
+ RD_R_SENATOR_PARTY:0 "(§wР§!-§BД§!П - §wРеспубликанец§!) "
+ RD_D_SENATOR_PARTY:0 "(§wР§!-§BД§!П - §BДемократ§!) "
  NPP_C_SENATOR_PARTY:0 "(§OНПП§! - §PЦентрист§!) "
- NPP_FR_SENATOR_PARTY:0 "(§OНПП§! - §gКрайне Правый§!) "
- NPP_L_SENATOR_PARTY:0 "(§OНПП§! - §eКрайне Левый§!) "
+ NPP_FR_SENATOR_PARTY:0 "(§OНПП§! - §gУльтраправый§!) "
+ NPP_L_SENATOR_PARTY:0 "(§OНПП§! - §eЛевый§!) "
  NPP_R_SENATOR_PARTY:0 "(§OНПП§! - §r"Йокиист"§!) "
 
  RD_R_SENATOR_ALABAMA_1:0 "Ричмонд Флауэрс-ст.."
