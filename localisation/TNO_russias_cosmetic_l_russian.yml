@@ -40,9 +40,10 @@
  NIK_REGIONAL_FASCIST_fascism:0 "Западнорусская Свободная Республика"
  NIK_REGIONAL_FASCIST_fascism_DEF:0 "Западнорусская Свободная Республика"
  NIK_REGIONAL_FASCIST_fascism_ADJ:0 "Западнорусск"
- NIK_REGIONAL_FASCIST_national_socialism:0 "Западнорусская Национальная Советская Республика"
- NIK_REGIONAL_FASCIST_national_socialism_DEF:0 "Западнорусская Национальная Советская Республика"
- NIK_REGIONAL_FASCIST_national_socialism_ADJ:0 "Западнорусск."
+ 
+ NIK_REGIONAL_NATSOC_national_socialism:0 "Западнорусская Национальная Советская Республика"
+ NIK_REGIONAL_NATSOC_national_socialism_DEF:0 "Западнорусская Национальная Советская Республика"
+ NIK_REGIONAL_NATSOC_national_socialism_ADJ:0 "Западнорусск."
  
  NIK_REGIONAL_ULTRANAT_ultranational_socialism:0 "Временное Правительство Центральной Евразии"
  NIK_REGIONAL_ULTRANAT_ultranational_socialism_DEF:0 "Временное Правительство Центральной Евразии"
@@ -51,6 +52,10 @@
  NIK_REGIONAL_AUTHSOC_communist:0 "Западнорусская Советская Республика"
  NIK_REGIONAL_AUTHSOC_communist_DEF:0 "Западнорусская Советская Республика"
  NIK_REGIONAL_AUTHSOC_communist_ADJ:0 "Западнорусск."
+ 
+ NIK_REGIONAL_AUTHSOC_socialist:0 "Западнорусская Советская Республика"
+ NIK_REGIONAL_AUTHSOC_socialist_DEF:0 "Западнорусская Советская Республика"
+ NIK_REGIONAL_AUTHSOC_socialist_ADJ:0 "Западнорусск."
  
  NIK_REGIONAL_LIBSOC_socialist:0 "Западнорусская Советская Федерация"
  NIK_REGIONAL_LIBSOC_socialist_DEF:0 ""Западнорусская Советская Федерация"
@@ -68,9 +73,9 @@
  NIK_regional_unifier_authoritarian_democrat_DEF:0 "Западнорусская Свободная Республика"
  NIK_regional_unifier_authoritarian_democrat_ADJ:0 "Западнорусск."
 
- NIK_regional_unifier_despotism:0 "Западнорусское Временное Правительство"
- NIK_regional_unifier_despotism_ADJ:0 "Западнорусск."
- NIK_regional_unifier_despotism_DEF:0 "Западнорусское Временное Правительство"
+ NIK_REGIONAL_STALINA_despotism:0 "Западнорусское Временное Правительство"
+ NIK_REGIONAL_STALINA_despotism_ADJ:0 "Западнорусск."
+ NIK_REGIONAL_STALINA_despotism_DEF:0 "Западнорусское Временное Правительство"
 
  NIK_russia_despotism:0 "Русское Временное Правительство"
  NIK_russia_despotism_DEF:0 "Русское Временное Правительство"
@@ -189,6 +194,9 @@
  KHA_regional_unifier_despotism_DEF:0 "Вольная Территория"
  KHA_regional_unifier_despotism_ADJ:0 "Центральносибирск."
  
+ PAV_regional_unifier_social_conservative:0 "Центральносибирская Федерация"
+ PAV_regional_unifier_social_conservative_DEF:0 "Центральносибирская Федерация"
+ PAV_regional_unifier_social_conservative_ADJ:0 "Центральносибирск."
  PAV_regional_unifier_authoritarian_democrat:0 "Центральносибирская Федерация"
  PAV_regional_unifier_authoritarian_democrat_DEF:0 "Центральносибирская Федерация"
  PAV_regional_unifier_authoritarian_democrat_ADJ:0 "Центральносибирск."
@@ -229,6 +237,16 @@
  MAG_regional_unifier_fascism:0 "Сибирская Национальная Республика"
  MAG_regional_unifier_fascism_DEF:0 "Сибирская Национальная Республика"
  MAG_regional_unifier_fascism_ADJ:0 "Сибирск."
+ MAG_WA_regional_unifier_authoritarian_democrat:0 "Соединённые Штаты Сибири"
+ MAG_WA_regional_unifier_authoritarian_democrat_DEF:0 "Соединённые Штаты Сибири"
+ MAG_WA_regional_unifier_authoritarian_democrat_ADJ:0 "Западноаляск."
+ MAG_WA_SIB_authoritarian_democrat:0 "Соединённые Штаты Сибири"
+ MAG_WA_SIB_authoritarian_democrat_DEF:0 "Соединённые Штаты Сибири"
+ MAG_WA_SIB_authoritarian_democrat_ADJ:0 "Сибирск."
+ MAG_WA_RUS_authoritarian_democrat:0 "Соединённые Штаты России"
+ MAG_WA_RUS_authoritarian_democrat_DEF:0 "Соединённые Штаты России"
+ MAG_WA_RUS_authoritarian_democrat_ADJ:0 "Русск."
+ 
  MAG_WA_republic_regional_unifier_authoritarian_democrat:0 "Сибирская Республика"
  MAG_WA_republic_regional_unifier_authoritarian_democrat_DEF:0 "Сибирская Республика"
  MAG_WA_republic_regional_unifier_authoritarian_democrat_ADJ:0 "Сибирск."
@@ -252,6 +270,9 @@
  WCH_regional_unifier_social_liberal:0 "Дальневосточное Княжество"
  WCH_regional_unifier_social_liberal_DEF:0 "Дальневосточное Княжество"
  WCH_regional_unifier_social_liberal_ADJ:0 "Дальневосточн."
+ WCH_regional_unifier_authoritarian_democrat:0 "Дальневосточное Княжество"
+ WCH_regional_unifier_authoritarian_democrat_DEF:0 "Дальневосточное Княжество"
+ WCH_regional_unifier_authoritarian_democrat_ADJ:0 "Дальневосточн."
  WCH_regional_unifier_despotism:0 "Дальневосточное Княжество"
  WCH_regional_unifier_despotism_DEF:0 "Дальневосточное Княжество"
  WCH_regional_unifier_despotism_ADJ:0 "Дальневосточн."
@@ -289,9 +310,9 @@
  AKT_regional_unifier_national_socialism_DEF:0 "Казахское Государство"
  AKT_regional_unifier_national_socialism_ADJ:0 "Казахск."
  
- ARL_regional_unifier_fascism:0 "Национальная Республика Казахстан"
- ARL_regional_unifier_fascism_DEF:0 "Национальная Республика Казахстан"
- ARL_regional_unifier_fascism_ADJ:0 "Казахск."
+ ARL_regional_unifier_despotism:0 "Национальная Республика Казахстан"
+ ARL_regional_unifier_despotism_DEF:0 "Национальная Республика Казахстан"
+ ARL_regional_unifier_despotism_ADJ:0 "Казахск."
  
  DER_regional_unifier_despotism:0 "Исламская Республика Казахстан"
  DER_regional_unifier_despotism_DEF:0 "Исламская Республика Казахстан"
@@ -335,6 +356,9 @@
  ERS_SIB_socialist_ADJ:0 "Сибирск."
  
  #Novosibirsk
+ PAV_SIB_social_conservative:0 "Сибирская Федерация"
+ PAV_SIB_social_conservative_DEF:0 "Сибирская Федерация"
+ PAV_SIB_social_conservative_ADJ:0 "Сибирск."
  PAV_SIB_authoritarian_democrat:0 "Сибирская Федерация"
  PAV_SIB_authoritarian_democrat_DEF:0 "Сибирская Федерация"
  PAV_SIB_authoritarian_democrat_ADJ:0 "Сибирск."
@@ -383,6 +407,9 @@
  WCH_SIB_social_liberal:0 "Сибирская Империя"
  WCH_SIB_social_liberal_DEF:0 "Сибирская Империя"
  WCH_SIB_social_liberal_ADJ:0 "Сибирск."
+ WCH_SIB_authoritarian_democrat:0 "Сибирская Империя"
+ WCH_SIB_authoritarian_democrat_DEF:0 "Сибирская Империя"
+ WCH_SIB_authoritarian_democrat_ADJ:0 "Сибирск."
  WCH_SIB_despotism:0 "Сибирское Регентство"
  WCH_SIB_despotism_DEF:0 "Сибирское Регентство"
  WCH_SIB_despotism_ADJ:0 "Сибирск."
@@ -428,10 +455,13 @@
  TOB_RUS_social_conservative:0 "Российская Федеративная Республика"
  TOB_RUS_social_conservative_DEF:0 "Российская Федеративная Республика"
  TOB_RUS_social_conservative_ADJ:0 "Русск."
+ TOB_RUS_YELTSIN_social_conservative:0 "Российская Федеративная Республика"
+ TOB_RUS_YELTSIN_social_conservative_DEF:0 "Российская Федеративная Республика"
+ TOB_RUS_YELTSIN_social_conservative_ADJ:0 "Русск."
  TOB_RUS_authoritarian_democrat:0 "Российский Народный Союз"
  TOB_RUS_authoritarian_democrat_DEF:0 "Российский Народный Союз"
  TOB_RUS_authoritarian_democrat_ADJ:0 "Русск."
- 
+  
  #Samara
  SAM_RUS_fascism:0 "Российское Государство"
  SAM_RUS_fascism_DEF:0 "Российское Государство"
@@ -495,6 +525,10 @@
  KIR_RUS_despotism_ADJ:0 "Русск." 
 
  #WRRF
+ WRS_RUS_tukha_communist:0 "Российская Советская Федеративная Социалистическая Республика"
+ WRS_RUS_tukha_communist_DEF:0 "Российская Советская Федеративная Социалистическая Республика"
+ WRS_RUS_tukha_communist_ADJ:0 "Советск."
+ 
  WRS_RUS_communist:0 "Российская Советская Федеративная Социалистическая Республика"
  WRS_RUS_communist_DEF:0 "Российская Советская Федеративная Социалистическая Республика"
  WRS_RUS_communist_ADJ:0 "Советск."
@@ -511,9 +545,13 @@
  WRS_RUS_despotism_DEF:0 "Российская Советская Федеративная Социалистическая Республика"
  WRS_RUS_despotism_ADJ:0 "Советск."
  
- WRS_USSR_communist:0 "Союз Советских Социалистических Республик"
- WRS_USSR_communist_DEF:0 "Союз Советских Социалистических Республик"
- WRS_USSR_communist_ADJ:0 "Советск."
+ WRS_USSR_tukha:0 "Союз Советский Социалистических Республик"
+ WRS_USSR_tukha_DEF:0 "Союз Советский Социалистических Республик"
+ WRS_USSR_tukha_ADJ:0 "Советск."
+ 
+ WRS_USSR_zhukov:0 "Союз Советский Социалистических Республик"
+ WRS_USSR_zhukov_DEF:0 "Союз Советский Социалистических Республик"
+ WRS_USSR_zhukov_ADJ:0 "Советск."
  
  #Komi
  NIK_eurasia_ultranational_socialism:0 "Евразийское Государство"
@@ -536,17 +574,25 @@
  NIK_russia_authoritarian_democrat_DEF:0 "Российская Свободная Республика"
  NIK_russia_authoritarian_democrat_ADJ:0 "Русск."
  
- NIK_russia_despotism:0 "Российское Временное Правительство"
- NIK_russia_despotism_DEF:0 "Российское Временное Правительство"
- NIK_russia_despotism_ADJ:0 "Русск."
+ NIK_stalina_russia_despotism:0 "Российское Временное Правительство"
+ NIK_stalina_russia_despotism_DEF:0 "Российское Временное Правительство"
+ NIK_stalina_russia_despotism_ADJ:0 "Русск."
  
  NIK_soviet_communist:0 "Российская Советская Республика"
  NIK_soviet_communist_DEF:0 "Российская Советская Республика"
  NIK_soviet_communist_ADJ:0 "Советск."
  
- NIK_federation_socialist:0 "Советская Федерация"
- NIK_federation_socialist_DEF:0 "Советская Федерация"
- NIK_federation_socialist_ADJ:0 "Советск."
+ NIK_soviet_socialist:0 "Российская Советская Республика"
+ NIK_soviet_socialist_DEF:0 "Российская Советская Республика"
+ NIK_soviet_socialist_ADJ:0 "Советск."
+ 
+ NIK_federation_socialist:0 "Объединённая Советская Федерация"
+ NIK_federation_socialist_DEF:0 "Российская Свободная Республика"
+ NIK_federation_socialist_ADJ:0 "Русск."
+ 
+ NIK_federation_communist:0 "Объединённая Советская Федерация"
+ NIK_federation_communist_DEF:0 "Объединённая Советская Федерация"
+ NIK_federation_communist_ADJ:0 "Советск."
  
  NIK_fashrussia_fascism:0 "Российская Свободная Республика"
  NIK_fashrussia_fascism_DEF:0 "Российская Свободная Республика"
@@ -556,9 +602,21 @@
  NIK_fashrussia_national_socialism_DEF:0 "Российская Национальная Советская Республика"
  NIK_fashrussia_national_socialism_ADJ:0 "Советск."
  
+ NIK_ordosocialist_national_socialism:0 "Российская Национальная Советская Республика"
+ NIK_ordosocialist_national_socialism_DEF:0 "Российская Национальная Советская Республика"
+ NIK_ordosocialist_national_socialism_ADJ:0 "Советск."
+ 
  NIK_BURGSYS_UNIFIER_burgundian_system:0 "Священная Российская Империя"
  NIK_BURGSYS_UNIFIER_burgundian_system_DEF:0 "Священная Российская Империя"
  NIK_BURGSYS_UNIFIER_burgundian_system_ADJ:0 "Русск."
+ 
+ NIK_BURGSYS_UNIFIER_ultranational_socialism:0 "Священная Российская Империя"
+ NIK_BURGSYS_UNIFIER_ultranational_socialism_DEF:0 "Священная Российская Империя"
+ NIK_BURGSYS_UNIFIER_ultranational_socialism_ADJ:0 "Русск."
+
+ NIK_COLLAPSE_ultranational_socialism:0 ""
+ NIK_COLLAPSE_ultranational_socialism_DEF:0 ""
+ NIK_COLLAPSE_ultranational_socialism_ADJ:0 "Русск." 
  
  ###SIBERIAN RUSSIANS
 
@@ -566,6 +624,10 @@
  ERS_RUS_social_democrat:0 "Российское Содружество"
  ERS_RUS_social_democrat_DEF:0 "Российское Содружество"
  ERS_RUS_social_democrat_ADJ:0 "Русск."
+ 
+ ERS_RUS_HUMANIST_social_democrat:0 "Российское Содружество"
+ ERS_RUS_HUMANIST_social_democrat_DEF:0 "Российское Содружество"
+ ERS_RUS_HUMANIST_social_democrat_ADJ:0 "Русск."
  
  ERS_RUS_social_liberal:0 "Российская Республика"
  ERS_RUS_social_liberal_DEF:0 "Российская Республика"
@@ -580,10 +642,13 @@
  ERS_RUS_authoritarian_democrat_ADJ:0 "Русск."
  
  #Novosibirsk
+ PAV_RUS_social_conservative:0 "Российская Федерация"
+ PAV_RUS_social_conservative_DEF:0 "Российская Федерация"
+ PAV_RUS_social_conservative_ADJ:0 "Русск."
  PAV_RUS_authoritarian_democrat:0 "Российская Федерация"
  PAV_RUS_authoritarian_democrat_DEF:0 "Российская Федерация"
  PAV_RUS_authoritarian_democrat_ADJ:0 "Русск."
- 
+  
  #Kemerovo
  KEM_RUS_authoritarian_democrat:0 "Русское Царство"
  KEM_RUS_authoritarian_democrat_DEF:0 "Русское Царство"
@@ -622,6 +687,9 @@
  WCH_RUS_social_liberal:0 "Российская Империя"
  WCH_RUS_social_liberal_DEF:0 "Российская Империя"
  WCH_RUS_social_liberal_ADJ:0 "Русск."
+ WCH_RUS_authoritarian_democrat:0 "Российская Империя"
+ WCH_RUS_authoritarian_democrat_DEF:0 "Российская Империя"
+ WCH_RUS_authoritarian_democrat_ADJ:0 "Русск."
  WCH_RUS_despotism:0 "Российская Империя"
  WCH_RUS_despotism_DEF:0 "Российская Империя"
  WCH_RUS_despotism_ADJ:0 "Русск."
@@ -659,8 +727,6 @@
  RUS_federation_DEF:0 "Российская Федерация"
  RUS_commonwealth:0 "Российское Содружество"
  RUS_commonwealth_DEF:0 "Российское Содружество"
- RUS_united_states:0 "Соединённые Штаты России"
- RUS_united_states_DEF:0 "Соединённые Штаты России"
  
  RUS_state:0 "Русское Государство"
  RUS_state_DEF:0 "Русское Государство"
