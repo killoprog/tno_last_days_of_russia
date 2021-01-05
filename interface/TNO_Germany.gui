@@ -750,7 +750,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "TNO_SGR_Decisions_RND_GUI_movement_container"
 			size = { width = 0 height = 0 }
-			position = { x = 0 y = 485 }
+			position = { x = 0 y = 790 }
 
 			iconType = {
 				name = "SGR_RND_GUI_bg"
@@ -759,7 +759,7 @@ guiTypes = {
 			}
 			instantTextboxType = {
 				name = "Leader_Name"
-				position = { x = -10 y = -845 }
+				position = { x = -10 y = -1150 }
 				font = "aldrich_36_outline"
 				text = SGR_RND_leader
 				format = center
@@ -774,7 +774,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "Budget_title"
-				position = { x = 45 y = -803 }
+				position = { x = 45 y = -1099 }
 				font = "aldrich_20_outline"
 				text = SGR_RND_Budgetname
 				format = center
@@ -785,24 +785,24 @@ guiTypes = {
 			buttonType = {
 				name = "Decrease_budget_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 53 y = -762 }
+				position = { x = 53 y = -1058 }
 			}
 			buttonType = {
 				name = "Increase_budget_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 131 y = -762 }
+				position = { x = 131 y = -1058 }
 			}
 			buttonType = {
 				name = "Invest_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_invest_button"
-				position = { x = 53 y = -734 }
+				position = { x = 53 y = -1030 }
 				buttonFont = "aldrich_20_outline"
 				#Text = SGR_RND_Investbutton
 				pdx_tooltip = RND_investment_tt
 			}
 			instantTextboxType = {
 				name = "Budget_text"
-				position = { x = 45 y = -784 }
+				position = { x = 45 y = -1080 }
 				font = "aldrich_18_outline"
 				text = SGR_RND_Budget
 				format = center
@@ -811,7 +811,7 @@ guiTypes = {
 			}
 			instantTextboxType = {
 				name = "Budget_change_value"
-				position = { x = 45 y = -760 }
+				position = { x = 45 y = -1056 }
 				font = "aldrich_20_outline"
 				text = SGR_RND_Budget_Investment
 				format = center
@@ -821,7 +821,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "Training_title"
-				position = { x = 162 y = -803 }
+				position = { x = 162 y = -1099 }
 				font = "aldrich_20_outline"
 				text = SGR_RND_Trainingname
 				format = center
@@ -831,19 +831,19 @@ guiTypes = {
 			buttonType = {
 				name = "Recruit_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_recuit_button"
-				position = { x = 353 y = -798 }
+				position = { x = 353 y = -1094 }
 				buttonFont = "aldrich_20_outline"
 				#Text = SGR_RND_Recruit
 			}
 			iconType = {
 				name = "Expertise_bar"
 				spriteType = "GFX_SGR_RND_GUI_expertise_progress_bar"
-				position = { x = 189 y = -746 }
+				position = { x = 189 y = -1042 }
 				pdx_tooltip = RND_training_tt
 			}
 			instantTextboxType = {
 				name = "Expertise_title"
-				position = { x = 184 y = -769 }
+				position = { x = 184 y = -1065 }
 				font = "aldrich_16_outline"
 				text = SGR_RND_expertise_status
 				format = left
@@ -853,7 +853,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "RandD_title"
-				position = { x = 48 y = -683 }
+				position = { x = 48 y = -979 }
 				font = "aldrich_20_outline"
 				text = SGR_RND_RandDname
 				format = left
@@ -863,17 +863,17 @@ guiTypes = {
 			buttonType = {
 				name = "RD_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_RandD_button"
-				position = { x = 399 y = -678 }
+				position = { x = 399 y = -975 }
 				pdx_tooltip = RND_research_button_tt
 			}
 			iconType = {
 				name = "Research_bar"
 				spriteType = "GFX_SGR_RND_GUI_research_progress_bar"
-				position = { x = 53 y = -613 }
+				position = { x = 53 y = -909 }
 			}
 			instantTextboxType = {
 				name = "RandD_InProgress"
-				position = { x = 48 y = -639 }
+				position = { x = 48 y = -935 }
 				font = "aldrich_16_outline"
 				text = SGR_RND_Research
 				format = left
