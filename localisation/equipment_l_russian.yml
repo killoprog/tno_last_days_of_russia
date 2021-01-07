@@ -41,9 +41,9 @@ l_russian:
  ACTUAL_EQUIPMENT_ENTRY:0 " - $NUM|Y0$ of $NAME|Y$"
  ACTUAL_EQUIPMENT_ENTRY_PERCENT:0 " - $NUM|Y0%$ from their production of $NAME|Y$"
  REQUESTED_REINFORCEMENT_DELIVERING_TO:0 "\nDelivering to $UNIT|Y$ ($PROG|G%$):"
- REQUESTED_REINFORCEMENT_DELIVERING_TO_BLOCKED:1 "\nDelivering to $UNIT|Y$ ($PROG|G%$ §RBlocked: no supply from capital§! ):"
+ REQUESTED_REINFORCEMENT_DELIVERING_TO_BLOCKED:0 "\nDelivering to $UNIT|Y$ ($PROG|G%$ §RBlocked: no supply from capital§! ):"
  REQUESTED_REINFORCEMENT_DELIVERING_TO_ENTRY:0 "\n    $NUM|Y0$ of $EQ|Y$"
- REQUESTED_REINFORCEMENT_DELIVERING_TO_MORE_ENTRIES:1 "\nAnd $COUNT|H$ requests more..."
+ REQUESTED_REINFORCEMENT_DELIVERING_TO_MORE_ENTRIES:0 "\nAnd $COUNT|H$ requests more..."
  REQUESTED_REINFORCEMENT_HEADER:0 "Reinforcement requests:"
  UPGRADE_REINFORCEMENT_HEADER:0 "Upgrade requests:"
  TIMED_ACTIVITY_HEADER:0 "Activity request:"
@@ -286,7 +286,7 @@ l_russian:
   tank_at_upgrade_desc:0 "Ensure that our tank destroyers can defeat the latest enemy tanks."
 
   tank_art_upgrade:0 "Artillery Armament"
-  tank_art_upgrade_desc:1 "Ensure that our self propelled artillery have massive firepower that will tear through any unarmored enemies."
+  tank_art_upgrade_desc:0 "Ensure that our self propelled artillery have massive firepower that will tear through any unarmored enemies."
 
   tank_reliability_upgrade:0 "Reliability"
   tank_reliability_upgrade_desc:0 "Improving reliability leads to less broken down tanks you will need to replace."
@@ -600,11 +600,11 @@ l_russian:
 
    anti_air_equipment_3:0 "Advanced Anti-Air"
    anti_air_equipment_3_short:0 "Advanced Anti-Air"
-   anti_air_equipment_3_desc:1 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
+   anti_air_equipment_3_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
 
    anti_air_equipment_4:0 "Modern Anti-Air"
    anti_air_equipment_4_short:0 "Modern Anti-Air"
-   anti_air_equipment_4_desc:1 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
+   anti_air_equipment_4_desc:0 "The rapidly changing situation above the ground meant that anti-air guns needed to be able to move quickly from one place to another. Towed anti air made this possible."
   ## Normal ##
 
   ## Light Self-Propelled ##
