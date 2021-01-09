@@ -1040,6 +1040,61 @@
  MAG_the_world_beckons:0 "Мир манит"
  MAG_the_world_beckons_desc:0 "Благодаря нашим обещаниям, данным диаспоре, торговым сделкам, которые мы заключили с международным сообществом, и нашей адаптации стойкой антияпонской позиции в мировой политике, кажется, что впервые за долгое время глаза мира смотрят на Россию; и не просто Россия - наша Россия.\n\nНациональная республика прошла долгий путь от отчаянного существования, в котором мы жили всего несколько лет назад - мы уничтожили наших старых соперников, победили остатки Советского Союза, не говоря уже о том, чтобы победить сумасшедших культистов и их загадочного лидера. Теперь, когда мы зарекомендовали себя как внутри страны, так и на международном уровне, мир манит к Национальной республике - и мы без колебаний выступим вперед."
 
+ ### Matkovsky tree ###
+ MAG_the_vozhd_marches_on:0 "The Vozhd Marches On"
+ MAG_the_vozhd_marches_on_desc:0 "Siberia has finally been unified under the banner of Vozhd Mikhail Matkovsky. No more skulking in frozen wastes as lapdogs for the Japanese, no more petty squabbling amongst exiles for who bears the title of Kolchak's heir.\n\nWhile we had to remove some undesirable elements along the way it is all for the best of causes, the unity of the Motherland. The Russian National Labor Party stands united in their loyalty to the Vozhd."
+
+ MAG_altering_the_siberian_bill:0 "Altering the Siberian Bill"
+ MAG_altering_the_siberian_bill_desc:0 "Nikolay Petlin was a troublemaker of a sort that could not be tolerated in this cruel world, a reformist full of ideas but with no common sense. Naturally he had to be eliminated, but that is not to say he must be wiped from memory. Many of his plans had the seed of a good idea within them, one that must be cultivated by a more experienced statesman to bear fruit.\n\nThe Siberian Bill was one of Petlin's better ideas, a new foundation for a great and powerful Russia to be built on. A few alterations to the bill and it will become a powerful statement, both to our own citizens and to observers from across the Pacific."
+
+ MAG_immediate_universal_suffrage:0 "Immediate Universal Suffrage"
+ MAG_immediate_universal_suffrage_desc:0 "Russia must catch up with the nations of the West if it is to hope for their aid. The right to vote is something not seen here since the Novgorod Republic, and then only to the nobles.\n\nThe people will be truly grateful when we grant universal suffrage not only to men but to women as well, and it will most certainly put our name in the papers over in America as a true ally of democracy."
+
+ MAG_state_department_of_moral_decency:0 "State Department of Moral Decency"
+ MAG_state_department_of_moral_decency_desc:0 "Ideas are a dangerous thing, and they must be controlled if Russia is not to fall into darkness once again. The Bolsheviks tore up Russian morals at the roots, permitting decadence, destroying the traditional family structure and even encouraging deviance.\n\nThe State Department of Moral Decency will ensure that all publications uphold the standards of the Russian people, not to mention including only appropriate political views. It would be an awful shame for anyone to be led astray."
+
+ MAG_a_peace_preservation_law:0 "A Peace Preservation Law"
+ MAG_a_peace_preservation_law_desc:0 "Whilst our state moves forwards in leaps and bounds, we must not let ourselves become dizzy with success. The right vote in the wrong place could be disastrous to our newly formed state, so we must ensure that the votes go to the right men.\n\nThe Peace Preservation Law will give us the state the right to veto candidates from the electoral register for the purposes of national safety. The Russian National Labor Party firmly believes in the system of one man, one vote. You get one vote, and one man to vote for."
+
+ MAG_qualify_votes_and_districts:0 "Qualify Votes and Districts"
+ MAG_qualify_votes_and_districts_desc:0 "The Far East is a vast place, so the issue of voting districts is a serious one. These districts are a powerful tool to assert control over this sparsely populated land.\n\nNon-Russian elements like the Sakha, Buryats and Mongols have been a thorn in our side for a while and will no doubt take the chance to cause a fuss when elections reach them. To this end, we must adjust the districts to ensure they remain a minority in these areas."
+
+ MAG_the_ideological_quagmire:0 "The Ideological Quagmire"
+ MAG_the_ideological_quagmire_desc:0 "Central Siberia is a mess. Communist warlords, anarchist armies and mad kings have ruled the region for decades, resulting in a political situation that can generously be described as insane.\n\nIn order to return the region to normalcy we will send out agents of the State Intelligence Agency to better determine how the ideological situation of the area has stabilised. Once we know what the people truly believe we can correct it, or at least isolate them that their ideas do not truly take hold."
+
+ MAG_the_consciousness_of_law:0 "The Consciousness of Law"
+ MAG_the_consciousness_of_law_desc:0 "Sometimes, parents must keep things from their children. Does the parent then allow the child to run rampant, throwing a tantrum and causing trouble? Of course not. It is for this same reason that we must keep things from our people, and we must not allow them to kick up a fuss about it. The right to speak your mind is not a right, but a precious gift, one that we must only be used with our blessing.\n\nKeeping protestors off the street is for their own good, and preventing them from saying hurtful things is just good parenting."
+
+ MAG_integration_of_the_sibplan:0 "Integration of the SibPlan"
+ MAG_integration_of_the_sibplan_desc:0 "While Bukharin's Soviet Union was a disaster for both Russia and the world, there is a silver lining to every cloud. His neglect towards Russia as a whole is balanced by his Siberian Plan, a comprehensive redevelopment of Siberian industry and an upgrade to the Trans-Siberian railway, connecting the vast underdeveloped land like never before.\n\nWhilst we have completed our own infrastructure projects we have only recently pushed far West enough to truly integrate ourselves with this network."
+
+ MAG_politically_conscious_politically_convenient:0 "Politically Conscious, Politically Convenient"
+ MAG_politically_conscious_politically_convenient_desc:0 "Our efforts to perfect democracy have evidently paid off. The voting turnout has been impressively high in almost every district, with areas of low voting corresponding closely to areas with large non-Russian populations. The Russian National Labor Party has obtained an overwhelming majority in every district, due largely to there being no other available candidates.\n\nVozhd Mikhail Matkovsky has praised the Russian people for their newfound appreciation of democracy, and graciously accepted the mandate they have given him to continue his tenure as leader."
+
+ MAG_no_partisanship_no_problem:0 "No Partisanship, No Problem"
+ MAG_no_partisanship_no_problem_desc:0 "The Siberian National Republic has become a peaceful place with the institution of rational democracy. With no opposition to disturb the peace, there is no means for troublemakers to spread their destructive tendencies.\n\nThe sole means to electoral success is through the Russian National Labor Party, ensuring that anyone desiring votes must have their political views moderated by its cooling influence or find themselves struck from the ballot."
+
+ MAG_keeping_up_appearances:0 "Keeping Up Appearances"
+ MAG_keeping_up_appearances_desc:0 "Maintaining cordial relations with the Organisation of Free Nations has been one of the central parts of our strategy. Whilst once we were but one of many warlords begging for their attention, now we hold dominance over one of the largest countries on the planet, and we cannot be ignored.\n\nThat we may one day be recognised as the sole legitimate Russian government, we must dedicate funds to establishing embassies in the nations of the OFN. The Americans will find it impossible not to give us their vote of confidence considering the other powers in Russia."
+
+ MAG_a_reliable_partner:0 "A Reliable Partner"
+ MAG_a_reliable_partner_desc:0 "Sure, the Siberian National Republic has its quirks, but it is in a deeply unique position. Certainly, there is less freedom of speech here than in America, but what country can't say that? Indeed, ethnic minorities may have a less than desirable position, but that is true of the USA as well. And yes, the Vozhd may be closer to a dictator than to a president, but he is a benevolent dictator, a true Cincinnatus.\n\nWe may be flawed, but above all we are reliable. We desire nothing more than to be a true good neighbour, and will go to any lengths to prove that to our American brothers."
+
+ MAG_with_us_or_against_us:0 "With Us or Against Us"
+ MAG_with_us_or_against_us_desc:0 "While we want nothing more to be a good neighbour and to establish a good working relationship with our allies, we will not be pushed around. We aren't some petty warlord state anymore, but a true nation, with vast resources, a mighty army, and national pride. While we may work with foreigners we certainly do not rely on them, and we are more than willing to walk away from the negotiating table if we are being fleeced - so they'd better learn to work with us."
+
+ MAG_sensible_concessions:0 "Sensible Concessions"
+ MAG_sensible_concessions_desc:0 "The OFN always have their demands for some minor thing or another, and whilst it may be against our immediate interests at home it behooves us to succumb to their pushes every once in a while. There is no sense letting them dictate the pace of our reforms entirely however - this is why we have a list.\n\nIndeed a portion of our time is spent searching for reforms we don't particularly care about that we can throw at the OFN as a paper shield. If we make enough small changes they won't bother to demand any big ones, and we can appear to be the progressive New Russia.\n\nAll for a good cause."
+
+ MAG_protecting_corporate_interests:0 "Protecting Corporate Interests"
+ MAG_protecting_corporate_interests_desc:0 "Business is the lifeblood of the state, and we must do all we can to ensure business goes smoothly. The vast lands of Siberia and the Far East are painfully underexploited due to their vast size and small population, so we must do all we can to smooth the path towards profit. The easier it is to do business here the more businessmen we will attract, and the more businesses that become embedded here the further we ingratiate ourselves with the OFN.\n\nTo attract business we must ensure that the rights of the people do not come before their own interests."
+
+ MAG_an_army_to_be_proud_of:0 "An Army to be Proud Of"
+ MAG_an_army_to_be_proud_of_desc:0 "Our army has come far. Once we were little more than gangsters enforcing our will onto the streets of Harbin, then paramilitary thugs doing the same in Magadan. We have had to adapt to survive, first innovating in the small unit tactics that allowed us to take towns and villages, then being forced to develop our own division level strategies when conflict arose with Rodzaevsky's dogs.\n\nUnity in the East was only the beginning though, for when we marched West we had to adapt to full-scale war on a massive front. In but a single decade we have developed an army almost on par with that of the West.\n\nAll it takes is a bit of polishing before we are ready for the final reclamation."
+
+ MAG_the_struggle_for_the_national_russia:0 "The Struggle for the National Russia"
+ MAG_the_struggle_for_the_national_russia_desc:0 "The way has been long and hard, but after all this time the Vozhd has solidified his grip on the National Republic. From a dream in the slums of Harbin to a reality of one of the largest nations on Earth, we are only a step away from the total reunification of Russia, from undoing the last twenty years of humiliation.\n\nAll that remains is to prepare ourselves for the final struggle."
+ 
  #####################################
  ##=====| Superregional Trees |=====##
  #####################################
