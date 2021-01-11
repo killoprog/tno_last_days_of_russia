@@ -4,7 +4,7 @@
  
  APF_CZECH_burgundian_system:0 "Протекторат Богемии и Моравии"
  APF_CZECH_burgundian_system_DEF:0 "Протекторат Богемии и Моравии"
- APF_CZECH_burgundian_system_ADJ:0 "Богемкс."
+ APF_CZECH_burgundian_system_ADJ:0 "Богемск."
  
  IRA_COALITION_communist:0 "Социалистическая Федерация Ирана"
  IRA_COALITION_communist_DEF:0 "Социалистическая Федерация Ирана"
@@ -138,8 +138,8 @@
  HOL_GER_autonomy_integrated_puppet:0 "Рейхскомиссариат Нидерланды"
  HOL_GER_autonomy_dominion_DEF:0 "Рейхскомиссариат Нидерланды"
  HOL_GER_autonomy_colony_DEF:0 "Рейхскомиссариат Нидерланды"
- HOL_GER_autonomy_puppet_DEF:0 "The Рейхскомиссариат Нидерланды"
- HOL_GER_autonomy_integrated_puppet_DEF:0 "The Рейхскомиссариат Нидерланды"
+ HOL_GER_autonomy_puppet_DEF:0 "Рейхскомиссариат Нидерланды"
+ HOL_GER_autonomy_integrated_puppet_DEF:0 "Рейхскомиссариат Нидерланды"
 
  ZIM_GER_autonomy_dominion:0 "Миттельафрика"
  ZIM_GER_autonomy_colony:0 "Рейхсланд Миттельафрика"
@@ -368,7 +368,7 @@
  SGR_authdem2_national_socialism:0 "Великогерманский Рейх"
  SGR_authdem2_national_socialism_DEF:0 "Великогерманский Рейх немецкой нации"
  SGR_authdem2_national_socialism_ADJ:0 "Германск."
- SGR_authdem2_fascism:0 ""Великогерманский Рейх"
+ SGR_authdem2_fascism:0 "Великогерманский Рейх"
  SGR_authdem2_fascism_DEF:0 "Великогерманский Рейх Немецкой Нации"
  SGR_authdem2_social_liberal:0 "Германский Рейх"
  SGR_authdem2_social_liberal_DEF:0 "Германский Рейх"
@@ -376,7 +376,7 @@
  SGR_authdem2_market_liberal_DEF:0 "Германский Рейх"
  SGR_authdem2_social_conservative:0 "Германский Рейх"
  SGR_authdem2_social_conservative_DEF:0 "Германский Рейх"
- SGR_authdem2_authoritarian_democrat:0 "Великогерманский Рейх
+ SGR_authdem2_authoritarian_democrat:0 "Великогерманский Рейх"
  SGR_authdem2_authoritarian_democrat_DEF:0 "Великогерманский Рейх немецкой нации"
  SGR_authdem2_despotism:0 "Германский Рейх"
  SGR_authdem2_despotism_DEF:0 "Германский Рейх"
@@ -386,16 +386,16 @@
  SGR_authdem2_socialist_DEF:0 "Социалистическая Республика Германия"
  SGR_authdem2_social_democrat:0 "Германский Рейх"
  SGR_authdem2_social_democrat_DEF:0 "Германский Рейх"
- SGR_authdem2_social_democrat_ADJ:0 "Германия"
- SGR_authdem2_fascism_ADJ:0 "Германия"
- SGR_authdem2_social_liberal_ADJ:0 "Германия"
- SGR_authdem2_market_liberal_ADJ:0 "Германия"
- SGR_authdem2_social_conservative_ADJ:0 "Германия"
- SGR_authdem2_authoritarian_democrat_ADJ:0 "Германия"
- SGR_authdem2_despotism_ADJ:0 "Германия"
- SGR_authdem2_communist_ADJ:0 "Германия"
- SGR_authdem2_radical_socialist_ADJ:0 "Германия"
- SGR_authdem2_socialist_ADJ:0 "Германия"
+ SGR_authdem2_social_democrat_ADJ:0 "Германск"
+ SGR_authdem2_fascism_ADJ:0 "Германск"
+ SGR_authdem2_social_liberal_ADJ:0 "Германск"
+ SGR_authdem2_market_liberal_ADJ:0 "Германск"
+ SGR_authdem2_social_conservative_ADJ:0 "Германск"
+ SGR_authdem2_authoritarian_democrat_ADJ:0 "Германск"
+ SGR_authdem2_despotism_ADJ:0 "Германск"
+ SGR_authdem2_communist_ADJ:0 "Германск"
+ SGR_authdem2_radical_socialist_ADJ:0 "Германск"
+ SGR_authdem2_socialist_ADJ:0 "Германск"
 
  SGR_authdem1_national_socialism:0 "Великогерманский Рейх"
  SGR_authdem1_national_socialism_DEF:0 "Великогерманский Рейх немецкой нации"
@@ -754,7 +754,7 @@
 
  RK_Italy_national_socialism:0 "Итальянская Социальная Республика"
  RK_Italy_national_socialism_DEF:0 "Итальянская Социальная Республика"
- RK_Italy_national_socialism_ADJ:0 "Italian"
+ RK_Italy_national_socialism_ADJ:0 "Итальянск."
  RK_Italy_fascism:0 "Итальянская Социальная Республика"
  RK_Italy_fascism_DEF:0 "Итальянская Социальная Республика"
  RK_Italy_fascism_ADJ:0 "Итальянск."
@@ -2422,15 +2422,15 @@
  
  #SPEER MOSKOWIEN COSMETIC TAGS#
  MCW_SGR_national_socialism:0 "Военный округ Россия"
- MCW_SGR_national_socialism_ADJ:0 "Военный округ Россия"
+ MCW_SGR_national_socialism_ADJ:0 "Российск."
  MCW_SGR_national_socialism_DEF:0 "Военный округ Россия"
  MCW_SGR_authoritarian_democrat:0 "Военный округ Россия"
- MCW_SGR_authoritarian_democrat_ADJ:0 "Военный округ Россия"
+ MCW_SGR_authoritarian_democrat_ADJ:0 "Российск."
  MCW_SGR_authoritarian_democrat_DEF:0 "Военный округ Россия"
  MCW_SGR_fascism:0 "Военный округ Россия"
  MCW_SGR_fascism_DEF:0 "Военный округ Россия" 
- MCW_SGR_ultranational_socialism:0 "Военный округ Россия"
- MCW_SGR_ultranational_socialism_DEF:0 "Военный округ Россия"
+ MCW_SGR_ultranational_socialism:0 "Военный округ Руссланд"
+ MCW_SGR_ultranational_socialism_DEF:0 "Военный округ Руссланд"
  MCW_SGR_despotism:0 "Совместная комиссия по делам России"
  MCW_SGR_despotism_DEF:0 "Совместная комиссия по делам России"
  
@@ -2445,7 +2445,7 @@
  
  #SPEER KAUKASIA
  SGR_AZR_industry_UKR_speer_prov_government_fascism:0 "Бакинский Административный Округ" 
- SGR_AZR_industry_UKR_speer_prov_government_fascism_ADJ:0 "Бакинский Административный Округ"
+ SGR_AZR_industry_UKR_speer_prov_government_fascism_ADJ:0 "Кавказск."
  SGR_AZR_industry_UKR_speer_prov_government_fascism_DEF:0 "Бакинский Административный Округ"
 
  #SPEER OSTLAND
@@ -2461,11 +2461,11 @@
  #Bormann Moskowien provisional military authority
  MCW_BOR:0 "Военная Администрация Московии"
  MCW_BOR_DEF:0 "Военная Администрация Московии"
- MCW_BOR_ADJ:0 "Московийск."
+ MCW_BOR_ADJ:0 "Московск."
 
  #Bormann Moskowien Russian protectorate
- MOS_BOR:0 "Рейхспротекторат Русланд"
- MOS_BOR_DEF:0 "Рейхспротекторат Русланд"
+ MOS_BOR:0 "Рейхспротекторат Руссланд"
+ MOS_BOR_DEF:0 "Рейхспротекторат Руссланд"
  MOS_BOR_ADJ:0 "Российск."
 
  #Bormann Kaukasien provisional military authority
