@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  ### Country Names ###
  KHA_communist:0 "Сибирская Черная Армия"
  KHA_communist_DEF:0 "Сибирская Черная Армия"
@@ -89,7 +89,7 @@ l_russian:
  KHA_integrating_novosibirsk:0 "Интеграция Новосибирска"
  KHA_integrating_oyrotia:0 "Интеграция Ойротии"
  KHA_restoring_order:0 "Умиротворение Свободной Территории"
- KHA_provisional_resource_council: "Временный Ресурсный Совет"
+ KHA_provisional_resource_council:0 "Временный Ресурсный Совет"
  KHA_guardians_of_the_revolution:0 "Стражи революции"
  KHA_army_for_liberation:0 "Армия для освобождения"
  KHA_army_for_defense:0 "Армия для самообороны"
@@ -122,7 +122,7 @@ l_russian:
  KHA_the_original_anarchist:0 "Настоящий анархист"
  KHA_the_represented_army:0 "Репрезентируемая армия"
  KHA_military_anarchism:0 "Военный анархизм"
- KHA_paying_off_kilchichakov:0 "Расплата с Кильчичаковым
+ KHA_paying_off_kilchichakov:0 "Расплата с Кильчичаковым"
  KHA_the_next_generation_of_freedom_fighters:0 "Следующее поколение борцов за свободу"
  KHA_built_for_war:0 "Построен для войны"
  KHA_fight_smarter_not_harder_1:0 "Бей умнее, а не сильнее"
@@ -1206,7 +1206,7 @@ l_russian:
  
  KHA_power_struggle_category:0 "§eГенеральная Ассамблея§!"
  KHA_power_struggle_category_desc:0 "Коммуны Свободной Территории образуют '§eГенеральную Ассамблею§!', де-факто законодательный орган нашего славного общества. Здесь могут быть услышать жалобы и предложения коммун и приняты коллективные решения на благо всех свободных людей мира. Естественно, мы свободны от коррумпированных делишек и ока за око буржуазных 'демократий', и любое проявление таковых есть всего лишь неверное толкование анархистских методов."
- KHA_good_bad_effect_note_tt: "§YИмеет положительный эффект в случае успеха и отрицательный эффект в случае неудачи§!"
+ KHA_good_bad_effect_note_tt:0 "§YИмеет положительный эффект в случае успеха и отрицательный эффект в случае неудачи§!"
  KHA_debate_ongoing:0 "Дискуссия продолжается"
  KHA_has_council_bonus:0 "Предложение реализуется"
  KHA_infrastructure_debate_libsoc:0 "Расширить Гражданскую Инфраструктуру"
