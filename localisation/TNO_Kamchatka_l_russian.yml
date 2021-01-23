@@ -5,7 +5,7 @@
  KMC_social_liberal:0 "Камчатка"
  KMC_social_liberal_DEF:0 "Тихоокеанский флот"
  KMC_market_liberal:0 "Камчатка"
- KMC_market_liberal_DEF:0 "Тихоокеанский флот"
+ KMC_market_liberal_DEF:0 "Пираты Тихого океана"
  KMC_social_conservative:0 "Камчатка"
  KMC_social_conservative_DEF:0 "Тихоокеанский флот"
  KMC_authoritarian_democrat:0 "Камчатка"
@@ -18,15 +18,15 @@
  KMC_socialist_DEF:0 "Тихоокеанский флот"
  KMC_ultranational_socialism:0 "Камчатка"
  KMC_ultranational_socialism_DEF:0 "Тихоокеанский флот"
- KMC_fascism_ADJ:0 "камчатск"
- KMC_market_liberal_ADJ:0 "камчатск"
- KMC_social_liberal_ADJ:0 "камчатск"
- KMC_social_conservative_ADJ:0 "камчатск"
- KMC_authoritarian_democrat_ADJ:0 "камчатск"
- KMC_communist_ADJ:0 "камчатск"
- KMC_despotism_ADJ:0 "камчатск"
- KMC_socialist_ADJ:0 "камчатск"
- KMC_ultranational_socialism_ADJ:0 "камчатск"
+ KMC_fascism_ADJ:0 "камчатск."
+ KMC_market_liberal_ADJ:0 "камчатск."
+ KMC_social_liberal_ADJ:0 "камчатск."
+ KMC_social_conservative_ADJ:0 "камчатск."
+ KMC_authoritarian_democrat_ADJ:0 "камчатск."
+ KMC_communist_ADJ:0 "камчатск."
+ KMC_despotism_ADJ:0 "камчатск."
+ KMC_socialist_ADJ:0 "камчатск."
+ KMC_ultranational_socialism_ADJ:0 "камчатск."
 
  ### Parties ###
  KMC_communist_party:0 "ВКП(б)"
@@ -51,20 +51,20 @@
  KMC_ultranational_socialism_party_long:0 "Российская Фашистская Партия"
  
  ### Leader Bios ###
- POLITICS_IVAN_YUMASHEV_DESC:0 "Адмирал Иван Степанович Юмашев has spent several decades in the Red Navy, even though the country he once sailed for no longer exists. The seas he has sailed span from the Baltic to the Okhotsk, but these days he mostly finds himself staring at the Bering. He spent the entirety of the Great Patriotic War commanding the Pacific Fleet, patrolling the waters and occasionally getting into skirmishes with Japanese vessels. He heard of the news of the Union's defeat when he was stationed in Vladivostok, and quickly sprang into action and removed the fleet from the harbor before the Japanese jackals could arrive.\n\nWhen the dust settled, Admiral Yumashev and his officers pledged their loyalty to the regime of Yagoda, who helped them find them a temporary job. As the reactionaries pushed forward, the navy forces of Yumashev had to find another home, far away from the besieged forts of Priamurye. The city of Petropavlovsk-Kamchatsky had been abandoned by the Soviet government and most of its residents, and little infrastructure remained here aside from a few villages. The shores of Kamchatka became the Red Navy's landed headquarters, and the small fishing town was converted into a makeshift naval base.\n\nFar away from the civilization, the Far Eastern Red Navy has done nothing but chip ice off the sides of their ships, impotently watching as the region fell into chaos and infighting. Without any reasonable way to obtain supplies and fuel, the sailors started to earn their living through piracy and smuggling across the Pacific, becoming an additional obstacle for Japan and the US in their competition in the ocean. It can be said that Admiral Yumashev isn't fond of what his men were turned into - but it also can be assured that he will not deprive his men from their only viable way of living on the edge of the Earth."
+ POLITICS_IVAN_YUMASHEV_DESC:0 "Адмирал Иван Степанович Юмашев десятилетия служил в Красном флоте, даже когда его флот мог и не называться Красным. Он был во сех окружающих Советский Союз морях, но теперь он осел на берегах Дальнего Востока, наблюдая виды Берингова моря. В период Великой Отечественной Юмашев командовал Тихоокеанским флотом, патрулируя прибрежные воды и иногда перестреливаясь с японскими лодками. Находясь во Владивостоке, он услышал весть о падении Москвы, что стало началом распада Союза. Решив не терять времени, он перегруппировал свой флот и увёл его на север, чтобы избежать большого боя с японцами.\n\nКогда ситуация чуть прояснилась адмирал Юмашев и его офицеры дали присягу правительству Генриха Ягоды, который определил их на службу. Когда харбинские реакционеры начали полномасштабную атаку на Дальний Восток, флот Юмашева должен был снова перебазироваться, оставив осаждённые порты Приамурья. Советское правительство давно оставило город Петропавловск-Камчатский без попечения, местных жителей мало, а инфраструктура находится в очень плохом состоянии. Но именно этот зиждящийся на одном рыболовстве город стал новой базой Красного флота.\n\nПростаивая вдалеке от цивилизации, Дальневосточный Красный флот только лишь счищал лёд с корпуса своих кораблей, не вмешиваясь в никакие конфликты в регионе. Вскоре флот остался без всякой поставки продовольствия и топлива, поэтому морякам пришлось добывать всё что нужно для выживания через пиратство и похищения по всему Тихому океану, став для Японии и США большой помехой для торговли. Можно сказать, что сам адмирал Юмашев не доволен тем, в кого превратились некогда гордые моряки Красного флота, но точно известно одно - он точно не лишит своих людей единственного пути их выживания на этом краю Земли."
 
  ### Ministers ###
  KMC_Ivan_Yumashev_hog:0 "Иван Юмашев"
- KMC_Emil_Spirodnov_for:0 "Эмиль Спиридонов
+ KMC_Emil_Spirodnov_for:0 "Эмиль Спиридонов"
  KMC_Nikolay_Smirnov_eco:0 "Николай Смирнов"
  KMC_Pavel_Kolesnik_sec:0 "Павел Колесник"
  
  ### Ideas ###
  KMC_sailor_state:0 "Государство моряков"
- KMC_sailor_state_desc:0 "Amongst the Russian warlords, our statelet is unconventional in that our core is not a remnant of the Red Army, but rather a remnant of the Red Navy. While this does limit our range of options due to being based in the icy Far East, our treacherous land does its job of defending us quite well, allowing us to focus on our only true avenue of freedom."
+ KMC_sailor_state_desc:0 "Ото всех остальных военных клик по всей России наша отличается в том смысле, что наше ядро - это остатки не Красной Армии, а Красного Флота. Несколько ограничивает наши возможности то, что мы базируемся на ледяном Дальнем Востоке, но эта неприветливая земля как бы защищает нас, причём очень хорошо, позволяя нам сосредоточиться на нашем единственном пути обретения свободы."
  KMC_raiders_of_the_north_sea:0 "Пираты Тихого океана"
- KMC_raiders_of_the_north_sea_desc:0 "With the mutineers defeated and Golovko's power safe for now, we can truly begin to put our fleet to use as a raiding fleet. Piracy may seem like something beneath our dignity as sailors, but it is profitable, and God only knows that anything of value is hard to find in this wasteland."
+ KMC_raiders_of_the_north_sea_desc:0 "Теперь, когда мятежники побеждены, а власть Головко в безопасности, мы действительно можем начать использовать наш флот в качестве рейдового флота. Пиратство может показаться чем-то ниже нашего достоинства как моряков, но оно прибыльно, и только Бог знает, что именно в этой пустоши есть что-либо ценное для нас."
  KMC_red_navy:0 "Красный флот"
- KMC_red_navy_desc:0 "Golovko is no more, and Kasatonov has reaffirmed the Northern Fleet's commitment to the Great Proletarian Revolution. Any Communist remnants in the area can expect a powerful ally, if not outright the service of the Fleet itself, but traitors to the Revolution will know only the wrath of the Red Fleet's guns."
+ KMC_red_navy_desc:0 "Головко больше нет, а Касатонов подтвердил приверженность Северного флота Великой пролетарской революции. Любые приверженцы коммунизма в этом районе могут рассчитывать на мощного союзника в виде Красного Тихоокеанского флота, а предатели Революции познают лишь гнев орудий со стороны моря."
  KMC_free_men_on_the_sea:0 "Свободные морские волки"
- KMC_free_men_on_the_sea_desc:0 "Piracy and dogmatism are both false paths, and our new commander, Drozd, acknowledges that. We have an unique chance to cast down the flaws of both Union and Pirate, and build a true beacon of freedom in this forsaken wasteland."
+ KMC_free_men_on_the_sea_desc:0 "Пиратство и догматизм - оба ложные пути, и наш новый командир, Дрозд, признает это. Нам предоставлен уникальный шанс отбросить невозможный путь коммунизма, так и проблематичный путь пиратства, и построить настоящий маяк свободы в этой заброшенной пустоши."
