@@ -768,7 +768,7 @@
  ARMOUR_TITLE_MBT:0 "Основной боевой танк"
 
  ### APC ###
-  # See 'equipment_l_english.yml' for equipment loc
+  # See 'equipment_l_russian.yml' for equipment loc
 
   ## Improvements - Armor ##
     
@@ -846,7 +846,7 @@
  ### APC ###
 
  ### IFV ###
-  # See 'equipment_l_english.yml' for equipment loc
+  # See 'equipment_l_russian.yml' for equipment loc
 
   ## Improvements - Armor ##
    # 1950
@@ -918,7 +918,7 @@
  ### IFV ###
 
  ### MBT ###
-  # See 'equipment_l_english.yml' for equipment loc
+  # See 'equipment_l_russian.yml' for equipment loc
 
   ## Improvements - Armor ##
    # 1950
@@ -1624,12 +1624,12 @@
 #### LAND DOCTRINE FOLDER ####
 
 ##### NAVY FOLDER GROUP #####
-# See `equip_naval_l_english.yml` for generic equipment loc
+# See `equip_naval_l_russian.yml` for generic equipment loc
 
 #### NAVAL FOLDER ####
  # NOTE:
- # - See 'equip_naval_l_english.yml' for generic equipment loc
- # - And 'ship_modules_l_english.yml' for module loc
+ # - See 'equip_naval_l_russian.yml' for generic equipment loc
+ # - And 'ship_modules_l_russian.yml' for module loc
  # - Man the Guns causes me pain :^(
  # - Good dlc tho
 
@@ -1660,8 +1660,8 @@
  ### MtG ###
   ## Corvettes ##
    # Main Line (Equipment, Module)
-   # - See 'equip_naval_l_english.yml' for equipment loc
-   # - And 'ship_modules_l_english.yml' for module loc
+   # - See 'equip_naval_l_russian.yml' for equipment loc
+   # - And 'ship_modules_l_russian.yml' for module loc
    #> early_ship_hull_very_light:0 "WW2 Corvette Hull"
    #> basic_ship_hull_very_light:0 "1950 Corvette Hull"
    #> improved_ship_hull_very_light:0 "1960 Corvette Hull"
@@ -1672,8 +1672,8 @@
 
   ## Frigates ##
    # Main Line (Equipment, Module)
-   # - See 'equip_naval_l_english.yml' for equipment loc
-   # - And 'ship_modules_l_english.yml' for module loc
+   # - See 'equip_naval_l_russian.yml' for equipment loc
+   # - And 'ship_modules_l_russian.yml' for module loc
    #> early_ship_hull_more_light:0 "WW2 Frigate Hull"
    #> basic_ship_hull_more_light:0 "1950 Frigate Hull"
    #> improved_ship_hull_more_light:0 "1960 Frigate Hull"
@@ -1684,8 +1684,8 @@
 
   ## Destroyers ##
    # Main Line (Equipment, Module)
-   # - See 'equip_naval_l_english.yml' for equipment loc
-   # - And 'ship_modules_l_english.yml' for module loc
+   # - See 'equip_naval_l_russian.yml' for equipment loc
+   # - And 'ship_modules_l_russian.yml' for module loc
    #> early_ship_hull_light:0 "WW2 Destroyer Hull"
    #> basic_ship_hull_light:0 "1950 Destroyer Hull"
    #> improved_ship_hull_light:0 "1960 Destroyer Hull"
@@ -1728,8 +1728,8 @@
 
   ## Cruisers ##
    # Main Line (Equipment, Module)
-   # - See 'equip_naval_l_english.yml' for equipment loc
-   # - And 'ship_modules_l_english.yml' for module loc
+   # - See 'equip_naval_l_russian.yml' for equipment loc
+   # - And 'ship_modules_l_russian.yml' for module loc
    #> early_ship_hull_cruiser:0 "WW2 Cruiser Hull"
    #> basic_ship_hull_cruiser:0 "1950 Cruiser Hull"
    #> improved_ship_hull_cruiser:0 "1960 Cruiser Hull"
@@ -1761,8 +1761,8 @@
  
   ## Battleship ##
    # Main Line (Equipment, Module)
-   # - See 'equip_naval_l_english.yml' for equipment loc
-   # - And 'ship_modules_l_english.yml' for module loc
+   # - See 'equip_naval_l_russian.yml' for equipment loc
+   # - And 'ship_modules_l_russian.yml' for module loc
    #> early_ship_hull_battleship:0 "WW2 Battleship Hull"
    #> basic_ship_hull_battleship:0 "1950 Battleship Hull"
    #> improved_ship_hull_battleship:0 "1960 Battleship Hull"
@@ -1788,8 +1788,8 @@
  
   ## Carriers ##
    # Main Line (Equipment, Module)
-   # - See 'equip_naval_l_english.yml' for equipment loc
-   # - And 'ship_modules_l_english.yml' for module loc
+   # - See 'equip_naval_l_russian.yml' for equipment loc
+   # - And 'ship_modules_l_russian.yml' for module loc
    #> early_ship_hull_carrier:0 "WW2 Carrier Hull"
    #> basic_ship_hull_carrier:0 "1950 Carrier Hull"
    #> improved_ship_hull_carrier:0 "1960 Carrier Hull"
@@ -1810,8 +1810,8 @@
  
   ## Submarines ##
    # Main Line (Equipment, Module)
-   # - See 'equip_naval_l_english.yml' for equipment loc
-   # - And 'ship_modules_l_english.yml' for module loc
+   # - See 'equip_naval_l_russian.yml' for equipment loc
+   # - And 'ship_modules_l_russian.yml' for module loc
    #> early_ship_hull_submarine:0 "WW2 Attack Submarine Hull"
    #> basic_ship_hull_submarine:0 "1950 Attack Submarine Hull"
    #> improved_ship_hull_submarine:0 "1960 Attack Submarine Hull"
@@ -2133,7 +2133,7 @@
 
 
 ##### AIR FOLDER GROUP #####
-# See `equip_air_l_english.yml` for generic equipment loc
+# See `equip_air_l_russian.yml` for generic equipment loc
 
 #### HELICOPTER FOLDER ####
  helicopter_techs_folder:0 "Вертолёт"
