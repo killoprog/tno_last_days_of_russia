@@ -1,7 +1,7 @@
 ﻿l_russian:
- Provisorische_Militarregierung:0 "Provisorische Militärregierung"
- SGR_speidels_germany_fascism:0 "Speidels Germany"
- SGR_speidels_germany_fascism_DEF:0 "Speidels Germany"
+ Provisorische_Militarregierung:0 "Временное военное правительство"
+ SGR_speidels_germany_fascism:0 "Германия Шпайделя"
+ SGR_speidels_germany_fascism_DEF:0 "Германия Шпайделя"
 ### Events ###
 
  spiedel.1.t:0 "speidal.1"
