@@ -1,4 +1,4 @@
-version="0.0.1"
+version="0.0.2"
 tags={
 	"Translation"
 }
@@ -8,5 +8,4 @@ dependencies={
 	"The New Order: Last Days of Europe"
 }
 supported_version="1.10.*"
-path="mod/tno_last_days_of_russia"
 remote_file_id="2351077206"
