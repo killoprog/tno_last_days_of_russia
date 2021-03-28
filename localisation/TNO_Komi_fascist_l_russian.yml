@@ -299,6 +299,10 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_burgsys_black_wings_above:0 "Чёрные крылья над головой"
  NIK_burgsys_breaking_the_waves:0 "Прорывая волны"
 
+ NIK_clockworks_appeal_to_the_church:0 "Appeal to the church"
+ NIK_the_end_is_near:0 "§RThe Reckoning§!"
+ NIK_the_end_is_near_desc:0 "§RHis eyes shall see his own destruction, and he shall drink of the wrath of the Almighty.§!"
+
  NIK_burgsys_grand_regency_desc:0 "Мы, законное Регентство Святой Руси, наконец-то восстали из пепла. Наши враги окружают нас, но мы идём благословенным путем. Все глубинки Западной России были объединены во имя Бога, Царя и Отечества. Империя взойдёт из своей могилы, как это сделал Лазарь.\n\nТем не менее, остаётся ещё очень многое сделать. Фундамент нашей родины разрушен гнилью, распространившейся благодаря нечестивым большевикам, евреям и космополитам. Наш очищающий огонь сожжёт эти нечистоты и освободит место для Его Императорского Величества, прежде чем будет потеряна всякая надежда на восстановление бывшей славы России."
  NIK_burgsys_uplift_the_system_desc:0 "Благословение пришло в этот мир, сокрытое в чёрном облике национал-социализма. Эта система, опирающаяся на абсолютную и неоспоримую диктаторскую власть, лучше всего проявилась в немецкой колонии на территории Кавказа. Конечно, эти земли по праву принадлежат России, но рейхскомиссар Йоазис превратил их в нечто поистине великолепное: государство, где недочеловеки систематически притесняются и уничтожаются в пользу чистейшей расы.\n\nКакое гениальное творение! Безусловно, сам Бог руководит Йоазисом, указывая нам верный путь к возвращению славы России. Правильное применение этой 'Бургундской системы', некоторые элементы которой будут изменены в соответствии наших нужд, сделает власть Регента и Цесаревича непоколебимой. В то же время это позволит нам вымыть Россию от всех нечистых наций, навсегда увековечив её правление за истинной расой сверх-людей!"
  NIK_burgsys_reform_the_okhrana_desc:0 "Мы втянуты в вечную борьбу с силами, слишком страшными для понимания благочестивых людей. Мир с каждым днём всё глубже и глубже погружается в грязь вырождения. Только лишь действия немногих храбрых людей - таких, как Регент - удерживают его от поглощения тьмой.\n\nНо регент не может нести это бремя в одиночку. Ему нужны хорошие, верные слуги - надёжные люди, чистые сердцем и душой. Следуя провидению Бургундской системы, только легион таких людей, подкреплённый железной волей Регента, способен поддерживать порядок. Охранка, воскресшая из мёртвых, станет для России прочным оплотом против любого зла."
@@ -589,6 +593,7 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_natsoc_of_darkest_africa_desc:0 "Из всех стран и народов на этой земле никто больше не страдал, чем африканцы. Будь то северная Африка сегодня под фашистским сапогом Италии и Иберии или Африка к югу от Сахары, которая была под империалистическим, колониалистским сапогом различных империй Европы в течение сотен лет, народы не знали ничего, кроме боли и страданий. Наверняка среди них есть мужчины и женщины, которые готовы бороться за свою свободу и независимость. Наши агенты в Африке сказали нам, что такие люди есть, и всё, что нам нужно сделать, это предоставить им помощь. Эти колонии, эти бастионы сверхдержавного империализма больше терпеть нельзя."
  
  ### Региональное древо Гумилёва ###
+ NIK_ultnat_ideocracy:0 "Идеократия"
  NIK_ultnat_ideocracy_desc:0 "Ядром евразийского проекта должен способ управления им же. Евразия отличается от любой другой страны, которая ей предшествовала, и потребует очень специфической структуры для правильного функционирования.\n\nЕй станет идеократия: социально-политическая структура, которая ставит поддержку евразийской идеологии во главе всей политики. Остальные заботы второстепенны, поскольку на данном этапе развития Евразии мало что может захватить."
  
  NIK_ultnat_framework_of_the_grand_design:0 "Рамки великого замысла"
@@ -999,19 +1004,33 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_eurasian_dream_category:0 "§OЕвразийская мечта§!"
  NIK_eurasian_dream_category_desc:0 "Несмотря на закрепление нашего правительства над всей Западной Россией, большинство населения не знает о наших планах. Они слепы к славному прошлому, когда §WРоссия§! была сердцем §OЕвразии§!, и поэтому мы заставим их открыть глаза. На двух континентах разбросаны остатки империй, города, погребённые под слоями истории, невидимые достопримечательности и неслыханные воспоминания. Необходимо, чтобы наше государство отослало экспедиции в эти места силы, набирая сторонников среди элит. Мы уже стали ближе к тому, что единая §OЕвразия§! станет явью, а не сном.\n\n§OЛегитимность§! нашей §OЕвразийской идеи§! составляет §Y[?NIKEurasiaLegitimacy]§!. §OЛегитимность§! будет падать на §Y5§! очков каждый месяц."
  NIK_project_steppe_sun:0 "Проект §yСтепное солнце§!"
+ NIK_project_steppe_sun_desc:0 "Our Southern Kazakh neighbors guard artifacts unseen by the rest of the world. Taking the opportunity of chaos, we should organize a military expedition into the shattered steppes, while also showing the world what the Eurasian National Army is capable of."
  NIK_project_agartha:0 "Проект §lАгарта§!"
+ NIK_project_agartha_desc:0 "The mystic lands of Tibet are home to many lost treasures. From mountaintop monasteries where ancient monks guard relics of ages past, to the valleys and villages that hold the answers for generations. An archeological team will need to be assembled, led by one Dmitry Ivanov, a former soldier and scientist. Gaining access to Tibet itself will be difficult, but the country is so starved for development that obtaining permissions shouldn't be difficult. Eurasia, originating in Mongolian steppes, has roots in the Himalayas."
  NIK_project_like_father:0 "Проект §GКак отец§!"
+ NIK_project_like_father_desc:0 "The long dead Timur the Great had once passed through Iran. His lasting legacy there is of prosperity and glory, the very pillars which Eurasia upholds. We need to send foreign dignitaries to the Shah and attain permission to excavate his land, but do so covertly enough that, should we find anything of great importance, the locals will not try to seize it from us."
  NIK_project_across_the_wall:0 "Проект §gЧерез стену§!"
+ NIK_project_across_the_wall_desc:0 "Our great enemy lies across the Ural Mountains. While our armies are strong, they have the advantage of geography. Why not organize a strike team to kill two birds with one stone? Firstly, we will pierce enemy lines in a non-provoking raid, obtaining useful information on the opponent. Secondly, we will have a short window to explore the Mountains and find something of note."
  NIK_project_golden_legacy:0 "Проект §YЗолотое наследие§!"
+ NIK_project_golden_legacy_desc:0 "The world is changing. Ancient forests are uprooted to make room for factories, and likewise, old gravesites will soon be home to housing complexes. We need to race ahead of industrialization, and explore West Russia itself! The land is full of treasures, but we lack proper infrastructure to excavate them. We don't have much time before the secrets underneath our very feet are lost forever."
  NIK_project_cold_waters:0 "Проект §dХолодные воды§!"
+ NIK_project_cold_waters_desc:0 "The Arctic was once home to many Russian ships. The old Empire transported coin, goods, and traded with the far reaches of the world through its Northern ports. We should send some scientists to the icebergs and islands of the Arctic Circle, but transportation is also needed. Some transports and a defense vessel will suffice."
  NIK_project_solar_flare:0 "Проект §OСолнечная вспышка§!"
+ NIK_project_solar_flare_desc:0 "The lands of China, while not entirely part of Eurasia, are close enough to Mongolia to possess many artifacts from our Tengri ancestors. We should bribe local officials in the Shanxi province to allow a team of archeologists and historians to explore their museums and ancient sites, then report their findings back to us."
  NIK_project_porcelain_king:0 "Проект §WФарфоровый король§!"
+ NIK_project_porcelain_king_desc:0 "The old Chinese emperors were rumoured to have been buried in underground graves. We should send another major expedition into China. Unfortunately, since most sites are located within the Republic, we will have to deal with their government directly."
  NIK_project_great_minds:0 "Проект §MВеликие умы§!"
+ NIK_project_great_minds_desc:0 "We should levagere the United States's current opinion of us to negotiate an exchange of scientists. They will send over their best and brightest, we will teach them our concepts, so that the Atlanticsts will know who they are dealing with."
  NIK_project_final_rest:0 "Проект §eПоследние пристанище§!"
+ NIK_project_final_rest_desc:0 "The steppes of Mongolia are rumoured to be the resting place of Genghis Khan, the father of First Eurasia. We should send over a team of scientists, supported by some troops to hold off bandit attacks, so that they may locate the corpse of the Universal Ruler."
  NIK_project_right_mind:0 "Проект §QЗдравый рассудок§!"
+ NIK_project_right_mind_desc:0 "Our current attempts aren't working. The people still believe Eurasia to be a foolish idea. No matter. The propagandists will be put to work, creating an intricate web of objective truths and white lies, buying us extra time to justify the concept."
  NIK_project_old_mother:0 "Проект §PПожилая мать§!"
+ NIK_project_old_mother_desc:0 "The Indian subcontinent, compared to our icy wastes, is like a different planet. Amidst seas of green, where men haven't set foot in centuries, covered in ivy and surrounded by monkeys, lie the ruins of great civilizations. The Indian government should be negotiated with so that we can secure an expedition to unearth their hidden treasures."
  NIK_project_far_flung:0 "Проект §JДальние просторы§!"
+ NIK_project_far_flung_desc:0 "Vietnam is distant, but was once a priority target for the old Eurasians. We should dispatch an envoy and negotiate developmental aid in exchange for a team of archeologists to visit the old French colony."
  NIK_project_brutus:0 "Проект §RБрут§!"
+ NIK_project_brutus_desc:0 "Push comes to shove. The Romano-Germanics have overstepped their boundaries decades ago, and continue to do so now. If the weak-willed Atlanticists and pathetic Japanese will not do anything about it, Eurasia will. A terror attack needs to be staged on the Eternal City itself. We will deny all responsibility, of course, but shall shake their peasants to the roots."
  NIK_denounce_the_atlanticists:0 "Обличить §BАтлантистов§!"
  NIK_denounce_the_romano_germanics:0 "Обличить §RРомано-Германцев§!"
  NIK_denounce_pan_asianism:0 "Обличить §SПан-Азиатов§!"
@@ -1020,13 +1039,16 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  gummy_decrease_legitimacy_10_tt:0 "Наша §Oлегитимность§! §Rупадёт§! на §Y10§!."
  gummy_decrease_legitimacy_15_tt:0 "Наша §Oлегитимность§! §Rупадёт§! на §Y15§!."
  gummy_decrease_legitimacy_20_tt:0 "Наша §Oлегитимность§! §Rупадёт§! на §Y20§!."
- gummy_decrease_legitimacy_20_tt:0 "Наша §Oлегитимность§! §Rупадёт§! на §Y40§!."
+ gummy_decrease_legitimacy_40_tt:0 "Наша §Oлегитимность§! §Rупадёт§! на §Y40§!."
  gummy_increase_legitimacy_5_tt:0 "Наша §Oлегитимность§! §Gвозрастёт§! на §Y5§!."
  gummy_increase_legitimacy_10_tt:0 "Наша §Oлегитимность§! §Gвозрастёт§! на §Y10§!."
  gummy_increase_legitimacy_15_tt:0 "Наша §Oлегитимность§! §Gвозрастёт§! на §Y15§!."
  gummy_increase_legitimacy_20_tt:0 "Наша §Oлегитимность§! §Gвозрастёт§! на §Y20§!."
+ gummy_increase_legitimacy_40_tt:0 "Наша §Oлегитимность§! §Gвозрастёт§! на §Y40§!."
  NIK_eurasian_dream_mission:0 "Закрепить §OЕвразийскую мечту§!."
  NIK_eurasian_dream_mission_tt:0 "Результаты наших §Oстараний§! будут раскрыты."
+ 
+ NIK_is_doing_eurasianism:0 "В настоящий момент мы работаем над §Yпроектом§!."
  
 
  ### Подсказки ###
@@ -1070,7 +1092,7 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_tabby_hour_forward_3_tt:0 "§gЧасы бьют трижды.§!\n"
  NIK_tabby_hour_backward_1_tt:0 "§gСтрелка часов отступает назад.§!\n"
  NIK_tabby_hour_backward_2_tt:0 "§gСтрелка часов отступает назад.§!\n"
- NIK_tabby_hour_backward_2_tt:0 "§gСтрелка часов отступает назад.§!\n"
+ NIK_tabby_hour_backward_3_tt:0 "§gСтрелка часов отступает назад.§!\n"
 
  NIK_tabby_ticker_forward_tt:0 "§gЧасы ускоряются.§!\n"
  NIK_tabby_ticker_backward_tt:0 "§gЧасы замедляются.§!\n"
@@ -1083,12 +1105,15 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_burgsys_ray_of_light_tt:0 "Мы получим §Y$10 миллионов долларов США§!.\n"
  NIK_burgsys_bounties_on_parasites_tt:0 "Благодаря нашим расходам, это добавит §Y$5 миллионов долларов США§!.\n"
  NIK_imperskiye_shturmoviki:0 "Имперские штурмовики"
+ NIK_imperskiye_shturmoviki_desc:0 "The sole paramilitary of the OVRI, the Shturmoviki have served the monarchist cause since the 50s. Now that the Regency is secure, they have been expanded into an integral part of the apparatus of state, and serve as our foremost agents of purification."
  NIK_cathedrals_of_industry:0 "Храмы промышленности"
+ NIK_cathedrals_of_industry_desc:0 "Just like weapons and people, the machines that serve our Lord's holy cause should be blessed appropriately. State-approved priests now labor alongside the workers, ensuring that the spiritual integrity of our industry remains intact"
  NIK_absolute_purity:0 "Навстречу к абсолютной чистоте"
  NIK_burgsys_tear_down_their_failures_tt:0 "§OЭто может повредить нашей экономике, но в конечном итоге мы станем намного сильнее.§!\n"
  NIK_burgsys_fill_imperial_treasury_tt:0 "Всем гражданам будет 'предложено' пожертвовать свои сбережения нашему государству.\n"
  NIK_burgsys_in_the_green_tt:0 "Реинвестируя наши недавно приобретённые богатства, мы добьёмся небольшого экономического роста.\n"
  NIK_imperial_opulence:0 "Императорская роскошь"
+ NIK_imperial_opulence_desc:0 "What Bolsheviks deride as tsarist decadence is, in fact, the rightful and appropriate manifestation of Godly rulership. Is it not right that His most blessed servants should bedeck themselves in gold, as the faithful do His temples?"
  NIK_burgsys_imperial_opulence_tt:0 "Это §повысит§! наши ежегодные расходы на §Y$30 миллионов долларов США§!.\n"
  NIK_burgsys_black_budget_tt:0 "Жертвуя частью нашего экономического роста, мы получим больше денег с чёрного рынка.\n"
  NIK_absolute_truth:0 "Абсолютная истина"
@@ -1096,6 +1121,18 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_burgsys_honor_in_a_humble_life_tt:0 "Наш §Yдополнительный доход§! возрастёт на §Y$150 миллионов долларов США§!.\n"
 
  NIK_TABBY_DEAD_COLLAPSE:0 "§RПолночь§! настала.\n"
+
+ NIK_absolute_purity_1:0 "Towards Absolute Purity"
+ NIK_absolute_purity_2:0 "Towards Absolute Purity"
+ NIK_absolute_purity_3:0 "Towards Absolute Purity"
+ NIK_absolute_purity_4:0 "Towards Absolute Purity"
+ NIK_absolute_purity_5:0 "§xAbsolute Purity§!"
+
+ NIK_absolute_purity_1_desc:0 "Tell that its sculptor well those passions read\nWhich yet survive, stamp'd on these lifeless things..."
+ NIK_absolute_purity_2_desc:0 "The hand that mock'd them and the heart that fed.\nAnd on the pedestal these words appear:"
+ NIK_absolute_purity_3_desc:0 ""My name is Ozymandias, king of kings: Look on my works, ye mighty, and despair!""
+ NIK_absolute_purity_4_desc:0 "Nothing beside remains: round the decay\nOf that colossal wreck, boundless and bare-"
+ NIK_absolute_purity_5_desc:0 "§xAnd the rest is rust, and stardust.§!"
 
  NIK_fascist_amending_for_the_tragedy_tt:0 "Денежный объём в виде §Y$100 миллионов долларов США§! даст фермерам оправиться от большевистской политики.\n"
  NIK_fascist_a_renewed_city_tt:0 "За счёт §Y$200 миллионов долларов США§! мы отстроим инфраструктуру и заводы по всей России.\n"
@@ -1191,16 +1228,22 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_legion_of_scribes:0 "Легион писарей"
  NIK_legion_of_scribes_2:0 "Легион писарей"
  NIK_top_down_economic_management:0 "Нисходящее экономическое управление"
+ NIK_top_down_economic_management_desc:0 "Where the fat, wealthy elite beyond Moscowien would see it as oppression of the masses, we see it as purposefulness of our people. Flunctuation of  social castes brings nothing but disunity and fracturing, something the history of Russia has plentifully. Every citizen of Eurasia has a role to fulfill, and as long as it does it, it will not want food, lodging, and, most important of all, a sense of purpose."
  NIK_blueprint_for_hegemony:0 "План гегемонии"
  NIK_military_passionarity_idea:0 "Милитаристский пассионаризм"
+ NIK_military_passionarity_idea_desc:0 "While strategy and morale are the muscle and bone of our army, without any blood, it simply is a dried husk. The blood of our army, our edge against the warlords that seek only to divide it all in the atlanticist values, will be the might and passionarity of Eurasia.\n\nWhile they fight for petty fiefdoms and failed institutions, we're fighting for a legacy denied from us for centuries, and the reckoning of those who denied our natural right for so long."
  NIK_our_eternal_sky:0 "Наше вечные небеса"
  NIK_our_eternal_sky_2:0 "Наше вечные небеса"
  NIK_eurasia_shattered:0 "Евразия расколота"
  NIK_eurasia_forever_1:0 "Евразия навсегда!"
+ NIK_eurasia_forever_1_desc:0 "What was once scoffed as a delusion, is shaping into reality. The disparate nationalities, set apart by artificial, atlanticist beliefs are finally starting to sing together, while the flag of our nation proudly flutters through the open fields. Some resistance still exists, but what was once a definite struggle, is now a matter of time.\n\n§YEurasia is soon to be awoken!§!"
  NIK_eurasia_forever_2:0 "Евразия навсегда!"
+ NIK_eurasia_forever_2_desc:0 "To think, that our Ethnostate was born from the fractured, bickering, defunct republic of Komi is just a statement of how might is born not out of petty comforts, but struggle and trial.\n\nEurasia is not a concept in Gumilyov's mind anymore, but a breathing, living entity, the fragmented people truly united not in artificial designations, but as a single, undivisible Eurasian race. And now, our eternal enemy waits west, subjugating the last piece of Eurasia still in their hold.\n\n§fEurasia is awoken, and the world trembles at it's roar.§!"
  
  NIK_siberian_plenty:0 "Сибирское изобилие"
+ NIK_siberian_plenty_desc:0 "Where the other powers need to look outward to supply their lack of resources, we sit upon the wealthiest reserve of raw material of the Earth. Where the others need to rely on a complex web of connections and puppets to supply their demands and bloated systems, we simply need to harvest from our bountiful land. Siberia sits, its boundless potential ripe for the taking to forge us a future as a hegemony, once more. All we need is to utilize it."
  NIK_soviet_archives:0 "Раскрытые советские архивы"
+ NIK_soviet_archives_desc:0 "As much as it pains us, we cannot deny that the might of the atom was the fruit of Atlanticist research, as the world witnessed Hawaii burn under the mushroom cloud. However, it is not about who first made the weapon, but who utilizes it better. In time, the world will not associate the atom bomb with the Japanese, but with the might of Eurasia."
  
  NIK_serov_military_purges_idea:0 "Завершение чисток"
  NIK_serov_whipped_into_shape_idea:0 "Россия в её прежнем виде"
@@ -1212,14 +1255,15 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  NIK_accepted_young_planners:0 "Юные специалисты"
 
  NIK_the_cleansing_of_siberia:0 "Очищение Сибири"
-
+ NIK_the_cleansing_of_siberia:0 "Even more so than West Russia, Siberia is a land polluted by subhumans, traitors, traitors and deviants. This entire land must be purged without mercy or hesitation, in the name of the Blessed Tsarevich."
  NIK_the_cleansing_of_siberia_2:0 "Очищение Сибири"
-
+ NIK_the_cleansing_of_siberia_2_desc:0 "Town after town, home after home, church after church, our righteous purification continues. Let our scourge fall upon the backs of the wicked, until the black tar of their sin flows freely from between exposed ribs and vertebrae."
  NIK_the_cleansing_of_siberia_3:0 "Сибирский террор"
-
+ NIK_the_cleansing_of_siberia_3_desc:0 "§RDefile not the land of your habitation, which is stained with the blood of the innocent: neither can it otherwise be expiated, but by his blood that hath shed the blood of another.§!"
  NIK_church_opposition:0 "Религиозная оппозиция"
 
  NIK_broken_cross:0 "Переломленный крест"
+ NIK_broken_cross_desc:0 "No more will the heretical churches, bound to their Jewish conceptions of meekness and mercy, sin against God's representative on Earth. Let those who stand with subhumans die alongside them."
 
  ### События ###
 
@@ -1374,7 +1418,14 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  komi_burgsys.38.t:0 "Успешный запуск"
  komi_burgsys.38.d:0 "Руслан осторожно подталкивал своих овец, направляя их на пастбища за своей деревней. Утро было холодное, свежее, и на траве уже образовалась роса, лежавшая на зелени. Холодный ветерок дул над степью, неся с собой благовоние реки и великих земель за пределами России.\n\nКак только овцы начали пастись, Руслан присел, когда его внимание привлек звук вдалеке. Звук был похож на журчание горного водопада в нескольких метрах отсюда, но рядом с его деревней ничего подобного не было. Ближайшие горы находились по меньшей мере в сотнях километров отсюда.\n\nКазалось, будто он издаётся от неба. Пастух поднял глаза и озадаченно склонил голову набок. Это была звезда? Она была такой яркой и двигалась так быстро. Он знал, что даже самые яркие падающие звезды трудно увидеть днем. Что бы это ни было, оно двигалось на юго-восток, в сторону пустынь Казахстана. Или ему так показалось - пока он смотрел, оно резко опрокинулась и начало опускаться. Оно падало всё быстрее и быстрее, пока не показалось его тело, очень длинное и белое, отражающее солнце и оставляющее за собой огонь и дым. Прежде чем шок и ужас отразились на его лице, снаряд попал точно в цель, и всё, что Руслан когда-либо знал, исчезло в громе и пламени."
  komi_burgsys.38.a:0 "Многообещающее начало нашей ракетной программы!"
+ 
+ ### Absolute Purity event chain and related loc ##
 
+
+ NIK_absolute_purity_tt:0 "And Russia Shall be Pure..."
+ NIK_absolute_purity_end_tt:0 "And Russia is now Pure."
+
+ ####
 
  komi_clockworks.1.t:0 "Видение регента"
  komi_clockworks.1.d:0 "Регент лежал на своей шёлковой постели. Потемневший потолок кишел предательскими нитями мотка - нитями неописуемого цвета, пронизывающими потухшую люстру. Они кружились для него там, наверху, но он знал, что если встанет, то не сможет до них дотянуться - они были далеко. Слишком далеко.\n\nНаблюдая за ними, он прослеживал своё вознесение. Поход царевича, законного наследника, из Екатеринбурга. Куда он пропал? Они не исчезли бы, если бы он умер, потому что клубок отслеживает бессмертную душу, а не земное, подверженное ошибкам тело. Для регента это было тайной всего. Он мог наблюдать за ними. Мог знать, кто замышляет против него заговор, кто втайне называл его сумасшедшим. На этих нитях видел, что связывает их, привлекая внимание охранки, пока не рассказали ему обо всем, что они сделали. Что они могли сделать. Кто они были. Независимо от того, насколько тщательно он лгал или сколько лжец умолял о своей невиновности, он видел узоры. Плетение небес.\n\nОн моргнул и на мгновение увидел вспышку вдохновения. Что-то новое движется в мотке. Новая линия. Регент покрутил это в уме и заполнил пробелы своего сознания. Это было что-то новое, переплетённое вокруг нитей. Что натягивает их. Чудо. Ткацкий станок, на котором можно плести будущее. Нитям нужен двигатель, управляющий ими.\n\nРегент открыл глаза и оглядел комнату. Дневник стоял на тумбочке, привлекая его внимание. Он знал, в какую сторону повернутся часы. Но - его казна? Люди? Дворянство?\n\nОн взял дневник вместе с ручкой, и посоветует им немедленно измениться. Письмо будет отправлено утром. Они должны были это знать."
@@ -1500,6 +1551,31 @@ NIK_gcoup_gumilyovs_coup:0 "Переворот Серова"
  komi_clockworks.31.t:0 "Поиск ответа - пятая молитва"
  komi_clockworks.31.d:0 ""Царевич Алексей Николаевич Романов, Благословлённое Дитя Мучеников и Законный Наследник всея России, к вам взывает ваш слуга. Я умоляю вас, прислушайтесь к моим молитвам."\n\nНа этот раз шёпота не послышалось - только лишь свет, внезапный и яркий. Сияющая сфера пронеслась перед его глазами, двигаясь во всех направлениях одновременно. Ослепительный свет пронзил душу Регента, заставляя её пылать небесным огнем. Ошеломлённый от происходящего, он упал назад, уставившись вверх, где плясала сфера. Сергей познал те знания, которые были забыты вечностью. Глаза закатились, не в силах вынести поток мудрости, хлынувший в его мозг, потеряв сознание.\n\nОчнувшись, Таборицкий валялся на спине, весь в поту. Открыв глаза, он увидел, что мир окутан в прекрасный, но мрачноватый пурпурный свет. Когда Регент встал и посмотрел на свои руки, то увидел, что кожа его почернела, а вены стали золотыми. Он моргнул от шока - и внезапно всё стало прежним. Разум был переполнен утраченными знаниями, вызывая головокружение. Ухватившись за алтарь, чтобы не упасть снова, Таборицкий выдохнул и вытер пот со лба. Ему понадобится ещё много времени, чтобы понять то, что Бог только что даровал сегодня."
  komi_clockworks.31.a:0 "Это всего лишь свет... но он жгуч."
+
+ komi_burgsys_purity.1.t:0 "Upon the Threshold"
+ komi_burgsys_purity.1.d:0 ""Only answer the door for them if they don't leave," Semyon told his wife, Natalia, hands upon her shoulders and gazed fixed with hers. "They don't have any reason to bother us, so just keep quiet unless you don't have a choice." He glanced down at their children and nodded. "You two, I promise you'll be safe, so long as you're smart. Smart, remember? You remember what I mean by that?"\n\n"Do what Mama says," said Svetlana, the older of the children.\n\n"Right," Semyon said, nodding again nervously. "Above all, don't panic. You know who they want, and we're not those people. And you, Alex, look after your mother and sister. Don't go running off to try and find me."\n\nHis son, always shining like the sun, saluted with a bold "Yes, sir!" eliciting a smile from his mother.\n\n"Alright," Semyon muttered. He drew in a breath to brace himself and pecked his wife on both cheeks. "I don't know how long they'll keep me for, but it'll be longer than it used to be, for certain. Don't fret if I'm not back by dusk. What happened to Timofey won't happen to us, I promise you." Suddenly, he drew her close. "I promise."\n\nSemyon forced himself to part from his love, then strode to the door and hefted his pack onto one shoulder. As the cool morning air rushed in through the open doorway, he turned back one last time, and said grimly:\n\n"
+ komi_burgsys_purity.1.a:0 ""The gun is in your Jewelry box.""
+
+ komi_burgsys_purity.2.t:0 "Within the Gloom"
+ komi_burgsys_purity.2.d:0 ""I'm home," Semyon called out wearily as the door clicked shut behind him. Natalia rounded the corner from the kitchen to find him sitting on the floor and leaning against the door, eyes half-closed and still in his work attire.\n\n"Oh, Semyon," she sighed, kneeling down to help get the boots off his swollen feet. "This won't do. It's almost eleven o'clock." She finished undoing one bootlace and began to gently pry the sweat-dampened leather away from a worn and threadbare sock. Through the holes in the wool, she could see patches of skin rubbed raw and red during Semyon's interminable shifts.\n\n"I'm sorry, love," Semyon said, his voice a throaty whisper. "They wanted double quota today. Nobody else could leave early, either. Someone..." he paused. The man's name, it was...\n\n"Feodor," he said at last, with a pained grunt as his other boot was finally tugged free. Natalia peeled off his socks to inspect the state of his trench foot, and let out a tearful gasp, unheard by her husband in his fatigued state. "Feodor, he... I don't remember what he said, but they took him. Might have been two hours into overtime. Took him outside and-"\n\n"Hush," Natalia muttered. Dismissing it didn't come easily to her, and the word left an acrid taste on her tongue the moment it left her mouth. "You're home now. Don't think about that." Standing up and offering Semyon a hand, she pulled him to his feet and let his considerably reduced weight rest on her shoulder. "Come, let's do something about those poor feet, and I'll warm up some stew.""
+ komi_burgsys_purity.2.a:0 "Five hours later, the day began again."
+
+
+ komi_burgsys_purity.3.t:0 "Home is no Castle"
+ komi_burgsys_purity.3.d:0 "Alex lifted another spoonful of turnip soup to his lips with a trembling hand. It was cold in the dining room - bitterly, bitterly cold. There wasn't enough coal for both dinner and a fire, Papa said, but it had been weeks since they'd been warm. Mama wouldn't let him or Svetlana go out to find any, either. All they did was go to school, go to church and eat the same boring dinner every day. He couldn't even go out to play with Vlad's boy from next door anymore.\n\nSuddenly, there was a muffled crash. Svetlana yelped in fright and dropped her spoon with a clatter. Mama froze. Papa paused for a moment, but kept eating, arm rising and falling mechanically as he tried to fill his empty stomach. Alex stared in the direction the sound had come from - the wall dividing their home from Vlad's.\n\nThrough the wood and plaster, he could hear shouting. "Down, you rats!" a thunderous voice boomed. "Head against the floor!" Someone shouted back, lacking the volume to make their words distinguishable. "Shut up, pig! You, woman, where is he? Where's your bastard father?"\n\nAlex's attention was snatched away by the sudden rapping of Papa's knuckles on the wooden table. His father was staring at him over the empty pot at the table's center. There was neither anger nor affection in his eyes. "Don't, Alex." As to what he didn't want Alex to do - he never said. He just lowered his gaze to the bowl and kept spooning soup into his mouth, wilfully oblivious. Soon, Mama and Svetlana were doing the same, though Alex could see the trails of moisture running down his sister's face in the candlelight."
+ komi_burgsys_purity.3.a:0 "But none of them could ignore the screams and gunfire that followed."
+
+
+ komi_burgsys_purity.4.t:0 "Quiet Night"
+ komi_burgsys_purity.4.d:0 "Svetlana kept a rapid pace as best she could, ignoring the growling of her contracting, desperate stomach. It had to wait, lest she be tempted to eat all she'd found by herself. They all had to eat, no matter what Papa said. To hell with him and his stubborn selflessness; he worked harder than any of them and had to eat more than herself or Mama did. The sound of marching jackboots approached, prompting her to duck down behind a low wall. Another Shturmoviki patrol, the third she'd had to dodge in the past hour. Every day, it seemingly got harder to get around after curfew.\n\nWhen she finally reached home, night had fallen in earnest. She crawled through the open bathroom window round back rather than the front door, for they would be watching the front. Her parents were both waiting in the darkened room. A momentary fear flashed in Svetlana's soul as she saw the hunger glimmering in their candlelit eyes, before remembering she must have looked much the same. Wordlessly, she emptied her small cloth bag onto the vinyl floor.\n\nTwo rats. A loaf of rock-hard bread, which it looked like they'd been nibbling on. Three soft, slightly brown apples.\n\nIt had to do. They each took an apple, while Mama also scooped up the rats and bread before tottering away to the kitchen. The candle's flame puffed out as a draft blew through the open window. Svetlana heard her father, pressed against the wall, bite carefully into the over-ripe fruit and gag slightly at the texture.\n\nLeaving the grim, gloomy bathroom behind her, Svetlana padded through her dimly-lit home and up the stairs to her bedroom. Her eyes were cast downwards as she passed Alex's old room, for even the sight of his name etched on the door was enough to clench her heart tight and elicit a dehydrating flow of tears. Mourning was a luxury they could no longer afford."
+ komi_burgsys_purity.4.a:0 "They ate, and slept, but did not live."
+
+
+ komi_burgsys_purity.5.t:0 "The Perfect World"
+ komi_burgsys_purity.5.d:0 "Jackboots echoed, as they did every half hour, throughout the quiet, unremarkable street in downtown Syktyvkar. It was a beautiful place, perfectly in line with the vision of the Blessed Regent. Neat, orderly, secure - a polished and perfected sample of the purified civilisation that would await Tsarevich Alexei when he returned to assume his throne.\n\nThere was no dissent in the street. No protestors, no workers on the march, not even people breaking curfew. Everyone had their place and kept to it. The soldiers never saw the workers who resided there depart for their assigned work, and that was ideal. No need to stop and harass people for their papers and identification. As far as the Shturmoviki on patrol knew, each and every subject of the Empire on that street was carrying out their duty to God and Regent with well-honed diligence.\n\nAccording to the Okhrana who surveyed the area regularly, the house in the very middle of the street was home to the ideal Russian family. A man and a woman, joined in holy matrimony; a beautiful daughter; a strong and pure son. The father worked at the Syktyvkar Small Arms Factory, producing machine-gun barrels. The mother kept the home in order, as was her duty, while the daughter learned domestic arts and the son trained with the Shturmoviki Youth Movement. Perfection in the flesh, surpassed only by the Tsarevich and his chosen servants.\n\nOf the son's slow, shivering death by pneumonia, nothing was noted. The daughter's disappearance after being caught by a patrol went unnoticed. The wife's body, slit wrists no longer streaming arterial blood, rested within the stagnant, crimson water in her bathtub. The father, who had been beaten, flogged and shot for striking a supervisor, was merely one more decaying cadaver in a mass grave outside his workplace. Such was the Syktyvkar of the Blessed Regent's dreams. Pure. Clean. Efficient."
+ komi_burgsys_purity.5.a:0 "§xPerfect.§!"
+
+ komi_purity_finished_tt:0 "§eRussia is now pure.§!"
 
  komi_after_midnight.1.t:0 "Четыре недели спустя"
  komi_after_midnight.1.d:0 "Прошёл месяц с тех пор, как взвод покинул Иркутск. Их задача заключалась в том, чтобы усмирить данную сибирскую провинцию и привлечь регентское правосудие ко всем, кто ему сопротивлялся. С такой миссией был знаком каждый солдат. Села и усадьбы каждый раз были разными, но результат всегда был один и тот же. Страх, подавление, мольбы, отчаянная схватка, выстрелы и переход к следующему поселению в списке, покуда крики выживших не стихнут.\n\nПерейдя последнюю деревню, лейтенант связался по рации со своим командиром и запросил дальнейшие инструкции. Вместо обычного приказа взводу вернуться в Иркутск за припасами и подкреплением, его начальник сказал ему, что в высшем командовании возникла некая большая проблема. Взвод должен был продолжать свою текущую миссию до тех пор, пока данная проблема не будет разрешена и ему не будут выданы новые приказы. Прежде чем лейтенант успел задать вопрос, командир оборвал его, приказав подождать, пока с ним свяжутся. Раздался визг статических помех, и радио замолчало.\n\nКомандир ещё раз посмотрел на список. Все места на нём были умиротворены. Работы не осталось Он чувствовал давления на себе взгляды своих напарников, задавая вопрос, на который мог ответить только он. Командир поднял глаза в поисках решения. Его взгляд упал на грунтовую дорогу, ведущую в лес. Через тридцать минут взвод уже шёл по дороге, не зная, куда они направляются. Они понимали только то, что их миссия ещё не закончена.\n\nСолдаты шли до тех пор, пока не уставали, затем отдыхали несколько часов и вновь продолжали путь. В какое бы поселение они ни приходили, команда выполняла приказ. Не было установленных правил, но всегда погибало около половины населения. Иногда забирали одного. Иногда забирали двадцать. В один красный день забирали и все сто пятьдесят. Некоторые солдаты дезертировали, но большинство было слишком напугано. Они ещё держатся за свои жалкие жизни, ведь приказ до сих пор не выполнен. Итак, они шли и убивали."
