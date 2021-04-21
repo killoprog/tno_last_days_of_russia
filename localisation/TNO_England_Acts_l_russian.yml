@@ -3,295 +3,295 @@
 ENG_DECCAT_Acts:0 "[Root.ENG_Act_Name]"
 ENG_DECCAT_Acts_desc:0 "\n\n\n\n\n\n[Root.ENG_Act_Desc]\n\n[Root.ENG_MP_Votes]"
 
-ENG_Acts_Progress:0 "Vote on §Y[Root.ENG_Act_Name]§!"
-ENG_Acts_Progress_desc:0 "At the end of 60 days, the House of Commons will vote on our proposal. Until then, we can negotiate with the other factions of Parliament to ensure the Act's passage."
-
-ENG_Acts_Compromise_Moderate:0 "Compromise with the §gModerate Wing§!"
-ENG_Acts_Compromise_Liberal:0 "Compromise with the §fLiberal Wing§!"
-ENG_Acts_Compromise_Conserv:0 "Compromise with the §BConservative Wing§!"
-ENG_Acts_Compromise_SLP:0 "Compromise with the §PSocialist Labour Party§!"
-ENG_Acts_Compromise_Reform:0 "Compromise with the §PReformists§!"
-ENG_Acts_Compromise_Hardliner:0 "Compromise with the §eHardliners§!"
-ENG_Acts_Compromise_NDL:0 "Compromise with the §fNational Democratic League§!"
-ENG_Acts_Compromise_Macmillan:0 "Compromise with the §BMacmillanists§!"
-ENG_Acts_Compromise_UE_Liberals:0 "Compromise with the §fLiberals§!"
-ENG_Acts_Compromise_RP:0 "Compromise with the §gRoyal Party§!"
-ENG_Acts_Compromise_Old_Guard:0 "Compromise with the §gOld Guard§!"
-ENG_Acts_Compromise_UE:0 "Compromise with §BUnited England§!"
-
-compromise_moderate_tt:0 "Compromising with the §gDemocrats§! will increase their support for [Root.ENG_Act_Name] while increasing their strength."
-compromise_liberal_tt:0 "Compromising with the §fNew Whigs§! will increase their support for [Root.ENG_Act_Name] while increasing their strength."
-compromise_conserv_tt:0 "Compromsing with the §BPatriots§! will increase their support for [Root.ENG_Act_Name] while increasing their strength."
-compromise_SLP_tt:0 "Compromsing with the §PSLP§! will increase their support for [Root.ENG_Act_Name] while massively increasing their popularity."
-compromise_reform_tt:0 "Compromsing with the §PReformists§! will increase their support for [Root.ENG_Act_Name] while increasing their influence."
-compromise_hardliner_tt:0 "Compromsing with the §eHardliners§! will increase their support for [Root.ENG_Act_Name] while increasing their influence."
-compromise_NDL_tt:0 "Compromsing with the §fNDL§! will increase their support for [Root.ENG_Act_Name] while massively increasing their popularity."
-compromise_macmillanists_tt:0 "Compromsing with the §BMacmillanists§! will increase their support for [Root.ENG_Act_Name] while increasing their influence."
-compromise_ue_liberals_tt:0 "Compromsing with the §fLiberals§! will increase their support for [Root.ENG_Act_Name] while increasing their influence."
-compromise_RP_tt:0 "Compromsing with the §gRoyal Party§! will increase their support for [Root.ENG_Act_Name] while massively increasing their popularity."
-compromise_old_guard_tt:0 "Compromsing with the §gOld Guard§! will increase their support for [Root.ENG_Act_Name] while increasing their influence."
-compromise_UE_tt:0 "Compromsing with §BUnited England§! will increase their support for [Root.ENG_Act_Name] while massively increasing their popularity."
-
-ENG_acts.1.t:0 "The Act Passes"
-ENG_acts.1.desc:0 "An elderly man sat on a bench reading the local newspaper. The front page reads of the affairs in Westminster. Around him the streets were slightly livelier. The skies above were slightly clearer.\n\nNews had spread that a new Act of Parliament had passed through the House of Commons and became part of the law of the land. News anchors on live television discussed the ramifications of this recent development. Politicians declared this day as a major success for their party and the country of England.\n\nThe futures of millions of men and women will be affected by this law even if they never hear of it. Only time will tell whether that's for the better or the worse."
-ENG_acts.1.a:0 "English history is written."
-ENG_acts.2.t:0 "The Act Fails"
-ENG_acts.2.desc:0 "On the TV screen, a reporter announced that the new Act was voted down by the MPs in the House of Commons. The opposition and many media sources have denounced the Prime Minister as incompetent. Even MPs in government have questioned the leadership of their party. Everywhere, people around England hear only of failure, and for every government failure, the people's confidence in the government's ability to rule is reduced. If the Prime Minister can not control Parliament, then soon enough, they won't be able to control England."
-ENG_acts.2.a:0 "Hopefully, the next one will turn out better."
-
-NDL_Act_County:0 "The Counties Act"
-NDL_Act_County_desc:0 "During the German occupation of England, the borders of the counties were redrawn by the collaborators to suit their needs. Now, we can redraw the borders of the counties to fit their historical origins and allow for better local governance. From Northumberland to Kent, the counties will be restored to their past selves. This will be the first step to erasing the legacy of collaboration throughout England."
-NDL_Act_County_tt:0 "Completing this focus will initialize §Ythe Counties Act§!."
-
-NDL_Act_Lords:0 "The Lords Act"
-NDL_Act_Lords_desc:0 "In order to assure there was no resistance in Parliament, the Royal Party stacked the House of Lords with German collaborators and corrupt aristocrats. This has created an inefficient and unscrupulous institution. With this Act, we will reform the House of Lords and remove the titles from traitorous and incompetant lords. The last collaborators in the English government will be removed."
-NDL_Act_Lords_tt:0 "Completing this focus will initialize §Ythe Lords Act§!."
-
-NDL_Act_National_Education:0 "The National Education Act"
-NDL_Act_National_Education_desc:0 "The key to rejuvenating the English economy after the crisis is education. This Act nationalizes some parts of the system to standardize the curriculum and ensure qualified teachers. Reorganizing schools to add modern science and mathematics into the curriculum. We may not have the fields of British India or the diamond mines of South Africa anymore, but we still have our minds."
-NDL_Act_National_Education_tt:0 "Completing this focus will initialize §Ythe National Education Act§!."
-
-NDL_Act_Worker_Protection:0 "The Worker Protection Act"
-NDL_Act_Worker_Protection_desc:0 "A lack of regulation in the English workplace has caused accidents everywhere from the coal mine to the meat factory. This Act implements some basic safety regulations on businesses to stop these accidents. Safety inspectors would go around England to check on businesses and ensure they're following our codes. English workers will be able to be safe at their workplaces as well as their homes. Hopefully, Englishmen will see that they don't need socialism to be safe."
-NDL_Act_Worker_Protection_tt:0 "Completing this focus will initialize §Ythe Worker Protection Act§!."
-
-NDL_Act_Children_and_Wives:0 "The Children and Wives Act"
-NDL_Act_Children_and_Wives_desc:0 "Children and women are unprotected under their current laws especially orphans and widows. This Act begins to give aid and safety to these groups of people. We will set up public shelters and organizations to help women and children. Orphanages and charities across England will be boosted by government funding. While not much, this will hopefully open English society to more change in the future."
-NDL_Act_Children_and_Wives_tt:0 "Completing this focus will initialize §Ythe Children and Wives Act§!."
-
-NDL_Act_Sexual_Offenses:0 "The Sexual Offenses Act"
-NDL_Act_Sexual_Offenses_desc:0 "Homosexual men and women has long been suppressed by English law and society. While this Act may not result in acceptance by the orthodox English society, it will decriminalize homosexuality. This step forward shows to the world that England is a liberal nation moving ahead of the rest of the world. On the other hand, English traditionalists are outraged and are mobilizing everything to stop this Act from passing. Passing this Act would clearly show that NDL has no place for conservatives who can not see the future."
-NDL_Act_Sexual_Offenses_tt:0 "Completing this focus will initialize §Ythe Sexual Offenses Act§!."
-
-NDL_Act_Border:0 "The Border Act"
-NDL_Act_Border_desc:0 "England is one of the only free nations of Europe, so it's natural that every year, thousands brave the English Channel to liberty. The Patriots within government are concerned about the potential security and economic threat from the influx of refugees. This Act puts a limit on the amount of people that can enter England and put tighter restrictions on the border. It may be wrong for us to turn away innocent people fleeing Nazism, but surely we can't admit every man, woman, and child in Europe to England."
-NDL_Act_Border_tt:0 "Completing this focus will initialize §Ythe Border Act§!."
-
-NDL_Act_Preservation_of_Democracy:0 "The Preservation of Democracy Act"
-NDL_Act_Preservation_of_Democracy_desc:0 "Democracy in England must be preserved at all costs; it has a proud history from the creation of Parliament to today. Our democratic tradition was nearly snuffed out however with the German occupation and the reign of Nazism. The only way to ensure that democracy is safe is to throw out those who would end it. This Act bans radicals from entering politics from the left or the right. No longer will fascists have a voice in the houses of Parliament."
-NDL_Act_Preservation_of_Democracy_tt:0 "Completing this focus will initialize §Ythe Preservation of Democracy Act§!."
-
-NDL_Act_Investigations:0 "The Investigations Act"
-NDL_Act_Investigations_desc:0 "There are minor areas of corruption within our great English society. While nothing truly damaging, we must prevent further spread. This Act allows the government to investigate private companies and officials based on suspicious activity. Government agencies would be able to conduct raids and infiltrate companies and also investigate members of Parliament. Giving the government authoritarian powers may have some benefits."
-NDL_Act_Investigations_tt:0 "Completing this focus will initialize §Ythe Investigations Act§!."
-
-NDL_Act_Housing:0 "The Housing Act"
-NDL_Act_Housing_desc:0 "One of the biggest issues facing England currently is housing. A small number of landowners control most of the houses which causes overpricing. This Act regulates land prices with governmental housing programs. Building new houses as well as renovating old ones. This will hopefully result in more affordable housing for the English poor. We can't just let people live without a roof over their heads."
-NDL_Act_Housing_tt:0 "Completing this focus will initialize §Ythe Housing Act§!."
-
-NDL_Act_Business:0 "The Business Act"
-NDL_Act_Business_desc:0 "An efficient way to kickstart our economy and prevent control from foreign corporations is to help small businesses. This Act allows for the government to give special funds to small businesses to provide more jobs and more goods in the market. The everyday business owner will surely support us now. Common workers may initially be outraged by the handouts to businesses, but they'll change their minds when the economic boom starts."
-NDL_Act_Business_tt:0 "Completing this focus will initialize §Ythe Business Act§!."
-
-NDL_Act_National_Healthcare:0 "The National Healthcare Act"
-NDL_Act_National_Healthcare_desc:0 "Healthcare is the most popular demand from the masses. Enacting a form of national healthcare would massively raise our support, but there are still some concerns about the price. This Act specifically sets up a National Health Service, a government-funded system that would provide healthcare for those in need. Socialists claim this is insufficient while economic conservatives and businesses say that this is socialist policy. We need to raise support for this Act in Parliament, for this would be our greatest reform yet."
-NDL_Act_National_Healthcare_tt:0 "Completing this focus will initialize §Ythe National Healthcare Act§!."
-
-NDL_Act_Affordable_Education:0 "The Affordable Education Act"
-NDL_Act_Affordable_Education_desc:0 "Education is no good if the majority of people can't afford it. Currently, schools are inaccessible to disadvantaged children no matter how intelligent. This Act lowers the cost of education, so all people poor or rich can get an education for their children. Passing this Act would be an investment in the future; while giving every child in England 12 years of school is obviously expensive, there is no price too high for the future of England."
-NDL_Act_Affordable_Education_tt:0 "Completing this focus will initialize §Ythe Affordable Education Act§!."
-
-SLP_Act_Lords:0 "The Lords Act"
-SLP_Act_Lords_desc:0 "The House of Lords has seen better days. While technically the upper house of Parliament, the House of Lords has been rendered powerless through the years, and the Royal Party has not improved the situation. Through the German occupation, the collaborators appointed their allies and corrupt aristocrats into Parliament. This Act reforms the entirety of the House of Lords by eliminating hereditary seats, spiritual seats, and taking away peerage from collaborators. This is the first step in reforming government from a force of reaction into a defender of socialism and democracy."
-SLP_Act_Lords_tt:0 "Completing this focus will initialize §Ythe Lords Act§!."
-
-SLP_Act_Women_Pension:0 "The Women's Pension Act"
-SLP_Act_Women_Pension_desc:0 "It is clear that women deserve workers' rights equal to men. The amount of women in the workforce is steadily increasing, but they currently don't enjoy pensions and rights like their male counterparts. This Act fixes this by granting more pensions and giving them to men and women equally. No longer will wives be dependent on their husbands after retirement. Solidarity is not divided by lines of gender."
-SLP_Act_Women_Pension_tt:0 "Completing this focus will initialize §Ythe Women's Pension Act§!."
-
-SLP_Act_Equality:0 "The Equality Act"
-SLP_Act_Equality_desc:0 "Equality for all applies to women too. The old English society used oppression against women to further their goals of dividing the working class. No longer will we let the differences between workers divide us. This Act gives many rights and privileges to women in all areas of law. This is a major break in the old system, and it will show that England is a land of equality for all and truly the land of the free."
-SLP_Act_Equality_tt:0 "Completing this focus will initialize §Ythe Equality Act§!."
-
-SLP_Act_Equal_Vote:0 "The Equal Vote Act"
-SLP_Act_Equal_Vote_desc:0 "Democracy is a worker's tool to overthrow the ruling class, but a necessary prerequisite to this is ensuring that all workers throughout the English lands can vote. This Act will allow all Englishmen to vote regardless of gender or race. We need to show that we are a unified front of all workers of England united by our common goals of socialism and democracy. Every worker's vote should count equally."
-SLP_Act_Equal_Vote_tt:0 "Completing this focus will initialize §Ythe Equal Vote Act§!."
-
-SLP_Act_Nepotism:0 "The Nepotism Act"
-SLP_Act_Nepotism_desc:0 "Nepotism is a constant plague in English society and government. A lack of oversight has caused it to run everywhere from the union official to the MP. This Act solves this problem by allowing government officials to review appointments to positions. All government appointments must now be approved by a review committee. This should hopefully do a great deal to fight nepotism in English democracy."
-SLP_Act_Nepotism_tt:0 "Completing this focus will initialize §Ythe Nepotism Act§!."
-
-SLP_Act_Socialist_Democracy:0 "The Socialist Democracy Act"
-SLP_Act_Socialist_Democracy_desc:0 "Socialism must come through democracy. Authoritarianism devolves only into capitalism. Democracy is the voice of the workers across England calling for socialism and change. This Act implements many minor socialist policies throughout the English government, but more importantly, we signal to the hardliners in SLP that democracy is here to stay. Democracy is not a temporary step into socialism; it is a necessary component of socialism."
-SLP_Act_Socialist_Democracy_tt:0 "Completing this focus will initialize §Ythe Socialist Democracy Act§!."
-
-SLP_Act_Socialist_Education:0 "The Socialist Education Act"
-SLP_Act_Socialist_Education_desc:0 "Educating the English commons is a crucial step in reaching a conscious workforce. Workers that are not only skilled but also understand socialist reality and are ready to defend socialism from its enemies. This Act reforms the English school by moving away from teaching traditional values and towards teaching subjects from a socialist point of view. From learning about great socialist thinkers of the past to reading socialist literature, students will become workers who understand why socialism is the only path."
-SLP_Act_Socialist_Education_tt:0 "Completing this focus will initialize §Ythe Socialist Education Act§!."
-
-SLP_Act_State_Security:0 "The State Security Act"
-SLP_Act_State_Security_desc:0 "There are enemies of socialism all around us. From the Germans to the National Democratic League. We must defend English socialism from all threats, foreign or domestic, and to do this, we must empower the state. This Act massively expands the reach of MI5 and MI6 by increasing their funding and giving a certain degree of freedom from Parliament and the rest of government. The hardliner's power will be used to defend England, democracy, and most of all socialism."
-SLP_Act_State_Security_tt:0 "Completing this focus will initialize §Ythe State Security Act§!."
-
-SLP_Act_Anti_Fascism:0 "The Anti-Fascism Act"
-SLP_Act_Anti_Fascism_desc:0 "There exists certain organizations that claim to be English nationalists and defend traditional culture. On closer inspection however, it becomes clear that these organizations are just fronts for fascists, and they are often supported by the Patriots of the National Democratic League. This Act would ban these organizations as well as investigate certain fascist leaders and potentially arrest them. This is sure to strike a great blow against the Patriots and fascism."
-SLP_Act_Anti_Fascism_tt:0 "Completing this focus will initialize §Ythe Anti-Fascism Act§!."
-
-SLP_Act_Land_Redistribution:0 "The Land Redistribution Act"
-SLP_Act_Land_Redistribution_desc:0 "The vast majority of the land of England is owned by a few aristocrats while the common farmer has scarcely anything. This Act redistributes much of the land in Britain from the aristocrats to the farmers. The Act also implements some reforms to land ownership to prevent the rich from accumulating land. Plantations will be split up into smaller farms owned by their workers. This Act would help increase economic efficiency and would give farmers what is rightfully theirs."
-SLP_Act_Land_Redistribution_tt:0 "Completing this focus will initialize §Ythe Land Redistribution Act§!."
-
-SLP_Act_Universal_Healthcare:0 "The Universal Healthcare Act"
-SLP_Act_Universal_Healthcare_desc:0 "Universal healthcare is vital to the happiness of the English people. Currently, only the rich can afford proper medical care while the rest of the English workers are stuck with either subpar healthcare care or none at all. This Act creates the National Health Service which will provide medical care to anyone in need. The NHS would be funded by taxes and the English government. We must ensure this passes, for it would be our grandest reform yet."
-SLP_Act_Universal_Healthcare_tt:0 "Completing this focus will initialize §Ythe Universal Healthcare Act§!."
-
-SLP_Act_Equal_Opportunity:0 "The Equal Opportunity Act"
-SLP_Act_Equal_Opportunity_desc:0 "Some people are born with more opportunities than others. This has been true since the dawn of human history, but we will render it false. The first determiner of one's future is their education, and unfortunately, the rich currently are able to get a better education than most others. This Act fixes that by making higher education public and free to anyone. This will hopefully result in an educated workforce as well as setting a precedent that everyone is born equal; their futures are determined only by themselves."
-SLP_Act_Equal_Opportunity_tt:0 "Completing this focus will initialize §Ythe Equal Opportunity Act§!."
-
-SLP_Act_Peoples_Housing:0 "The People's Housing Act"
-SLP_Act_Peoples_Housing_desc:0 "There are many workers in our country with stable employment, yet they live without decent housing. This Act creates new government-funded housing programs that would build new cheap houses to sell to workers in cities from London to Manchester. Workers will be able to live in affordable houses close to their workplaces which will increase efficiency. The people will see that socialism can provide for all their needs."
-SLP_Act_Peoples_Housing_tt:0 "Completing this focus will initialize §Ythe People's Housing Act§!."
-
-SLP_Act_National_Wage:0 "The National Wage Act"
-SLP_Act_National_Wage_desc:0 "Every man needs a living wage, but unfortunately, we do not always get what we need. Often corporations will exploit workers while giving a tiny portion of what they produce. This Act mandates that companies give all their employees a living wage across England. Everyone from the cashier to the truck driver will be paid a wage high enough to afford a house and a TV. Workers shall accept no more exploitation; they will finally be paid what they are worth."
-SLP_Act_National_Wage_tt:0 "Completing this focus will initialize §Ythe National Wage Act§!."
-
-UE_Act_Anti_Bribery:0 "Anti-Bribery Act"
-UE_Act_Anti_Bribery_desc:0 "The Anti-Bribery Act is a piece of legislation focused on preventing and punishing the corruption of government officials of all ranks. Being the first party to really invest in this sort of thing will make the others look somewhat bad in comparison, but the overarching effect of the act will be an increase to national stability. After all, people not having to pay bribes are people more inclined to vote the right way."
-UE_Act_Anti_Bribery_tt:0 "Completing this focus will initialize §Ythe Anti-Bribery Act§!."
-
-UE_Act_Education:0 "Education Act"
-UE_Act_Education_desc:0 "The Education Act is focused around correcting some of the deficiencies in our modern educational system. Namely a grievous overuse of corporal punishment, a lack of adequate teaching staff in many rural schools and increase the number of opportunities available to impoverished or remote students. It will also increase public school funding in general, and give us some more academics."
-UE_Act_Education_tt:0 "Completing this focus will initialize §Ythe Education Act§!."
-
-UE_Act_Fair_Employment:0 "Fair Employment Act"
-UE_Act_Fair_Employment_desc:0 "The Fair Employment Act is more accurately described as a series of acts under a single banner. The act in question primarily covers the subject of employer and employee relationships, preventing the firing of employees without compensation unless it is done under specific criteria and banning women from being fire without compensation whilst being pregnant. Additionally, the act offers job opportunities to disabled persons and subsidies for businesses that offer these opportunities of their own will."
-UE_Act_Fair_Employment_tt:0 "Completing this focus will initialize §Ythe Fair Employment Act§!."
-
-UE_Act_Women_Workforce:0 "Women in the Workforce Act"
-UE_Act_Women_Workforce_desc:0 "Women are just as important to the national workforce as men are, and The Women Workforce Act puts this motto into law. No longer may any person in England be discriminated against in pay, hiring, firing or promotional opportunities on the grounds of gender, nor are jobs with a specific list of exceptions allowed to be forbidden to women on the grounds of gender."
-UE_Act_Women_Workforce_tt:0 "Completing this focus will initialize §Ythe Women in the Workforce Act§!."
-
-UE_Act_Labour:0 "Labour Act"
-UE_Act_Labour_desc:0 "The Labour Act introduces an improved series of mandatory pensions partially payed for by the government to all workers in the public sector. Whilst workers in the private sector are mandated to have a certain portion of their pay saved in superannuation. Additionally, the act grants unemployment subsidies for workers seeking jobs or are unable to actively work."
-UE_Act_Labour_tt:0 "Completing this focus will initialize §Ythe Labour Act§!."
-
-UE_Act_Worker_Health:0 "Workers Health Act"
-UE_Act_Worker_Health_desc:0 "The Workers Health Act is the first act of the United England Government which grants healthcare subsidies to all the people of England regardless of age or employment. From this point on, the government will assist in the payment of all necessary surgeries and medications up to a point, and in cases where the surgery is cosmetic or largely so will still subsidise aftercare."
-UE_Act_Worker_Health_tt:0 "Completing this focus will initialize §Ythe Workers Health Act§!."
-
-UE_Act_Free_Labour:0 "Free Labour Act"
-UE_Act_Free_Labour_desc:0 "The Free Labour Act is a comprehensive series of reforms which guarantee pensions and the right to unemployment subsidies for those injured out out of work. The pension reforms are a guarantee that all persons who are forced into retirement will have sufficient money to live off of, and the unemployment reforms will ensure that those who can work will have incentive to do so."
-UE_Act_Free_Labour_tt:0 "Completing this focus will initialize §Ythe Free Labour Act§!."
-
-UE_Act_Anti_Corruption:0 "Anti-Corruption Act"
-UE_Act_Anti_Corruption_desc:0 "The Anti-Corruption Act is a piece of legislation which aims to deal with the problem of corrupt local officials, judiciary and the legislature. Though not specifically worded to affect any single party, it is undeniable that the Royal Party takes the brunt of the likely enforcing of this law. Perhaps fittingly, the Corruption Act is retroactive, and will ensure that those who thought themselves secure in prior misdeeds can be brought to trial."
-UE_Act_Anti_Corruption_tt:0 "Completing this focus will initialize §Ythe Anti-Corruption Act§!."
-
-UE_Act_Anti_Extremism:0 "Anti-Extremism Act"
-UE_Act_Anti_Extremism_desc:0 "An act which bans fascism in its totality, mot merely as a political force but as an ideology that can be held by the average person, the Anti-extremism Act is a statement of the Macmillan government's intentions towards all extreme right political movements. Some of whom though not officially calling themselves fascists are likely nonetheless to be caught up in the Act's aftereffects."
-UE_Act_Anti_Extremism_tt:0 "Completing this focus will initialize §Ythe Anti-Extremism Act§!."
-
-UE_Act_Protect_Democracy:0 "Protection of Democracy Act"
-UE_Act_Protect_Democracy_desc:0 "Democracy is a fragile construct, and one that must be carefully nurtured and protected from harm by overzealous or malicious actors. To the end of stopping harm to our democracy, some restrictions on public meetings and the content of media will be reinforced. Additionally media outlets will have to have supervision on certain release, lest they release material that is too radical for the English public."
-UE_Act_Protect_Democracy_tt:0 "Completing this focus will initialize §Ythe Protection of Democracy Act§!."
-
-UE_Act_Patriot:0 "Patriot Act"
-UE_Act_Patriot_desc:0 "Is it not the duty of every man to act in the interests of England first and foremost? Well, perhaps not. But the Patriot Act is primarily focused on gathering information on those who believe that the destruction of England is a worthwhile goal. Fascists mostly, but Royal Party sympathisers, leftover HMMLR cells and other vagrant terrorist organisations as well can all be hunted down."
-UE_Act_Patriot_tt:0 "Completing this focus will initialize §Ythe Patriot Act§!."
-
-UE_Act_Equal_Vote:0 "Equal Vote Act"
-UE_Act_Equal_Vote_desc:0 "The Equal Vote Act is an act which grants the right to vote and the protection of that right to all people born within the confines of England and any constituent nations. Men and women regardless of color, creed or ideology may vote as they wish and it will be this government's duty to protect that right. This will garner us support across the nation, for those granted this right will be most grateful."
-UE_Act_Equal_Vote_tt:0 "Completing this focus will initialize §Ythe Equal Vote Act§!."
-
-UE_Act_Clear_Parliament:0 "Clear Parliament Act"
-UE_Act_Clear_Parliament_desc:0 "The Clear Parliament Act amongst other things covers the day to day running of the state of England, more specifically the right of the people to know more about and view this process. There are other freedoms granted too, removals on the number of persons allowed to be present at political meetings for example, but the main focus of the Act is its transparency reforms."
-UE_Act_Clear_Parliament_tt:0 "Completing this focus will initialize §Ythe Clear Parliament Act§!."
-
-UE_Act_University:0 "Liberal Education Act"
-UE_Act_University_desc:0 "The Liberal Education Act is an act which serves two distinct purposes. First and foremost it addresses the numerous flaws present in the modern education system, granting more funds to public schools and allowing a more diverse range of subjects to be taught by education facilities of all ranks. This act will pave the way for many generations of well educated English citizens."
-UE_Act_University_tt:0 "Completing this focus will initialize §Ythe Liberal Education Act§!."
-
-UE_Act_Free_Press:0 "Free Press Act"
-UE_Act_Free_Press_desc:0 "The Free Press Act formally removes the vast majority of restrictions which are currently shouldered by media and newspaper outlets by the government. Chief amongst these is a lessened oversight criteria of what can and cannot be reported on or the nature of said reporting. The English press will now have free reign to do as they wish, and god help the politicians now at their mercy."
-UE_Act_Free_Press_tt:0 "Completing this focus will initialize §Ythe Free Press Act§!."
-
-UE_Act_Affordable_Education:0 "Affordable Education Act"
-UE_Act_Affordable_Education_desc:0 "The Affordable Education Act is a move by the government to increase the number of English youth entering the academic field. Subsidising university courses and higher education, providing further funds to all public educational facilities and encouraging that all students regardless of birth be given equal opportunities to attend tertiary education should they show the aptitude."
-UE_Act_Affordable_Education_tt:0 "Completing this focus will initialize §Ythe Affordable Education Act§!."
-
-UE_Act_Income_Tax:0 "Income Tax Act"
-UE_Act_Income_Tax_desc:0 "The Income Tax Act is an act which primarily aims to reduce the affect of the income tax on the English consumers average spending. An economy requires transactions to get moving after all and that of England is no exception. Additionally within the act there are some minor business friendly tax code changes on the subject of holding their assets within England."
-UE_Act_Income_Tax_tt:0 "Completing this focus will initialize §Ythe Income Tax Act§!."
-
-UE_Act_Open_Democracy:0 "Open Democracy Act"
-UE_Act_Open_Democracy_desc:0 "Why should any man be barred from public political life? Well, unless they were a fascist anyway but then someone of that particular political persuasion is unlikely to work well in our new and modern democracy. Restrictions on public meetings will also be further lessened, why after all should it be the government's business what some group of old fishwives are talking about?"
-UE_Act_Open_Democracy_tt:0 "Completing this focus will initialize §Ythe Open Democracy Act§!."
-
-UE_Act_Free_Education:0 "Free Education Act"
-UE_Act_Free_Education_desc:0 "It is important that during the course of education the English student receives a proper and full understanding of the rights and privileges that being in a democratic society gives them. Moreover, this act is an excuse to bring even more funding into the education sector to bring our pool of specialist and educated professional workers back up to our pre-Second World War levels."
-UE_Act_Free_Education_tt:0 "Completing this focus will initialize §Ythe Free Education Act§!."
-
-UE_Act_Charter:0 "Charter Act"
-UE_Act_Charter_desc:0 "The Charter Act is an essential bill of political rights and freedoms enshrined within English society. Amongst other things it forbids the persecution or banning of any political organisation willing to work within a democratic framework. This has allowed the return of the old Labour Party, long banned under the yoke of the Royal Party and then attached to HMMLR, but now resurrected."
-UE_Act_Charter_tt:0 "Completing this focus will initialize §Ythe Charter Act§!."
-
-UE_Act_Unions:0 "Unions Act"
-UE_Act_Unions_desc:0 "The lack of the ability for our workers to organize is inherently anti-democratic. Labour must be able to stand face to face with industry if we are to create a more equitable society. Thus, we will remove any restrictions and government supervision on unions. We will also improve the safety standards of English workspaces, to help assuage some of the more pressing concerns of our workers. With safety assured and rights protected, the common laborer will be able to walk with his head held high."
-UE_Act_Unions_tt:0 "Completing this focus will initialize §Ythe Unions Act§!."
-
-RP_Act_Workplace_Management:0 "Workplace Management Act"
-RP_Act_Workplace_Management_desc:0 "Unfair practices are costing England money in the corporate world. Nepotism is a big issue, of course. So is the practice of offering extra wages under the books. And, of course, there are plenty of shady deals. We'll put a stop to all that. Any suspicious activities will be made illegal and investigated. And the corporations will have to play by the same rulebook as everyone else."
-RP_Act_Workplace_Management_tt:0 "Completing this focus will initialize §YWorkplace Management Act§!."
-
-RP_Act_Business_Protection:0 "Business Protection Act"
-RP_Act_Business_Protection_desc:0 "Corporate England needs relief from high taxes that are stifling the economy and crippling innovation. We will provide this relief. Taxes will be reduced on corporations and businesses, allowing the free market to reign once more. Companies may also take advantage of certain tax breaks in industries we wish to see prosper. And there's some other opportunities in the act if they know where to look hard enough."
-RP_Act_Business_Protection_tt:0 "Completing this focus will initialize §Ythe Business Protection Act§!."
-
-RP_Act_Housing:0 "Housing Act"
-RP_Act_Housing_desc:0 "The poor of England need homes to live in. And at the same time, the number of council homes is rising. If you live in a home, you deserve to be able to buy it. We will change the law so that residents of council housing can buy the homes they live in. This will give many people the chance to achieve home ownership. No longer must they need permission from the civil authority."
-RP_Act_Housing_tt:0 "Completing this focus will initialize §Ythe Housing Act§!."
-
-RP_Act_New_Healthcare:0 "New Healthcare Act"
-RP_Act_New_Healthcare_desc:0 "Our healthcare system needs more funding. We will give it that funding to ensure that people don't end up suffering from lack of funds. We will build new hospitals, and hire new doctors. Modern equipment and ambulances will be provided. And special funds will be marked for taking care of our veterans. We can have a decent quality of life here in England, we just need to work for it."
-RP_Act_New_Healthcare_tt:0 "Completing this focus will initialize §Ythe New Healthcare Act§!."
-
-RP_Act_Hunger:0 "Hunger Act"
-RP_Act_Hunger_desc:0 "Across England, people starve. Food is too expensive for them. And when it isn't expensive, it's oftentimes unavailable for people to have. We will give our people bread, and a few other things to put on it as well. Funding for hunger relief programs will be increased. And eligibility requirements will be more lax so that many people can get the relief they need."
-RP_Act_Hunger_tt:0 "Completing this focus will initialize §Ythe Hunger Act§!."
-
-RP_Act_Leash:0 "Leash Act"
-RP_Act_Leash_desc:0 "We need to get a handle on the opposition. Right now, they are working to destroy everything we have accomplished and fought for. If they are allowed to succeed, everything we have done will be for naught. And that must not happen. We shall clamp down on their activities, and limit the slander they are allowed to put in the press. No matter how unpopular, or how much they howl, it will be done."
-RP_Act_Leash_tt:0 "Completing this focus will initialize §Ythe Leash Act§!."
-
-RP_Act_Security:0 "Security Act"
-RP_Act_Security_desc:0 "Security cameras have been proven effective time and time again. Unfortunately, to put them inside buildings requires the permission of the property owner, and the footage isn't shared with the authorities unless it is requested. We will allow authorities to place security cameras in places that they determine crime may occur, regardless of the owner's permission. This footage is also shared with a central monitoring system. Now, we can gather valuable evidence anywhere."
-RP_Act_Security_tt:0 "Completing this focus will initialize §Ythe Security Act§!."
-
-RP_Act_Anti_Fascism:0 "Anti-Fascism Act"
-RP_Act_Anti_Fascism_desc:0 "What some of our opposition really want is a nation free of fascism. And who can blame them? These despots and demagogues cause us nothing but trouble. Let us be rid of them. Fascism will cease to be treated as a legitimate ideology in the eyes of the law. Soon, it will not be in the eyes of the people as well."
-RP_Act_Anti_Fascism_tt:0 "Completing this focus will initialize §Ythe Anti-Fascism Act§!."
-
-RP_Act_Work_Safety:0 "Work Safety Act"
-RP_Act_Work_Safety_desc:0 "Companies have been abusing their workers for far too long. What's worse, the government isn't able to do anything about it. Until now. We will gain the right to investigate corporations and their leadership for any unfair practices. If we find any, we will bring down the hammer on them. England's working classes deserve a fair shake, and we will grant them that."
-RP_Act_Work_Safety_tt:0 "Completing this focus will initialize §Ythe Work Safety Act§!."
-
-RP_Act_Coal:0 "Coal Act"
-RP_Act_Coal_desc:0 "Let's try something new. It's been a common complaint that the coal industry does not work as it is supposed to. And does anyone doubt the reason why? The government is never efficient in anything it sets out to do. Let us sell off the entire business tfo the highest bidder. Then, we will see if they can run it better."
-RP_Act_Coal_tt:0 "Completing this focus will initialize §Ythe Coal Act§!."
-
-RP_Act_Communications:0 "Communications Act"
-RP_Act_Communications_desc:0 "The days of government owned monopolies must come to an end before we can truly usher in the successes of a competitive and free market, and the status of our Communications Industry is no exception. From the Radio and Television run by the British Broadcasting Corporation, to the National Telephone systems being run out of the General Post Office, all will need to be spun-off, split up, and privatised. Only then will we have economic prosperity."
-RP_Act_Communications_tt:0 "Completing this focus will initialize §Ythe Communications Act§!."
-
-RP_Act_Aviation:0 "Aviation Act"
-RP_Act_Aviation_desc:0 "Expensive tickets. Empty flights. The state of the airline industry of England is a mess. We must come in and change it all. Private airlines will be allowed to enter the market, offering flights for cheaper prices. And when multiple airline companies compete, the flyers win."
-RP_Act_Aviation_tt:0 "Completing this focus will initialize §Ythe Aviation Act§!."
-
-RP_Act_Rail_Road:0 "Rails and Roads Act"
-RP_Act_Rail_Road_desc:0 "Our roads are clogged by inefficient work projects and expensive expansions. Our rail industry is having similar problems. There is really only one solution: privatization. Road and rail systems must be broken up and auctioned off to private companies. Once they are involved, they will find out ways to run them for less cost. And the road and rail passengers will thank us."
-RP_Act_Rail_Road_tt:0 "Completing this focus will initialize §Ythe Rails and Roads Act§!."
-
-RP_Act_Union:0 "The Union Act"
-RP_Act_Union_desc:0 "The tyranny of the Union has forced itself upon the English people for so long that many have forgotten the wicked Marxism that they propagate. Their lies of "aiding the working class" will be abolished alongside them, to allow the Free Market to guide England to prosperity. Unions, or anything similar to workers forcing their fellow co-workers into such vile pacts, are to be completely and utterly illegal. With this, we will have protected our economy and our people."
-RP_Act_Union_tt:0 "Completing this focus will initialize §Ythe The Union Act§!."
-
-RP_Act_Equality:0 "Fair Employment Act"
-RP_Act_Equality_desc:0 "For too long has Britain let its arrogance turn away half of the population from the workforce. As we enter this modern age, Britain must evolve alongside other nations within the West, and begin providing women opportunities for work. More than that, we shall encourage it, to infuse a new productive spirit into our newly grown workforce. With the integration of women into the modern workforce, we will see our economy reach new heights."
-RP_Act_Equality_tt:0 "Completing this focus will initialize §Ythe Fair Employment Act§!."
-
-ENG_Act_NDL_MPs:0 "§Y[?ActMechanic_MPs^11]§! of the §Y[?ParliamentMechanic_Party_SeatNum^11]§! §gNDL Moderate§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^10]§! of the §Y[?ParliamentMechanic_Party_SeatNum^10]§! §fNDL Liberal§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^12]§! of the §Y[?ParliamentMechanic_Party_SeatNum^12]§! §BNDL Conservative§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^13]§! of the §Y[?ParliamentMechanic_Party_SeatNum^13]§! §PSLP Reformist§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^14]§! of the §Y[?ParliamentMechanic_Party_SeatNum^14]§! §eSLP Hardliner§! MPs support the Act.\n\nOverall, §Y[?MPs_Support]§! of the §Y[?totalseats]§! MPs in the House of Commons support the Act, and we need the support of at least §Y[?half_totalseats]§! MPs to pass the Act."
-ENG_Act_SLP_MPs:0 "§Y[?ActMechanic_MPs^13]§! of the §Y[?ParliamentMechanic_Party_SeatNum^13]§! §PSLP Reformist§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^14]§! of the §Y[?ParliamentMechanic_Party_SeatNum^14]§! §eSLP Hardliner§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^11]§! of the §Y[?ParliamentMechanic_Party_SeatNum^11]§! §gNDL Moderate§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^10]§! of the §Y[?ParliamentMechanic_Party_SeatNum^10]§! §fNDL Liberal§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^12]§! of the §Y[?ParliamentMechanic_Party_SeatNum^12]§! §BNDL Conservative§! MPs support the Act.\n\nOverall, §Y[?MPs_Support]§! of the §Y[?totalseats]§! MPs in the House of Commons support the Act, and we need the support of at least §Y[?half_totalseats]§! MPs to pass the Act."
-ENG_Act_UE_MPs:0 "§Y[?ActMechanic_MPs^6]§! of the §Y[?ParliamentMechanic_Party_SeatNum^6]§! §fUE Liberal§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^5]§! of the §Y[?ParliamentMechanic_Party_SeatNum^5]§! §BUE Macmillanist§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^7]§! of the §Y[?ParliamentMechanic_Party_SeatNum^7]§! §gRoyal Party§! MPs support the Act.\n\nOverall, §Y[?MPs_Support]§! of the §Y[?totalseats]§! MPs in the House of Commons support the Act, and we need the support of at least §Y[?half_totalseats]§! MPs to pass the Act."
-ENG_Act_RP_MPs:0 "§Y[?ActMechanic_MPs^7]§! of the §Y[?ParliamentMechanic_Party_SeatNum^7]§! §ERoyal Party§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^6]§! of the §Y[?ParliamentMechanic_Party_SeatNum^6]§! §fUE Liberal§! MPs support the Act.\n\n§Y[?ActMechanic_MPs^5]§! of the §Y[?ParliamentMechanic_Party_SeatNum^5]§! §BUE Macmillanist§! MPs support the Act.\n\nOverall, §Y[?MPs_Support]§! of the §Y[?totalseats]§! MPs in the House of Commons support the Act, and we need the support of at least §Y[?half_totalseats]§! MPs to pass the Act."
+ENG_Acts_Progress:0 "Голосование по §Y[Root.ENG_Act_Name]§!"
+ENG_Acts_Progress_desc:0 "По истечении 60 дней Палата Общин проголосует по нашему предложению. До тех пор мы можем вести переговоры с другими фракциями парламента, чтобы обеспечить принятие закона."
+
+ENG_Acts_Compromise_Moderate:0 "Компромисс с §gУмеренным крылом§!"
+ENG_Acts_Compromise_Liberal:0 "Компромисс с §fЛиберальным крылом§!"
+ENG_Acts_Compromise_Conserv:0 "Компромисс с §BКонсервативным крылом§!"
+ENG_Acts_Compromise_SLP:0 "Компромисс с §PСоциалистической Рабочей Партией§!"
+ENG_Acts_Compromise_Reform:0 "Компромисс с §PРеформистами§!"
+ENG_Acts_Compromise_Hardliner:0 "Компромисс с §eСторонниками жесткой линии§!"
+ENG_Acts_Compromise_NDL:0 "Компромисс с §fНациональной Демократической Лигой§!"
+ENG_Acts_Compromise_Macmillan:0 "Компромисс с §BМакмилланистами§!"
+ENG_Acts_Compromise_UE_Liberals:0 "Компромисс с §fЛибералами§!"
+ENG_Acts_Compromise_RP:0 "Компромисс с §gКоролевской Партией§!"
+ENG_Acts_Compromise_Old_Guard:0 "Компромисс со §gСтарой гвардией§!"
+ENG_Acts_Compromise_UE:0 "Компромисс с §BОбъединенной Англией§!"
+
+compromise_moderate_tt:0 "Компромисс с §gДемократами§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно увеличивая свою силу."
+compromise_liberal_tt:0 "Компромисс с §fНовыми Вигами§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно увеличивая свою силу."
+compromise_conserv_tt:0 "Компромисс с §BПатриотами§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно увеличивая свою силу."
+compromise_SLP_tt:0 "Компромисс с §PСРП§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно широко усиливая свою популярность."
+compromise_reform_tt:0 "Компромисс с §PРеформистами§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно усиливая свое влияние."
+compromise_hardliner_tt:0 "Компромисс с §eСторонниками жесткой линии§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно усиливая свое влияние."
+compromise_NDL_tt:0 "Компромисс с §fНДЛ§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно широко усиливая свою популярность."
+compromise_macmillanists_tt:0 "Компромисс с §BМакмилланистами§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно усиливая свое влияние."
+compromise_ue_liberals_tt:0 "Компромисс с §fЛибералами§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно усиливая свое влияние."
+compromise_RP_tt:0 "Компромисс с §gКоролевской Партией§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно широко усиливая свою популярность."
+compromise_old_guard_tt:0 "Компромисс со §gСтарой гвардией§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно усиливая свое влияние."
+compromise_UE_tt:0 "Компромисс с §BОбъединенной Англией§! увеличит их поддержку для [Root.ENG_Act_Name] одновременно широко усиливая свою популярность."
+
+ENG_acts.1.t:0 "Акт Принят"
+ENG_acts.1.desc:0 "Пожилой мужчина сидел на скамейке и читал местную газету. На первой странице написано о событиях в Вестминстере. Улицы вокруг него стали чуть оживленнее. Небо над головой немного прояснилось.\n\nСудя по ноовостям новый Акт парламента прошел через Палату Общин и стал частью законов страны. Ведущие новостей в прямом эфире обсуждали последствия этого недавнего события. Политики объявили этот день большим успехом для своей партии и страны.\n\nБудущее миллионов мужчин и женщин будет зависеть от этого акта, даже если они никогда о нем не услышат. Только время покажет, к лучшему это или к худшему."
+ENG_acts.1.a:0 "Мы пишем историю Англии прямо сейчас."
+ENG_acts.2.t:0 "Акт Отклонен"
+ENG_acts.2.desc:0 "С экрана телевизора репортер объявил, что новый акт был отклонен депутатами Палаты Общин. Оппозиция и многие СМИ осудили премьер-министра за его некомпетентность. Даже депутаты в правительстве усомнились в руководстве своей партии. Повсюду в Англии люди слышат только о неудачах, и с каждой последующей неудачей правительства доверие народа к способности правительства править уменьшается. Если премьер-министр не может контролировать парламент, то очень скоро он не сможет контролировать Англию."
+ENG_acts.2.a:0 "Надеюсь, следующий акт пройдёт лучше."
+
+NDL_Act_County:0 "Акт о Графствах"
+NDL_Act_County_desc:0 "Во время немецкой оккупации Англии границы графств были перекрашены коллаборационистами в соответствии с их потребностями. Теперь мы можем перерисовать границы округов в соответствии с их историческим происхождением и обеспечить лучшее местное управление. От Нортумберленда до Кента графства будут восстановлены в прежнем виде. Это будет первым шагом к уничтожению наследия коллаборационистов по всей Англии."
+NDL_Act_County_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Графствах§!."
+
+NDL_Act_Lords:0 "Акт о Лордах"
+NDL_Act_Lords_desc:0 "Чтобы гарантировать отсутствие сопротивления в парламенте, Королевская партия набила Палату лордов немецкими коллаборационистами и коррумпированными аристократами. Это привело к тому, что работа учреждения стала крайне неэффективной. Этим законом мы реформируем Палату лордов и лишим титулов предателей и некомпетентных лордов. Последние коллаборационисты будут удалены из английского правительства."
+NDL_Act_Lords_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Лордах§!."
+
+NDL_Act_National_Education:0 "Акт о Национальном Образовании"
+NDL_Act_National_Education_desc:0 "Ключом к восстановлению английской экономики после кризиса является образование. Этот Закон национализирует некоторые части системы, чтобы стандартизировать учебную программу и обеспечить школы квалифицированными учителями и переорганизовать школы с целью включения в учебный план современной науки и математики. Возможно, у нас больше нет месторождений Британской Индии или алмазных копей Южной Африки, но у нас все еще есть наши умы."
+NDL_Act_National_Education_tt:0 "Завершение этого фокуса приведет к изданию §YНационального Закона об Образовании§!."
+
+NDL_Act_Worker_Protection:0 "Акт о Защите Трудящихся"
+NDL_Act_Worker_Protection_desc:0 "Отсутствие регулирования и мер безопасности на английских рабочих местах приводит к несчастным случаям на многих предприятиях, начиная от угольных шахт и заканчивая мясокомбинатами. Этот Закон вводит основные правила безопасности на предприятиях, чтобы не допустить дальнейших несчастных случаев. Инспекторы по безопасности будут ездить по всей Англии, чтобы проверить предприятия и убедиться, что они следуют нашим директивам. Английские рабочие будут чувствовать себя настолько защищенными на своих рабочих местах, словно они дома. Будем надеяться, что англичане поймут, что им не нужен социализм, чтобы быть в безопасности."
+NDL_Act_Worker_Protection_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Защите Трудящихся§!."
+
+NDL_Act_Children_and_Wives:0 "Акт о Детях и Женах"
+NDL_Act_Children_and_Wives_desc:0 "Нынешние законы не гарантируют детям и женщинам защиту, что особенно заметно среди сирот и вдов. Этот закон позволит начать оказывать помощь и гарантировать безопасность этим группам людей. Мы создадим общественные приюты и организации для помощи женщинам и детям. Детские дома и благотворительные организации по всей Англии будут поддерживаться за счет государственного финансирования. Пусть этот закон не слишком масштабен, мы надеемся, что он позволит обществу Англии стать лояльнее к дальнейшим изменениям общественного устройства в будущем."
+NDL_Act_Children_and_Wives_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Детях и Женах§!."
+
+NDL_Act_Sexual_Offenses:0 "Акт о Сексуальных Преступлениях"
+NDL_Act_Sexual_Offenses_desc:0 "Гомосексуалисты-мужчины и женщины уже давно терпят притеснения со стороны английского законодательства и общества. Пусть этот закон не сможет изменить мнение о гомосексуализме среди ортодоксальных англичан, но данный закон позволит декриминализировать его. Это шаг покажет миру, что Англия - либеральная нация, идущая впереди остального мира. С другой стороны, английские традиционалисты окажутся возмущены и мобилизуют все силы, чтобы остановить издание закона. Тем не менее, принятие закона ясно показало бы, что в НДЛ нет места консерваторам, которые не видят будущего."
+NDL_Act_Sexual_Offenses_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Сексуальных Преступлениях§!."
+
+NDL_Act_Border:0 "Акт о Границе"
+NDL_Act_Border_desc:0 "Англия - одна из немногих свободных наций Европы, поэтому вполне естественно, что каждый год тысячи людей решаются пересечь Ла-Манш ради свободы. Патриоты, находящиеся в правительстве, обеспокоены потенциальной угрозой безопасности и экономики от притока беженцев. Этот закон ограничивает количество людей, которые могут въехать в Англию, и ужесточает ограничения на границе. Может быть, нам и не следует отказывать невинным людям, спасающимся от нацизма, но мы не можем пустить в Англию всех мужчин, женщин и детей Европы."
+NDL_Act_Border_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Границе§!."
+
+NDL_Act_Preservation_of_Democracy:0 "Акт о Сохранении Демократии"
+NDL_Act_Preservation_of_Democracy_desc:0 "Демократия в Англии должна быть сохранена любой ценой; ее гордая история простирается от момента создания парламента до сегодняшнего дня. Однако наши демократические традиции были почти уничтожены во время немецкой оккупации и господства нацизма. Единственный способ обеспечить безопасность демократии - вышвырнуть тех, кто хочет покончить с ней. Этот Закон запрещает левым и правым радикалам заниматься политикой. Фашисты больше не будут иметь голоса в палатах парламента."
+NDL_Act_Preservation_of_Democracy_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Сохранении Демократии§!."
+
+NDL_Act_Investigations:0 "Акт о Расследованиях"
+NDL_Act_Investigations_desc:0 "Даже в нашем великом английском обществе присутствует коррупция. И пока она не вышла из под контроля, мы должны предотвратить ее дальнейшее распространение. Этот Закон позволяет правительству проводить расследования в отношении частных компаний и должностных лиц, заподозренных в нелегальной деятельности. Правительственные учреждения смогут проводить рейды и проникать в компании, а также проводить расследования в отношении членов парламента. Предоставление правительству авторитарных полномочий может иметь некоторые преимущества."
+NDL_Act_Investigations_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Расследованиях§!."
+
+NDL_Act_Housing:0 "Акт о Жилье"
+NDL_Act_Housing_desc:0 "Одна из самых больших проблем, стоящих перед Англией в настоящее время, - это жилье. Небольшое количество землевладельцев контролирует большую часть домов, что приводит к завышению цен. Этот Закон регулирует цены на землю с помощью государственных жилищных программ, направленных на строительство новых домов, а также ремонт старых. Это, как мы надеемся, приведет к более доступному жилью для английской бедноты. Мы не можем позволить людям жить без крыши над головой."
+NDL_Act_Housing_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Жилье§!."
+
+NDL_Act_Business:0 "Акт о Бизнесе"
+NDL_Act_Business_desc:0 "Эффективный способ дать толчок нашей экономике и предотвратить контроль со стороны иностранных корпораций - это помочь малому бизнесу. Этот Закон позволяет правительству выделять специальные субсидии малому бизнесу, чтобы обеспечить больше рабочих мест и больше товаров на рынке. Обычный владелец бизнеса наверняка поддержит нас сейчас. Простые рабочие поначалу могут быть возмущены подачками бизнесу, но они изменят свое мнение, когда начнется экономический бум."
+NDL_Act_Business_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Бизнесе§!."
+
+NDL_Act_National_Healthcare:0 "Акт о Национальном Здравоохранении"
+NDL_Act_National_Healthcare_desc:0 "Здравоохранение - наиболее востребованная услуга со стороны масс. Введение в действие форм национального здравоохранения значительно повысило бы нашу поддержку в обществе, но у нас все еще есть некоторые опасения по поводу стоимости. Этот Закон утверждает Национальную службу здравоохранения, которая будет представлять собой финансируемую правительством систему, созданную для предоставления медицинской помощи нуждающимся. Социалисты утверждают, что этого недостаточно, в то время как экономические консерваторы и бизнесмены говорят, что это социалистическая политика. Мы должны поднять поддержку этого Закона в парламенте, потому что это будет наша самая большая реформа."
+NDL_Act_National_Healthcare_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Национальном Здравоохранении§!."
+
+NDL_Act_Affordable_Education:0 "Акт о Доступном Образовании"
+NDL_Act_Affordable_Education_desc:0 "Образование бесполезно, если большинство людей не могут себе его позволить. В настоящее время школы недоступны для обездоленных детей, какими бы умными они ни были. Этот закон снижает стоимость образования, тем самым все люди, вне зависимости от их материального положения, смогут обеспечить своих детей образованием. Принятие этого Закона станет инвестицией в будущее. И пусть обеспечение каждого ребенка 12-ю годами обучения в школе является достаточно дорогим удовольствием, для будущего Англии нет слишком высокой цены."
+NDL_Act_Affordable_Education_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Доступном Образовании§!."
+
+SLP_Act_Lords:0 "Акт о Палате Лордов"
+SLP_Act_Lords_desc:0 "Палата Ллордов видела и лучшие времена. Пусть формально она является верхней палатой парламента, она была совершенно бессильна на протяжении многих лет. Появление Королевской партии, тем не менее, не улучшило ситуацию. Через немецкую оккупацию коллаборационисты назначили своих союзников и коррумпированных аристократов в парламент. Этот Закон реформирует всю Палату Лордов, упраздняя наследование мест в ней и лишая коллаборационистов пэрства. Это первый шаг к преобразованию правительства из реакционного в защищающего интересы социализма и демократии."
+SLP_Act_Lords_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Палате Лордов§!."
+
+SLP_Act_Women_Pension:0 "Акт о Женских Пенсиях"
+SLP_Act_Women_Pension_desc:0 "Очевидно, что женщины заслуживают равных с мужчинами прав трудящихся. Количество женщин-рабочих неуклонно растет, но в настоящее время они у них отсутствуют пенсии и права, доступные их коллегам-мужчинам. Данный закон предоставит больше пенсий, гарантируя их выплату как мужчинам, так и женщинам в равной степени. После выхода на пенсию жены больше не будут зависеть от своих мужей. Солидарность не делится по половому признаку."
+SLP_Act_Women_Pension_tt:0 "Завершение этого фокуса приведет к изданию §YЗакона о Женских Пенсиях§!."
+
+SLP_Act_Equality:0 "Акт о равенстве"
+SLP_Act_Equality_desc:0 "Равенство для всех распространяется и на женщин. Старое английское общество использовало угнетение женщин для разделения рабочего класса. Пусть больше не будут различия среди рабочих нас разделять. Этот Акт дает множество прав и привилегий женщинам во всех отраслях права. Это сильный удар по старому строю, и это покажет, что Англия – это земля равенства для всех и воистину она является землей свободных."
+SLP_Act_Equality_tt:0 "Выполнение этого фокуса инициализирует §YАкт о равенстве§!."
+
+SLP_Act_Equal_Vote:0 "Акт о Равном Голосовании"
+SLP_Act_Equal_Vote_desc:0 "Демократия – орудие рабочего для свержения правящего класса, но главное для этого -–обеспечение права на голос для всех рабочих на английской земле. Этот Акт позволит голосовать всем англичанам, независимо от пола или расы. Мы должны показать, что мы – объединённый фронт всех рабочих Англии, объединенных стремлением к социализму и демократии. Все голоса рабочих должны быть равны."
+SLP_Act_Equal_Vote_tt:0 "Выполнение этого фокуса инициализирует §YАкт о Равном Голосовании§!."
+
+SLP_Act_Nepotism:0 "Акт О Кумовстве"
+SLP_Act_Nepotism_desc:0 "Кумовство – постоянная проблема английского общества и правительства. Отсутствие надзора привело к тому, что это процветает повсюду, начиная с профсоюзных чиновников и до членов Парламента. Этот Акт решает эту проблему, позволяя правительственным чиновникам исследовать назначения на должности. Все правительственные назначения теперь должны быть одобрены надзорным комитетом. Это, по идее, должно существенно улучшить ситуацию с кумовством в английской демократии."
+SLP_Act_Nepotism_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Кумовстве§!."
+
+SLP_Act_Socialist_Democracy:0 "Акт О Социалистической Демократии"
+SLP_Act_Socialist_Democracy_desc:0 "Социализм должен прийти через демократию. Авторитаризм только деградирует в капитализм. Демократия – голос рабочих по всей Англии, призывающий к переменам и социализму. Этот Акт внедряет множество мелких социалистических политик в Английском правительстве, но что более важно, так мы показываем радикалам в СЛП, что демократия здесь и останется. Демократия не временный этап перехода к социализму, это – необходимый компонент социализма."
+SLP_Act_Socialist_Democracy_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Социалистической Демократии§!."
+
+SLP_Act_Socialist_Education:0 "Акт О Социалистическом Образовании"
+SLP_Act_Socialist_Education_desc:0 "Обучение английских обычных людей – необходимый шаг для получения сознательной рабочей силы. Рабочих, которые не только обучены, но и понимают социалистическую реальность и готовы защищать социализм от его врагов. Этот Акт реформирует английскую школу, отходя от обучения традиционным ценностям в пользу преподавания с социалистической точки зрения. После того, как они перейдут от лекций про великих социалистических мыслителей прошлого к чтению социалистической литературы, студенты станут рабочими, понимающими, почему социализм – это единственно верный путь."
+SLP_Act_Socialist_Education_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Социалистическом Образовании§!."
+
+SLP_Act_State_Security:0 "Акт О Государственной Безопасности"
+SLP_Act_State_Security_desc:0 "Нас окружают враги социализма, начиная с немцев и заканчивая Национальной Демократической Лигой. Для защиты английского социализма от внутренних и внешних угроз мы должны усилить государство. Этот Акт сильно расширяет полномочия МИ5 и МИ6, увеличивая их финансирование и давая им некоторую свободу от Парламента и остального правительства. Сила радикалов будет использована для защиты Англии, демократии и главное, социализма."
+SLP_Act_State_Security_tt:0 "Выполнение этого фокуса инициализирует §Акт О Государственной Безопасности§!."
+
+SLP_Act_Anti_Fascism:0 "Антифашистский Акт"
+SLP_Act_Anti_Fascism_desc:0 "Существуют определенные организации, называющие себя английскими националистами и защитниками традиционной культуры. Но если приглядеться, то становится ясно, что эти организации – просто прикрытие для фашистов, и часто их поддерживают Патриоты в НДЛ. Этим Актом мы запретим такие организации, равно как и начнем расследование в отношении конкретных фашистских лидеров и потенциально их арестуем. Это будет сильный удар по Патриотам и по фашизму."
+SLP_Act_Anti_Fascism_tt:0 "Выполнение этого фокуса инициализирует §YАнтифашистский Акт§!."
+
+SLP_Act_Land_Redistribution:0 "Акт О Перераспределении Земли"
+SLP_Act_Land_Redistribution_desc:0 "Большей частью земли в Англии владеют несколько аристократов, в то время как у обычного фермера почти ничего нет. Этот Акт перераспределяет большое количество земли от аристократов к фермерам. Также Акт внедряет некоторые реформы землевладения, чтобы предотвратить накопление земли богачами. Плантации будут разделены на меньшие фермы, которыми будут владеть работающие на них люди. Этот Акт поможет увеличить экономическую эффективность и передаст фермерам то, что принадлежит им по праву."
+SLP_Act_Land_Redistribution_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Перераспределении Земли§!."
+
+SLP_Act_Universal_Healthcare:0 "Акт О Всеобщем Здравоохранении"
+SLP_Act_Universal_Healthcare_desc:0 "Всеобщее здравоохранение жизненно важно для счастья английского народа. Сейчас только богатые могут позволить себе хорошее лечение, в то время как рабочие могут себе позволить в лучшем случае некачественное лечение. Этот Акт создаст Национальную Службу Здравоохранения, которая предоставит медицинскую помощь всем нуждающимся и будет финансироваться налогами и английским правительством. Мы должны протащить этот акт, ибо он пока что он будет нашей величайшей реформой."
+SLP_Act_Universal_Healthcare_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Всеобщем Здравоохранении§!."
+
+SLP_Act_Equal_Opportunity:0 "Акт О Равных Возможностях"
+SLP_Act_Equal_Opportunity_desc:0 "Некоторые люди от рождения имеют больше возможностей, чем другие. Так было с самого начала истории человечества, но мы покажем это ложным. Первое определяет и обучение, и, к сожалению, богатые сейчас могут позволить себе лучшее образование, чем многие другие. Этот Акт исправит эту проблему, сделав высшее образование свободным и бесплатным для всех. Можно надеяться, что это приведет в повышению количества образованной рабочей силы, равно как и создаст прецедент того, что все люди равны; что их будущее определяют лишь они сами."
+SLP_Act_Equal_Opportunity_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Равных Возможностях§!."
+
+SLP_Act_Peoples_Housing:0 "Народный Жилищный Акт"
+SLP_Act_Peoples_Housing_desc:0 "В нашей стране многие стабильно занятые рабочие не имеют достойного жилья. Этот Акт создает новые финансируемые правительством жилищные программы, по которым будут построены новые дешевые дома для рабочих по всем городам от Лондона до Манчестера. Рабочие смогут себе позволить доступное жилье рядом с местами работы. Это увеличит эффективность, и люди увидят, что социализм может обеспечить все их потребности."
+SLP_Act_Peoples_Housing_tt:0 "Выполнение этого фокуса инициализирует §YНародный Жилищный Акт§!."
+
+SLP_Act_National_Wage:0 "Национальный Акт О Минимальном Размере Оплаты Труда"
+SLP_Act_National_Wage_desc:0 "Каждому человеку необходим прожиточный минимум, но, к сожалению, мы не всегда получаем то, что нам нужно. Часто корпорации эксплуатируют рабочих, давая им лишь небольшую долю того, что они производят. Этот Акт обязует все компании в Англии платить своим работникам прожиточный минимум. Каждый, от кассира и до дальнобойщика будет получать заработную плату, достаточную для того, чтобы позволить себе дом и телевизор. Рабочие больше не потерпят эксплуатации; они наконец будут получать то, чего они достойны."
+SLP_Act_National_Wage_tt:0 "Выполнение этого фокуса инициализирует §Национальный акт о минимальном размере оплаты труда§!."
+
+UE_Act_Anti_Bribery:0 "Акт О Борьбе Со Взятками"
+UE_Act_Anti_Bribery_desc:0 "Акт О Борьбе Со Взятками направлен на борьбу с коррумпированными чиновниками во всех эшелонах власти. То, что мы первыми это делаем, заставит другие партии выглядеть немного хуже в сравнении с нами, но главным эффектом акта будет увеличение национальной стабильности. В конце концов, люди, не вынужденные платить взятки, будут более склонны голосовать правильно."
+UE_Act_Anti_Bribery_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Борьбе Со Взятками§!."
+
+UE_Act_Education:0 "Акт Об Образовании"
+UE_Act_Education_desc:0 "Акт Об Образовании направлен на исправление некоторых проблем в нашей современной системе образования, особенно перебору с телесными наказаниями, недостаток хороших учителей во многих сельских школах и увеличение количества возможностей, доступных бедным и живущим в отдаленной местности учащимся. Также это в целом увеличит финансирование школ и даст нам немного больше академиков."
+UE_Act_Education_tt:0 "Выполнение этого фокуса инициализирует §YАкт Об Образовании§!."
+
+UE_Act_Fair_Employment:0 "Акт О Честном Найме"
+UE_Act_Fair_Employment_desc:0 "Акт О Честном Найме скорее можно назвать серией актов, проходящих как один. Главным образом акт покрывает отношения рабочего и работодателя, предотвращая увольнение работников без компенсации, пока у этого нет причины, и запрещает увольнение беременных женщин без выплаты компенсации. Также акт дает возможность инвалидам устроиться на работу и предлагает субсидии предприятиям, которые сами предоставят эти возможности."
+UE_Act_Fair_Employment_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Честном Найме§!."
+
+UE_Act_Women_Workforce:0 "Акт О Женщинах На Работе"
+UE_Act_Women_Workforce_desc:0 "Женщины так же важны как рабочая сила, как и мужчины, и Акт О Женщинах На Работе сделает этот девиз законом. Больше никто в Англии подвергаться дискриминации в плане зарплаты, найма, увольнения или повышения на основе пола, и никакие должности, исключая некоторые указанные в специальном списке, больше не являются запрещенными для женщин."
+UE_Act_Women_Workforce_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Женщинах На Работе§!."
+
+UE_Act_Labour:0 "Акт О Труде"
+UE_Act_Labour_desc:0 "частично выплачиваемых правительством всем занятым в государственном секторе, а рабочие в частном секторе будут обязаны выплачивать часть своей зарплаты в пенсионный фонд. Также акт предоставляет выплаты по безработице для рабочих, которые ищут работу и нетрудоспособных."
+UE_Act_Labour_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Труде§!."
+
+UE_Act_Worker_Health:0 "Акт О Здоровье Рабочих"
+UE_Act_Worker_Health_desc:0 "Акт О Здоровье Рабочих – первый акт правительства Единой Англии, дающий субсидии на здравоохранение всем гражданам Англии вне зависимости от занятости и возраста. Теперь правительство будет помогать платить за все необходимые операции и лекарства даже в случаях, когда операция обширная или косметическая."
+UE_Act_Worker_Health_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Здоровье Рабочих§!."
+
+UE_Act_Free_Labour:0 "Акт О Свободном Труде"
+UE_Act_Free_Labour_desc:0 "Акт о свободном труде – это серия всесторонних реформ, гарантирующих пенсии и право на выплаты по безработице для нетрудоспособных. Пенсионная реформа гарантирует, что у всех пенсионеров будут средства на жизнь, а реформы выплат по безработице гарантируют, что у тех, кто может работать, будет повод найти работу."
+UE_Act_Free_Labour_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Свободном Труде§!."
+
+UE_Act_Anti_Corruption:0 "Антикоррупционный Акт"
+UE_Act_Anti_Corruption_desc:0 "Антикоррупционный Акт – это законопроект, направленный на решение проблемы коррупции среди местных чиновников, судей и законодателей. Пусть он и не направлен прямо на нанесение вреда какой-либо партии, но очевидно, что от него больше всего пострадает Королевская партия. Возможно, в тему то, что Акт О Коррупции имеет обратную силу, и те, кто считали, что после своих преступлений они будут в безопасности, будут осуждены. "
+UE_Act_Anti_Corruption_tt:0 "Выполнение этого фокуса инициализирует §YАнтикоррупционный Акт§!."
+
+UE_Act_Anti_Extremism:0 "Антиэкстремистский Акт"
+UE_Act_Anti_Extremism_desc:0 "Акт, полностью запрещающий фашизм даже не как политическую силу, но как идеологию, которой может следовать средний человек, Антиэкстремистский Акт – выражение намерений правительства Макмиллана по отношению ко всем ультраправым политическим движениям. Некоторые из них, официально себя фашистами не называющие, все равно подпадут под действие Акта."
+UE_Act_Anti_Extremism_tt:0 "Выполнение этого фокуса инициализирует §YАнтиэкстремистский Акт§!."
+
+UE_Act_Protect_Democracy:0 "Акт О Защите Демократии"
+UE_Act_Protect_Democracy_desc:0 "Демократия – хрупкий конструкт, который нужно осторожно взращивать и защищать от фанатиков и злоумышленников. Для того, чтобы остановить нанесение вреда нашей демократии, будут усилены некоторые ограничения на публичные встречи и содержание медиа. Также будет идти наблюдение за контентом СМИ, чтобы они не выпускали слишком радикальные для английского общества материалы."
+UE_Act_Protect_Democracy_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Защите Демократии§!."
+
+UE_Act_Patriot:0 "Патриотический Акт"
+UE_Act_Patriot_desc:0 "Не является ли долгом каждого в первую очередь действовать в интересах Англии? Возможно, нет, но Патриотический Акт в первую очередь направлен на сбор информации о тех, кто стремится разрушить Англию: в основном фашистов, но сторонники Королевской партии, остатки СВОЁВ и другие террористические организации также могут быть разбиты."
+UE_Act_Patriot_tt:0 "Выполнение этого фокуса инициализирует §YПатриотический Акт§!."
+
+UE_Act_Equal_Vote:0 "Акт О Равном Голосовании"
+UE_Act_Equal_Vote_desc:0 "Акт О Равном Голосовании дает избирательное право и защищает это право для всех, рожденных в границах Англии и всех ее составляющих наций. Мужчины и женщины вне зависимости от идеологии, цвета кожи или мировоззрения могут голосовать как пожелают, и долг правительства – защитить это право. Это даст нам поддержку по всей стране, а те, кому мы дали это право, будут наиболее благодарны."
+UE_Act_Equal_Vote_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Равном Голосовании§!."
+
+UE_Act_Clear_Parliament:0 "Акт О Чистом Парламенте"
+UE_Act_Clear_Parliament_desc:0 "Кроме всего прочего, Акт О Чистом Парламенте покрывает повседневное управление Англией, особенно – право народа больше знать об этом процессе и наблюдать за ним. Также предоставляются и другие свободы, например, отмена максимального числа участников публичных собраний, но главная цель Акта – реформы прозрачности."
+UE_Act_Clear_Parliament_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Чистом Парламенте§!."
+
+UE_Act_University:0 "Акт О Либеральном Образовании"
+UE_Act_University_desc:0 "Акт О Либеральном Образовании служит двум разным целям. В первую очередь он направлен на многочисленные дыры в нынешней образовательной системе, предоставляя больше финансирования государственным школам и расширяя список предметов, преподаваемых в образовательных учреждениях всех видов. Этот акт расчистит путь многим поколениям отлично образованных английских граждан."
+UE_Act_University_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Либеральном Образовании§!."
+
+UE_Act_Free_Press:0 "Акт О Свободной Прессе"
+UE_Act_Free_Press_desc:0 "Акт о свободной прессе официально убирает большую часть ограничений, наложенных правительством на прессу. Главное среди них – ослабление контроля над тем, о чем и как можно и о чем и как нельзя писать в газетах. Теперь английская пресса может вздохнуть свободно, и боже сохрани политиков, оставленных ей на растерзание."
+UE_Act_Free_Press_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Свободной Прессе§!."
+
+UE_Act_Affordable_Education:0 "Акт О Доступном Образовании"
+UE_Act_Affordable_Education_desc:0 "Акт о доступном образовании направлен на увеличение количества английских юношей, вступающих на академическое поле. Субсидирование университетских курсов, большее финансирование всех государственных учебных заведений и защита права всех учащихся, желающих получить высшее образование, на это самое образование."
+UE_Act_Affordable_Education_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Доступном Образовании§!."
+
+UE_Act_Income_Tax:0 "Акт О Налоге На Доходы"
+UE_Act_Income_Tax_desc:0 "Акт О Налоге На Доходы главным образом нацелен на уменьшение влияния налога на доходы на средние траты английских потребителей. В конце концов, для движения экономике нужны транзакции, и Англия – не исключение. Также акт вносит небольшие выгодные бизнесу поправки в налоговый кодекс, касающиеся владения их активами в Англии."
+UE_Act_Income_Tax_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Налоге На Доходы§!."
+
+UE_Act_Open_Democracy:0 "Акт Об Открытой Демократии"
+UE_Act_Open_Democracy_desc:0 "Почему человек должен быть изгнан из политической жизни, если, конечно, он не фашист? Да и то их пропаганда вряд ли хорошо сработает в нашей новой и современной демократии. Ограничения на публичные собрания также будут ослаблены и далее. Какое вообще дело правительству до того, о чем разговаривает кучка старых хабалок?"
+UE_Act_Open_Democracy_tt:0 "Выполнение этого фокуса инициализирует §YАкт Об Открытой Демократии§!."
+
+UE_Act_Free_Education:0 "Акт О Свободном Образовании"
+UE_Act_Free_Education_desc:0 "Важно, чтобы при обучении английский учащийся получал полное и правильное понимание прав и привилегий, предоставляемых ему демократическим обществом. Более того, этот акт – повод для еще большего увеличения финансирования в целях восстановления нашего пула специалистов и квалифицированных рабочих до довоенного уровня."
+UE_Act_Free_Education_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Свободном Образовании§!."
+
+UE_Act_Charter:0 "Акт О Хартии"
+UE_Act_Charter_desc:0 "Акт о Хартии – основной билль о политических правах и свободах в английском обществе. Кроме всего прочего, он запрещает запрет политической любой организации, желающей работать в демократическом поле. Это позволило вернуться Лейбористской партии, давно запрещенной под игом Королевской партии и тогда примкнувшей к Сопротивлению, но теперь возродившейся."
+UE_Act_Charter_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Хартии§!."
+
+UE_Act_Unions:0 "Акт О Профсоюзах"
+UE_Act_Unions_desc:0 "Недостаток возможности для организации наших рабочих всегда антидемократичен. Рабочие должны стоять лицом к лицу с промышленниками, если мы хотим более равного общества. Поэтому мы уберем все ограничения и государственный надзор над профсоюзами. Также мы улучшим технику безопасности, чтобы удовлетворить некоторые из самых главных причин для беспокойства наших рабочих. Обычный рабочий сможет идти с гордо поднятой головой только тогда, когда он будет уверен в своей безопасности, а его права будут защищены."
+UE_Act_Unions_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Профсоюзах§!."
+
+RP_Act_Workplace_Management:0 "Акт О Управлении На Работе"
+RP_Act_Workplace_Management_desc:0 "Нечестные практики стоят Англии денег в корпоративном мире. Конечно, кумовство – большая проблема, равно как и практика серых зарплат. И, разумеется, есть и немного теневых сделок. Мы положим этому конец. Все подозрительные дела будут объявлены незаконными и расследованы, а корпорации должны будут играть по тем же правилам, что и остальные."
+RP_Act_Workplace_Management_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Управлении На Работе§!."
+
+RP_Act_Business_Protection:0 "Акт О Защите Бизнеса"
+RP_Act_Business_Protection_desc:0 "Корпорации Англии нуждаются в отдыхе от высоких налогов, душащих экономику и инновации. И мы дадим им отдых. Налоги на корпорации и бизнес будут снижены, позволяя свободному рынку править снова. Компании также получат преимущество в виде налоговых льгот для отраслей в отраслях, которые мы хотим видеть процветающими. И в этом Акте есть еще немного других возможностей, если знать, куда смотреть."
+RP_Act_Business_Protection_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Защите Бизнеса§!."
+
+RP_Act_Housing:0 "Акт О Жилье"
+RP_Act_Housing_desc:0 "Беднякам Англии нужно жилье, и в то же время, увеличивается количество муниципальных домов. Если ты живешь в доме, ты заслуживаешь возможности его купить. Мы изменим законы, чтобы жители муниципальных домов могли их купить. Это даст многим возможность стать домовладельцами, и им больше не нужно будет разрешение от местных властей."
+RP_Act_Housing_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Жилье§!."
+
+RP_Act_New_Healthcare:0 "Новый Акт О Здравоохранении"
+RP_Act_New_Healthcare_desc:0 "Нашей системе здравоохранения нужно больше финансирования, и мы дадим его, чтобы наши люди от этого не страдали. Мы построим новые больницы, наймем новых врачей, предоставим современное оборудование и машины скорой помощи, а для наших ветеранов будут выделены специальные средства. Мы можем хорошо жить здесь в Англии, нам просто нужно для этого работать."
+RP_Act_New_Healthcare_tt:0 "Выполнение этого фокуса инициализирует §YНовый Акт О Здравоохранении§!."
+
+RP_Act_Hunger:0 "Акт О Голоде"
+RP_Act_Hunger_desc:0 "По всей Англии люди голодают, поскольку еда для них слишком дорога, и даже когда она недорогая, люди часто не могут ее себе позволить. Мы дадим нашим людям хлеб и что-нибудь, что можно на него положить. Финансирование программ по борьбе с голодом будет увеличено, а условия предоставления помощи будут более гибкими, чтобы люди могли получить все, что им нужно."
+RP_Act_Hunger_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Голоде§!."
+
+RP_Act_Leash:0 "Акт Об Ограничениях"
+RP_Act_Leash_desc:0 "Нам нужно разделаться с оппозицией, ибо они работают на уничтожение всего, чего мы достигли и за что боремся, и если у них получится это сделать, то все сделанное нами вылетит в трубу. И это не должно случиться. Мы пресечем их деятельность и ограничим клевету, которую они смогут писать в прессе. Несмотря на то, насколько непопулярно и громко они будут вопить, это будет сделано."
+RP_Act_Leash_tt:0 "Выполнение этого фокуса инициализирует §YАкт Об Ограничениях§!."
+
+RP_Act_Security:0 "Акт О Безопасности"
+RP_Act_Security_desc:0 "Камеры безопасности постоянно показывают себя эффективными, но, к сожалению, камеры в помещениях нельзя ставить без разрешения владельца, а материал сьемки предоставляется властям только по запросу. Мы позволим местным властям ставить камеры в местах вероятного совершения преступлений, не требуя разрешения владельца. Также материал будет отправляться на центральную систему мониторинга. Теперь мы можем повсюду собирать важные доказательства."
+RP_Act_Security_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Безопасности§!."
+
+RP_Act_Anti_Fascism:0 "Антифашистский Акт"
+RP_Act_Anti_Fascism_desc:0 "Можем ли мы винить нашу оппозицию в том, что они действительно хотят освободить нацию от фашизма? Эти деспоты и демагоги причиняют нам только проблемы, так что давайте от них избавимся. В глазах закона фашизм перестанет быть легитимной идеологией, и скоро он и в глазах народа таковым не будет."
+RP_Act_Anti_Fascism_tt:0 "Выполнение этого фокуса инициализирует §YАнтифашистский Акт§!."
+
+RP_Act_Work_Safety:0 "Акт О Технике Безопасности"
+RP_Act_Work_Safety_desc:0 "Слишком долго компании эксплуатировали своих работников, и что еще хуже, правительство не могло ничего с этим сделать. До сих пор. Мы получим право расследовать корпорации и их лидеров за любые нечестные практики, и если мы такие найдем, мы их раздавим словно молотом. Рабочий класс Англии заслуживает честного обращения, и мы ему это предоставим."
+RP_Act_Work_Safety_tt:0 "Выполнение этого фокуса инициализирует §Ythe Work Safety Act§!."
+
+RP_Act_Coal:0 "Акт об Угле"
+RP_Act_Coal_desc:0 "Давайте попробуем что-то новое. Постоянно жалуются на то, что угольная индустрия не работает, как положено. И кто б сомневался, почему? Государство никогда не может эффективно сделать что-то, за что оно берется. Давайте продадим всю отрасль тому, кто больше предложит, и посмотрим, смогут ли они лучше с этим справиться."
+RP_Act_Coal_tt:0 "Выполнение этого фокуса инициализирует §YАкт об Угле§!."
+
+RP_Act_Communications:0 "Акт О Связи"
+RP_Act_Communications_desc:0 "Дни государственных монополий должны прийти к концу, чтобы мы могли действительно использовать успехи свободного конкурентного рынка, и наша отрасль связи – не исключение. Все, от радио и телевидения, управляемых Би-би-си и до телефонной системы, управляемой Главным почтовым отделением, все должно быть разделено и приватизировано. Только тогда наша экономика будет процветать."
+RP_Act_Communications_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Связи§!."
+
+RP_Act_Aviation:0 "Акт Об Авиации"
+RP_Act_Aviation_desc:0 "Дорогие билеты. Пустые рейсы. Вся авиаотрасль Англии – позорище, и мы должны все изменить. Частные авиакомпании смогут войти на рынок, предлагая более дешевые билеты. А когда конкурируют несколько авиакомпаний, выигрывают пассажиры."
+RP_Act_Aviation_tt:0 "Выполнение этого фокуса инициализирует §YАкт Об Авиации§!."
+
+RP_Act_Rail_Road:0 "Акт Об Автомобильных И Железных Дорогах"
+RP_Act_Rail_Road_desc:0 "Наши трассы страдают от неэффективных рабочих программ и дорогих расширений. Есть только одно решение – приватизация. Авто- и железнодорожные системы должны быть разбиты и проданы на аукционе частным компаниям. Как только они будут вовлечены, они смогут управлять трассами по меньшим ценам, а пассажиры только поблагодарят нас."
+RP_Act_Rail_Road_tt:0 "Выполнение этого фокуса инициализирует §YАкт Об Автомобильных И Жедезных Дорогах§!."
+
+RP_Act_Union:0 "Акт О Профсоюзах"
+RP_Act_Union_desc:0 "Тирания профсоюзов так долго навязывалась английскому народу, что многие уже забыли проклятый марксизм, пропагандируемый ими. С их враньем про «помощь рабочему классу» будет покончено вместе с ними, чтобы свободный рынок мог привести Англию к процветанию. Профсоюзы, или что-либо похожее на то, как одни рабочие заставляют своих коллег вступать в такие ужасные пакты, будет полностью запрещена законом. Так мы защитим и нашу экономику, и наш народ."
+RP_Act_Union_tt:0 "Выполнение этого фокуса инициализирует §YАкт О Профсоюзах§!."
+
+RP_Act_Equality:0 "Акт О Честном Найме"
+RP_Act_Equality_desc:0 "Слишком долго Британия позволяла своему высокомерию не давать работать половине своего населения, и, вступая в современность, Британия вместе с другими западными странами должна дать женщинам возможность работать. Даже больше, мы должны их вдохновить на это, чтобы внушить производительный дух нашим новым рабочим. С интеграцией женщин в рабочую силу наша экономика достигнет новых вершин."
+RP_Act_Equality_tt:0 Выполнение этого фокуса инициализирует §YАкт О Честном Найме§!."
+
+ENG_Act_NDL_MPs:0 "§Y[?ActMechanic_MPs^11]§! из §Y[?ParliamentMechanic_Party_SeatNum^11]§! Члены парламента §gНДЛ умеренные§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^10]§! из §Y[?ParliamentMechanic_Party_SeatNum^10]§! Члены парламента §fНДЛ либералы§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^12]§! из §Y[?ParliamentMechanic_Party_SeatNum^12]§! Члены парламента §BНДЛ консерваторы§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^13]§! из §Y[?ParliamentMechanic_Party_SeatNum^13]§! Члены парламента §PСРП реформисты§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^14]§! из §Y[?ParliamentMechanic_Party_SeatNum^14]§! Члены парламента §eСРП сторонники жесткой линии§! поддерживают этот акт.\n\nВ целом, §Y[?MPs_Support]§! из §Y[?totalseats]§! члены парламента Палаты Общин поддерживают этот акт, и нам нужна поддержка по крайней мере §Y[?half_totalseats]§! члены парламента должны принять этот акт."
+ENG_Act_SLP_MPs:0 "§Y[?ActMechanic_MPs^13]§! из §Y[?ParliamentMechanic_Party_SeatNum^13]§! Члены парламента §PСРП реформисты§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^14]§! из §Y[?ParliamentMechanic_Party_SeatNum^14]§! Члены парламента §eСРП сторонники жесткой линии§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^11]§! из §Y[?ParliamentMechanic_Party_SeatNum^11]§! Члены парламента §gНДЛ умеренные§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^10]§! из §Y[?ParliamentMechanic_Party_SeatNum^10]§! Члены парламента §fНДЛ либералы§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^12]§! из §Y[?ParliamentMechanic_Party_SeatNum^12]§! Члены парламента §BНДЛ консервативные§! поддерживают этот акт.\n\nВ целом, §Y[?MPs_Support]§! из §Y[?totalseats]§! члены парламента Палаты Общин поддерживают этот акт, и нам нужна поддержка по крайней мере §Y[?half_totalseats]§! члены парламента должны принять этот акт."
+ENG_Act_UE_MPs:0 "§Y[?ActMechanic_MPs^6]§! из §Y[?ParliamentMechanic_Party_SeatNum^6]§! Члены парламента §fОА либералы§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^5]§! из §Y[?ParliamentMechanic_Party_SeatNum^5]§! Члены парламента §BОА макмилланисты§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^7]§! из §Y[?ParliamentMechanic_Party_SeatNum^7]§! Члены парламента §gКоролевская Партия§! поддерживают этот акт.\n\nВ целом, §Y[?MPs_Support]§! из §Y[?totalseats]§! члены парламента Палаты Общин поддерживают этот акт, и нам нужна поддержка по крайней мере §Y[?half_totalseats]§! члены парламента должны принять этот акт."
+ENG_Act_RP_MPs:0 "§Y[?ActMechanic_MPs^7]§! из §Y[?ParliamentMechanic_Party_SeatNum^7]§! Члены парламента §EКоролевская Партия§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^6]§! из §Y[?ParliamentMechanic_Party_SeatNum^6]§! Члены парламента §fОА либералы§! поддерживают этот акт.\n\n§Y[?ActMechanic_MPs^5]§! из §Y[?ParliamentMechanic_Party_SeatNum^5]§! Члены парламента §BОА макмилланисты§! поддерживают этот акт.\n\nВ целом, §Y[?MPs_Support]§! из §Y[?totalseats]§! члены парламента Палаты Общин поддерживают этот акт, и нам нужна поддержка по крайней мере §Y[?half_totalseats]§! члены парламента должны принять этот акт."
