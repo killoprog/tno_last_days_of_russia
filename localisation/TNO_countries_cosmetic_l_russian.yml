@@ -680,6 +680,7 @@
  SGR_speidels_germany_despotism_DEF:0 "Германия Шпайделя"
  SGR_speidels_germany_despotism_ADJ:0 "Германск."
  
+ 
  RPO_protectorate_national_socialism:0 "Рейхспротекторат Польша"
  RPO_protectorate_national_socialism_DEF:0 "Рейхспротекторат Польша"
  RPO_protectorate_national_socialism_ADJ:0 "Польск."
@@ -834,6 +835,114 @@
  VOR_ANARCHY_authoritarian_democrat:0 "Челябинск"
  VOR_ANARCHY_authoritarian_democrat_DEF:0 "Челябинская Республика"
  VOR_ANARCHY_authoritarian_democrat_ADJ:0 "Челябинск."
+
+ WRS_BURGSYS_COLLAPSE_despotism:0 "Северорусский Освободительный Фронт"
+ WRS_BURGSYS_COLLAPSE_despotism_DEF:0 "Северорусский Освободительный Фронт"
+ WRS_BURGSYS_COLLAPSE_despotism_ADJ:0 "Северорусск."
+ 
+ VOL_BURGSYS_COLLAPSE_fascism:0 "Императорский Торговый Синдикат"
+ VOL_BURGSYS_COLLAPSE_fascism_DEF:0 "Императорский Торговый Синдикат"
+ VOL_BURGSYS_COLLAPSE_fascism_ADJ:0 "Синдикатск."
+
+ NIK_BURGSYS_COLLAPSE_burgundian_system:0 "Священная Российская Империя"
+ NIK_BURGSYS_COLLAPSE_burgundian_system_DEF:0 "Священная Российская Империя"
+ NIK_BURGSYS_COLLAPSE_burgundian_system_ADJ:0 "Имперск."
+
+ TAR_BURGSYS_COLLAPSE_authoritarian_democrat:0 "Идель-Уральское Свободное Государство"
+ TAR_BURGSYS_COLLAPSE_authoritarian_democrat_DEF:0 "Идель-Уральское Свободное Государство"
+ TAR_BURGSYS_COLLAPSE_authoritarian_democrat_ADJ:0 "Идель-Уральск."
+
+ MAR_BURGSYS_COLLAPSE_burgundian_system:0 "Уральская Зона Очищения"
+ MAR_BURGSYS_COLLAPSE_burgundian_system_DEF:0 "Уральская Зона Очищения"
+ MAR_BURGSYS_COLLAPSE_burgundian_system_ADJ:0 "Имперск."
+
+ SAM_BURGSYS_COLLAPSE_social_conservative:0 "Христианская Республика Самара"
+ SAM_BURGSYS_COLLAPSE_social_conservative_DEF:0 "Христианская Республика Самара"
+ SAM_BURGSYS_COLLAPSE_social_conservative_ADJ:0 "Самарск."
+
+ MIR_BURGSYS_COLLAPSE_socialist:0 "Автономная Советская Освободительная Армия"
+ MIR_BURGSYS_COLLAPSE_socialist_DEF:0 "Автономная Советская Освободительная Армия"
+ MIR_BURGSYS_COLLAPSE_socialist_ADJ:0 "Советск."
+
+ ORE_BURGSYS_COLLAPSE_communist:0 "Революционные Коммуны Оренбурга"
+ ORE_BURGSYS_COLLAPSE_communist_DEF:0 "Революционные Коммуны Оренбурга"
+ ORE_BURGSYS_COLLAPSE_communist_ADJ:0 "Оренбургск."
+
+ URL_BURGSYS_COLLAPSE_authoritarian_democrat:0 "Транс-Уральская Конфедерация"
+ URL_BURGSYS_COLLAPSE_authoritarian_democrat_DEF:0 "Транс-Уральская Конфедерация"
+ URL_BURGSYS_COLLAPSE_authoritarian_democrat_ADJ:0 "Уральск."
+
+ KOM_BURGSYS_COLLAPSE_despotism:0 "Имперские Воздушно-Десантные Бригады"
+ KOM_BURGSYS_COLLAPSE_despotism_DEF:0 "Имперские Воздушно-Десантные Бригады"
+ KOM_BURGSYS_COLLAPSE_despotism_ADJ:0 "Имперск."
+
+ FAV_BURGSYS_COLLAPSE_socialist:0 "Ненецкая Свободная Армия"
+ FAV_BURGSYS_COLLAPSE_socialist_DEF:0 "Ненецкая Свободная Армия"
+ FAV_BURGSYS_COLLAPSE_socialist_ADJ:0 "Ненецк."
+
+ TOB_BURGSYS_COLLAPSE_ultranational_socialism:0 "Искуплённая Чёрная Лига"
+ TOB_BURGSYS_COLLAPSE_ultranational_socialism_DEF:0 "Искуплённая Чёрная Лига"
+ TOB_BURGSYS_COLLAPSE_ultranational_socialism_ADJ:0 "Чернолиговск."
+
+ BAS_BURGSYS_COLLAPSE_communist:0 "Челябинский Институт"
+ BAS_BURGSYS_COLLAPSE_communist_DEF:0 "Челябинский Институт"
+ BAS_BURGSYS_COLLAPSE_communist_ADJ:0 "Челябинск."
+
+ OMS_BURGSYS_COLLAPSE_ultranational_socialism:0 "Братство Каина"
+ OMS_BURGSYS_COLLAPSE_ultranational_socialism_DEF:0 "Братство Каина"
+ OMS_BURGSYS_COLLAPSE_ultranational_socialism_ADJ:0 "Каинск."
+
+ ERS_BURGSYS_COLLAPSE_authoritarian_democrat:0 "Республика Новый Томск"
+ ERS_BURGSYS_COLLAPSE_authoritarian_democrat_DEF:0 "Республика Новый Томск"
+ ERS_BURGSYS_COLLAPSE_authoritarian_democrat_ADJ:0 "Томск."
+
+ PAV_BURGSYS_COLLAPSE_despotism:0 "Центральноевразийская Республика"
+ PAV_BURGSYS_COLLAPSE_despotism_DEF:0 "Центральноевразийская Республика"
+ PAV_BURGSYS_COLLAPSE_despotism_ADJ:0 "Евразийск."
+
+ AKT_BURGSYS_COLLAPSE_ultranational_socialism:0 "Казахская Армия Очищения"
+ AKT_BURGSYS_COLLAPSE_ultranational_socialism_DEF:0 "Казахская Армия Очищения"
+ AKT_BURGSYS_COLLAPSE_ultranational_socialism_ADJ:0 "Казахск."
+
+ KOK_BURGSYS_COLLAPSE_social_conservative:0 "Свободные Государства Казахстана"
+ KOK_BURGSYS_COLLAPSE_social_conservative_DEF:0 "Свободные Государства Казахстана"
+ KOK_BURGSYS_COLLAPSE_social_conservative_ADJ:0 "Казахск."
+
+ ALT_BURGSYS_COLLAPSE_despotism:0 "Королевство Алтай"
+ ALT_BURGSYS_COLLAPSE_despotism_DEF:0 "Королевство Алтай"
+ ALT_BURGSYS_COLLAPSE_despotism_ADJ:0 "Алтайск."
+
+ KHA_BURGSYS_COLLAPSE_socialist:0 "Сибирская Свободная Территория"
+ KHA_BURGSYS_COLLAPSE_socialist_DEF:0 "Сибирская Свободная Территория"
+ KHA_BURGSYS_COLLAPSE_socialist_ADJ:0 "Сибирск."
+
+ SAH_BURGSYS_COLLAPSE_despotism:0 "Авангард Коммун Братска"
+ SAH_BURGSYS_COLLAPSE_despotism_DEF:0 "Авангард Коммун Братска"
+ SAH_BURGSYS_COLLAPSE_despotism_ADJ:0 "Авангардск."
+
+ IRK_BURGSYS_COLLAPSE_despotism:0 "Российская Империя"
+ IRK_BURGSYS_COLLAPSE_despotism_DEF:0 "Российская Империя"
+ IRK_BURGSYS_COLLAPSE_despotism_ADJ:0 "Имперск."
+
+ BRY_BURGSYS_COLLAPSE_burgundian_system:0 "Регентство Святой Руси"
+ BRY_BURGSYS_COLLAPSE_burgundian_system_DEF:0 "Регентство Святой Руси"
+ BRY_BURGSYS_COLLAPSE_burgundian_system_ADJ:0 "Имперск."
+
+ AMR_BURGSYS_COLLAPSE_despotism:0 "Амурская Зона Беженцев"
+ AMR_BURGSYS_COLLAPSE_despotism_DEF:0 "Амурская Зона Беженцев"
+ AMR_BURGSYS_COLLAPSE_despotism_ADJ:0 "Амурск."
+
+ MAG_BURGSYS_COLLAPSE_despotism:0 "Свободный Порт Магадана"
+ MAG_BURGSYS_COLLAPSE_despotism_DEF:0 "Свободный Порт Магадана"
+ MAG_BURGSYS_COLLAPSE_despotism_ADJ:0 "Магаданск."
+
+ KMC_BURGSYS_COLLAPSE_authoritarian_democrat:0 "Объединённый Сибирский Комитет Спасения"
+ KMC_BURGSYS_COLLAPSE_authoritarian_democrat_DEF:0 "Объединённый Сибирский Комитет Спасения"
+ KMC_BURGSYS_COLLAPSE_authoritarian_democrat_ADJ:0 "Камчатск."
+
+ VIL_BURGSYS_COLLAPSE_socialist:0 ""
+ VIL_BURGSYS_COLLAPSE_socialist_DEF:0 ""
+ VIL_BURGSYS_COLLAPSE_socialist_ADJ:0 ""
 
  PAL_Levant_Union_national_socialism:0 "Левантийское Королевство"
  PAL_Levant_Union_national_socialism_DEF:0 "Левантийское Королевство"
@@ -2531,3 +2640,31 @@
  USA_you_really_fucked_up:0 "Соединенные Штаты Америки"
  USA_you_really_fucked_up_DEF:0 "Соединенные Штаты Америки"
  USA_you_really_fucked_up_ADJ:0 "Американск."
+
+ #AM
+ WRS_unified:0 "Объединённый Советский Фронт Освобождения"
+ KOM_unified:0 "Непобедимая Имперской Гвардии Хунта"
+ FAV_unified:0 "Свободные Коммуны России"
+ TOB_unified:0 "Российское Правительство Национального Возмездия"
+ URL_unified:0 "Великая Конфедерация Евразии"
+ MAR_unified:0 "Орден Чистоты Святой Руси"
+ ORE_unified:0 "Единое Революционное Государство России"
+ TAR_unified:0 "Евразийское Правительство Умиротворения"
+ SAM_unified:0 "Христианская Республика Россия"
+ VOL_unified:0 "Имперские Княжества Святой Руси"
+ MIR_unified:0 "Автономные Советы Евразии"
+ BAS_unified:0 "Российская Ультравизионерская Советская Федерация"
+ AKT_unified:0 "Очищенное Государство Казахстан"
+ KOK_unified:0 "Свободная Республика Казахстан"
+ OMS_unified:0 "Царство Преисподнее"
+ ERS_unified:0 "Третья Российская Республика"
+ PAV_unified:0 "Единая Евразийская Республика"
+ ALT_unified:0 "Королевство Рюриковичей"
+ KHA_unified:0 "Свободная Родина"
+ IRK_unified:0 "Российская Народная Империя"
+ BRY_unified:0 "Вечное Регентство Святой Руси"
+ AMR_unified:0 "Российское Восстановительное Правительство"
+ MAG_unified:0 "Реставрационное Правительство Российского Адмиралтейства"
+ KMC_unified:0 "Российское Национальное Правительство Реконструкции"
+ NIK_unified:0 "Священная Русское Правительство Искупления"
+ SAH_unified:0 "Всероссийский Освободительный Авангард"
