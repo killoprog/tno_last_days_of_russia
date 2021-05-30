@@ -217,11 +217,11 @@
  AMR_regional_unifier_national_socialism_DEF:0 "Всероссийское Правительство на Дальнем Востоке"
  AMR_regional_unifier_national_socialism_ADJ:0 "Дальневосточн."
  
- BRY_regional_unifier_communist:0 "Дальневосточная Советская Республика"
- BRY_regional_unifier_communist_DEF:0 "Дальневосточная Советская Республика"
+ BRY_regional_unifier_communist:0 "Дальневосточная Социалистическая Республика"
+ BRY_regional_unifier_communist_DEF:0 "Дальневосточная Социалистическая Республика"
  BRY_regional_unifier_communist_ADJ:0 "Дальневосточн."
- BRY_regional_unifier_socialist:0 "Дальневосточная Советская Республика"
- BRY_regional_unifier_socialist_DEF:0 "Дальневосточная Советская Республика"
+ BRY_regional_unifier_socialist:0 "Дальневосточная Социалистическая Республика"
+ BRY_regional_unifier_socialist_DEF:0 "Дальневосточная Социалистическая Республика"
  BRY_regional_unifier_socialist_ADJ:0 "Дальневосточн."
  
  IRK_regional_unifier_communist:0 "Дальневосточная Советская Социалистическая Республика"
@@ -239,7 +239,7 @@
  MAG_regional_unifier_fascism_ADJ:0 "Сибирск."
  MAG_WA_regional_unifier_authoritarian_democrat:0 "Соединённые Штаты Сибири"
  MAG_WA_regional_unifier_authoritarian_democrat_DEF:0 "Соединённые Штаты Сибири"
- MAG_WA_regional_unifier_authoritarian_democrat_ADJ:0 "Западноаляск."
+ MAG_WA_regional_unifier_authoritarian_democrat_ADJ:0 "Западноаляскинск."
  MAG_WA_SIB_authoritarian_democrat:0 "Соединённые Штаты Сибири"
  MAG_WA_SIB_authoritarian_democrat_DEF:0 "Соединённые Штаты Сибири"
  MAG_WA_SIB_authoritarian_democrat_ADJ:0 "Сибирск."
@@ -439,11 +439,11 @@
  ###RUSSIANS
 
  #Omsk
- OMS_POTEMKIN_RUS:0 "Российское Правительство Национального Освобождения"
- OMS_POTEMKIN_RUS_DEF:0 "Российское Правительство Национального Освобождения"
+ OMS_POTEMKIN_RUS:0 "Правительство Национального Освобождения России"
+ OMS_POTEMKIN_RUS_DEF:0 "Правительство Национального Освобождения России"
  OMS_POTEMKIN_RUS_ADJ:0 "Русск."
- OMS_RUS_ultranational_socialism:0 "Российское Правительство Национального Освобождения"
- OMS_RUS_ultranational_socialism_DEF:0 "Российское Правительство Национального Освобождения"
+ OMS_RUS_ultranational_socialism:0 "Правительство Национального Освобождения России"
+ OMS_RUS_ultranational_socialism_DEF:0 "Правительство Национального Освобождения России"
  OMS_RUS_ultranational_socialism_ADJ:0 "Русск."
 
  #Tyumen
@@ -578,8 +578,8 @@
  NIK_stalina_russia_despotism_DEF:0 "Российское Временное Правительство"
  NIK_stalina_russia_despotism_ADJ:0 "Русск."
  
- NIK_soviet_communist:0 "Российская Советская Республика"
- NIK_soviet_communist_DEF:0 "Российская Советская Республика"
+ NIK_soviet_communist:0 "Союз Советских Социалистических Республик"
+ NIK_soviet_communist_DEF:0 "Союз Советских Социалистических Республик"
  NIK_soviet_communist_ADJ:0 "Советск."
  
  NIK_soviet_socialist:0 "Российская Советская Республика"
@@ -587,7 +587,7 @@
  NIK_soviet_socialist_ADJ:0 "Советск."
  
  NIK_federation_socialist:0 "Объединённая Советская Федерация"
- NIK_federation_socialist_DEF:0 "Российская Свободная Республика"
+ NIK_federation_socialist_DEF:0 "Российская Советская Республика"
  NIK_federation_socialist_ADJ:0 "Русск."
  
  NIK_federation_communist:0 "Объединённая Советская Федерация"
