@@ -73,12 +73,12 @@
  NIK_regional_unifier_authoritarian_democrat_DEF:0 "Западнорусская Свободная Республика"
  NIK_regional_unifier_authoritarian_democrat_ADJ:0 "Западнорусск."
 
- NIK_REGIONAL_STALINA_despotism:0 "Западнорусское Временное Правительство"
+ NIK_REGIONAL_STALINA_despotism:0 "Чрезвычайное Правительство Западной России"
  NIK_REGIONAL_STALINA_despotism_ADJ:0 "Западнорусск."
- NIK_REGIONAL_STALINA_despotism_DEF:0 "Западнорусское Временное Правительство"
+ NIK_REGIONAL_STALINA_despotism_DEF:0 "Чрезвычайное Правительство Западнорусской Свободной Республики"
 
- NIK_russia_despotism:0 "Русское Временное Правительство"
- NIK_russia_despotism_DEF:0 "Русское Временное Правительство"
+ NIK_russia_despotism:0 "Чрезвычайное Правительство Западной России"
+ NIK_russia_despotism_DEF:0 "Чрезвычайное Правительство Западной России"
  #NIK_regional_unifier_despotism_ADJ:0 "Западнорусск"
 
  NIK_regional_unifier_burgundian_system:0 "Западнорусское Регентство"
@@ -94,7 +94,7 @@
  NIK_regional_bukharina:0 "Западнорусская Советская Республика"
  NIK_regional_zhdanov:0 "Западнорусская Советская Федерация"
  NIK_regional_suslov:0 "Западнорусская Советская Республика"
- NIK_regional_stalina:0 "Западнорусское Временное Правительство"
+ NIK_regional_stalina:0 "Чрезвычайное Правительство Западной России"
  NIK_regional_shafarevich:0 "Западнорусская Свободная Республика"
  NIK_regional_serov:0 "Западнорусская Советская Республика"
  NIK_regional_gumilyov:0 "Временное Правительство Центральной Евразии"
@@ -160,8 +160,8 @@
  TOB_regional_unifier_despotism_ADJ:0 "Западносибирск."
 
  #Central Siberia
- ERS_HUM_regional_unifier_social_democrat:0 "Сибирское Содружество"
- ERS_HUM_regional_unifier_social_democrat_DEF:0 "Сибирское Содружество"
+ ERS_HUM_regional_unifier_social_democrat:0 "Центральносибирское Содружество"
+ ERS_HUM_regional_unifier_social_democrat_DEF:0 "Центральносибирское Содружество"
  ERS_HUM_regional_unifier_social_democrat_ADJ:0 "Центральносибирск."
 
  ERS_regional_unifier_authoritarian_democrat:0 "Центральносибирская Республика"
@@ -245,7 +245,7 @@
  MAG_WA_SIB_authoritarian_democrat_ADJ:0 "Сибирск."
  MAG_WA_RUS_authoritarian_democrat:0 "Соединённые Штаты России"
  MAG_WA_RUS_authoritarian_democrat_DEF:0 "Соединённые Штаты России"
- MAG_WA_RUS_authoritarian_democrat_ADJ:0 "Русск."
+ MAG_WA_RUS_authoritarian_democrat_ADJ:0 "Российск."
  
  MAG_WA_republic_regional_unifier_authoritarian_democrat:0 "Сибирская Республика"
  MAG_WA_republic_regional_unifier_authoritarian_democrat_DEF:0 "Сибирская Республика"
@@ -364,11 +364,11 @@
  PAV_SIB_authoritarian_democrat_ADJ:0 "Сибирск."
  
  #Kemerovo
- KEM_SIB_authoritarian_democrat:0 "Сибирское Царство"
- KEM_SIB_authoritarian_democrat_DEF:0 "Сибирское Царство"
+ KEM_SIB_authoritarian_democrat:0 "Царство Сибирское"
+ KEM_SIB_authoritarian_democrat_DEF:0 "Царство Сибирское"
  KEM_SIB_authoritarian_democrat_ADJ:0 "Сибирск."
- KEM_SIB_despotism:0 "Сибирское Царство"
- KEM_SIB_despotism_DEF:0 "Сибирское Царство"
+ KEM_SIB_despotism:0 "Царство Сибирское"
+ KEM_SIB_despotism_DEF:0 "Царство Сибирское"
  KEM_SIB_despotism_ADJ:0 "Сибирск."
 
  #People's Revolutionary Council
@@ -463,8 +463,8 @@
  TOB_RUS_authoritarian_democrat_ADJ:0 "Русск."
   
  #Samara
- SAM_RUS_fascism:0 "Российское Государство"
- SAM_RUS_fascism_DEF:0 "Российское Государство"
+ SAM_RUS_fascism:0 "Российская Федерация"
+ SAM_RUS_fascism_DEF:0 "Российская Федерация"
  SAM_RUS_fascism_ADJ:0 "Русск."
  
  SAM_RUS_social_liberal:0 "Российская Республика"
@@ -503,9 +503,9 @@
  PRM_hyperborea_regional_ultranational_socialism_ADJ:0 "Гиперборейск."
 
  #Gayny
- GAY_RUS_despotism:0 "Российское Священное Государство"
- GAY_RUS_despotism_DEF:0 "Российское Священное Государство"
- GAY_RUS_despotism_ADJ:0 "Русск."
+ GAY_RUS_despotism:0 "Священное Русское Государство"
+ GAY_RUS_despotism_DEF:0 "Священное Русское Государство"
+ GAY_RUS_despotism_ADJ:0 "Святорусск."
   
  #Vyatka
  KIR_RUS_social_liberal:0 "Российская Империя"
@@ -574,8 +574,8 @@
  NIK_russia_authoritarian_democrat_DEF:0 "Российская Свободная Республика"
  NIK_russia_authoritarian_democrat_ADJ:0 "Русск."
  
- NIK_stalina_russia_despotism:0 "Российское Временное Правительство"
- NIK_stalina_russia_despotism_DEF:0 "Российское Временное Правительство"
+ NIK_stalina_russia_despotism:0 "Чрезвычайное Правительство России"
+ NIK_stalina_russia_despotism_DEF:0 "Чрезвычайное Правительство Российской Свободной Республики"
  NIK_stalina_russia_despotism_ADJ:0 "Русск."
  
  NIK_soviet_communist:0 "Союз Советских Социалистических Республик"
@@ -598,12 +598,12 @@
  NIK_fashrussia_fascism_DEF:0 "Российская Свободная Республика"
  NIK_fashrussia_fascism_ADJ:0 "Русск."
  
- NIK_fashrussia_national_socialism:0 "Российская Национальная Советская Республика"
- NIK_fashrussia_national_socialism_DEF:0 "Российская Национальная Советская Республика"
+ NIK_fashrussia_national_socialism:0 "Русская Национальная Советская Республика"
+ NIK_fashrussia_national_socialism_DEF:0 "Русская Национальная Советская Республика"
  NIK_fashrussia_national_socialism_ADJ:0 "Советск."
  
- NIK_ordosocialist_national_socialism:0 "Российская Национальная Советская Республика"
- NIK_ordosocialist_national_socialism_DEF:0 "Российская Национальная Советская Республика"
+ NIK_ordosocialist_national_socialism:0 "Русская Национальная Советская Республика"
+ NIK_ordosocialist_national_socialism_DEF:0 "Русская Национальная Советская Республика"
  NIK_ordosocialist_national_socialism_ADJ:0 "Советск."
  
  NIK_BURGSYS_UNIFIER_burgundian_system:0 "Священная Российская Империя"
@@ -650,20 +650,20 @@
  PAV_RUS_authoritarian_democrat_ADJ:0 "Русск."
   
  #Kemerovo
- KEM_RUS_authoritarian_democrat:0 "Русское Царство"
- KEM_RUS_authoritarian_democrat_DEF:0 "Русское Царство"
+ KEM_RUS_authoritarian_democrat:0 "Царство Русское"
+ KEM_RUS_authoritarian_democrat_DEF:0 "Царство Русское"
  KEM_RUS_authoritarian_democrat_ADJ:0 "Русск."
- KEM_RUS_despotism:0 "Русское Царство"
- KEM_RUS_despotism_DEF:0 "Русское Царство"
+ KEM_RUS_despotism:0 "Царство Русское"
+ KEM_RUS_despotism_DEF:0 "Царство Русское"
  KEM_RUS_despotism_ADJ:0 "Русск."
  
  #Khakassia
  KHA_RUS_socialist:0 "Российская Вольная Территория"
  KHA_RUS_socialist_DEF:0 "Вольная Территория"
- KHA_RUS_socialist_ADJ:0 "Русск."
+ KHA_RUS_socialist_ADJ:0 "Российск."
  KHA_RUS_despotism:0 "Российская Вольная Территория"
  KHA_RUS_despotism_DEF:0 "Вольная Территория"
- KHA_RUS_despotism_ADJ:0 "Русск."
+ KHA_RUS_despotism_ADJ:0 "Российск."
 
  #People's Revolutionary Council
  SVO_RUS_communist:0 "Союз Советских Социалистических Республик"
