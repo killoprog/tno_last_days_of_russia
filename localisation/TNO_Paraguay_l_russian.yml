@@ -4,111 +4,105 @@
 ## COUNTRY NAMES ##
 ###################
 
- PAR_socialist_DEF: "La República del Paraguay"
- PAR_socialist_ADJ: "Paraguayan"
-
-
-
-
-
-
-
-
-
+ PAR_socialist_DEF:0 "Республика Парагвай"
+ PAR_socialist_ADJ:0 "Парагвайск"
 
 
 #################
 ## PARTY NAMES ##
 #################
- PAR_communist_party: "FULNA- Comunista"
- PAR_communist_party_long: "Frente Unido de Liberación Nacional- Tendencia Comunista"
+ PAR_communist_party:0 "ПКП"
+ PAR_communist_party_long:0 "Парагвайская Коммунистическая Партия"
 
- PAR_socialist_party: "N/A"
- PAR_socialist_party_long: "N/A"
+ PAR_socialist_party:0 "N/A"
+ PAR_socialist_party_long:0 "N/A"
 
- PAR_social_democrat_party: "FULNA- Febrerista"
- PAR_social_democrat_party_long: "Frente Unido de Liberación Nacional- Tendencia Febrerista"
+ PAR_social_democrat_party:0 "Феберисты"
+ PAR_social_democrat_party_long:0 "Феберистская Революционная Партия"
 
- PAR_social_liberal_party: "FULNA- Liberal"
- PAR_social_liberal_party_long: "Frente Unido de Liberación Nacional- Tendencia Liberal"
+ PAR_social_liberal_party:0 "Либералы"
+ PAR_social_liberal_party_long:0 "Партия Либералов"
 
- PAR_market_liberal_party: "N/A"
- PAR_market_liberal_party_long: "N/A"
+ PAR_market_liberal_party:0 "N/A"
+ PAR_market_liberal_party_long:0 "N/A"
 
- PAR_social_conservative_party: "Colorados"
- PAR_social_conservative_party_long: "Partido Nacional Republicano"
+ PAR_social_conservative_party:0 "Колорадос - Демократы"
+ PAR_social_conservative_party_long:0 "Объединение Национал - Республикиканцев - Демократы"
 
- PAR_authoritarian_democrat_party: "Colorados- Guión Rojo"
- PAR_authoritarian_democrat_party_long: "Partido Nacional Republicano- Guión Rojo"
+ PAR_authoritarian_democrat_party:0 "Колорадос - Эпифанисты"
+ PAR_authoritarian_democrat_party_long:0 "Объединение Национал - Республикиканцев - Эпифанисты"
 
- PAR_despotism_party: "GDJO"
- PAR_despotism_party_long: "El Gobierno de Disciplina, Jerarquía, y Orden"
+ PAR_despotism_party:0 "N/A"
+ PAR_despotism_party_long:0 "N/A"
 
- PAR_fascism_party: "N/A"
- PAR_fascism_party_long: "N/A"
+ PAR_fascism_party:0 "Колорадос - Красный стяг"
+ PAR_fascism_party_long:0 "Объединение Национал - Республикиканцев - Красный стяг"
 
- PAR_national_socialism_party: "N/A"
- PAR_national_socialism_party_long: "N/A"
+ PAR_national_socialism_party:0 "Колорадос - ФдГ"
+ PAR_national_socialism_party_long:0 "Объединение Национал - Республикиканцев - Линия фронта"
 
- PAR_ultranational_socialism_party: "N/A"
- PAR_ultranational_socialism_party_long: "N/A"
+ PAR_ultranational_socialism_party:0 "N/A"
+ PAR_ultranational_socialism_party_long:0 "N/A"
 
- PAR_burgundian_system_party: "N/A"
- PAR_burgundian_system_party_long: "N/A"
+ PAR_burgundian_system_party:0 "Жертвенное кольцо"
+ PAR_burgundian_system_party_long:0 "Жертвенное кольцо"
 
 ##################
 ## LEADER DESCS ##
 ##################
  #1962 Leader
- Paraguay_Higinio_Morinigo_desc: "PLACEHOLDER"
+ Paraguay_Higinio_Morinigo_desc:0 ""
 
  ##Colorados Leader Descs
- #Colorado Stable Coup Leader
- Paraguay_Frederico_Chavez_desc: "PLACEHOLDER"
- #Colorado Unstable Coup Leader 
- Paraguay_Alfredo_Stroessner_desc: "PLACEHOLDER"
+ Paraguay_Frederico_Chavez_desc:0 "ЗАГЛУШКА"
+ Paraguay_Alfredo_Stroessner_desc:0 "ЗАГЛУШКА"
 
  ##FULNA Leader Descs
- #FULNA Victory Leader
- Paraguay_Rafael_Franco_desc: "PLACEHOLDER"
- #FULNA- Comunista Leader
- Paraguay_Antonio_Maidana_desc: "PLACEHOLDER"
- #FULNA- Liberal Leader
- Paraguay_Domingo_Laino_desc: "PLACEHOLDER"
+ #Partido Comunista Paraguayo Leader
+ Paraguay_Miguel_Angel_Soler_desc:0 "ЗАГЛУШКА"
+ #Febreristas Leader
+ Paraguay_Rafael_Franco_desc:0 "ЗАГЛУШКА"
+ #Partido Liberal Leader
+ Paraguay_Liberales_Vacuum_desc:0 "ЗАГЛУШКА"
 
 #######################
 ## IDEAS & MINISTERS ##
 #######################
  
  ##Starting Spirits
- PAR_disciplina_jerarquia_y_orden: "Disciplina, Jerarquía, y Orden"
- PAR_disciplina_jerarquia_y_orden_desc: "PLACEHOLDER"
+ 
+ PAR_bastion_of_latin_american_fascism:0 "Бастион латиноамериканского фашизма"
+ PAR_bastion_of_latin_american_fascism_desc:0 "Парагвай стоит особняком. Мы со всех сторон окружены врагами, которые хотят, чтобы наша Националистическая революция рухнула, наше Новое Государство рухнуло, а наш народ и нация попали под власть большевизма или ОФН. Наше государство является сильным и гордым как единственный защитник великого фашистского идеала на американском континенте, и с помощью наших немецких друзей мы будем удерживать линию против вырождения."
 
- PAR_coloradan_dissidence: "Coloradan Dissidence"
- PAR_coloradan_dissidence_desc: "PLACEHOLDER"
+ ##Other Spirits
+ 
+ PAR_disciplina_jerarquia_y_orden:0 "Дисциплина, иерархия и порядок!"
+ PAR_disciplina_jerarquia_y_orden_desc:0 "ЗАГЛУШКА"
+ 
+ PAR_new_state_chavez:0 "Новое государство"
+ PAR_new_state_chavez_desc:0 "ЗАГЛУШКА"
 
- PAR_fulna_insurgency: "FULNA Insurgency"
- PAR_fulna_insurgency_desc: "PLACEHOLDER"
+ PAR_new_state_stroessner:0 "Новое государство"
+ PAR_new_state_stroessner_desc:0 "ЗАГЛУШКА"
 
- PAR_new_state_chavez: "The New State"
- PAR_new_state_chavez_desc: "PLACEHOLDER"
+ PAR_new_state_franco:0 "Новое государство"
+ PAR_new_state_franco_desc:0 "ЗАГЛУШКА"
+ 
+ PAR_coloradan_dissidence:0 "Раскол в партии Колорадо"
+ PAR_coloradan_dissidence_desc:0 "ЗАГЛУШКА"
 
- PAR_new_state_stroessner: "The New State"
- PAR_new_state_stroessner_desc: "PLACEHOLDER"
-
- PAR_new_state_franco: "The New State"
- PAR_new_state_franco_desc: "PLACEHOLDER"
+ PAR_fulna_insurgency:0 "ВосстаниеFULNA"
+ PAR_fulna_insurgency_desc:0 "ЗАГЛУШКА"
 
  ##Ministers
- #Starting Cabinet, Morinigo's Cabinet
- ramon_luciano_paredes_hog: "Ramón Luciano Paredes"
- ramon_luciano_paredes_hog_desc: ""
- rogelio_espinoza_eco: "Rogelio Espinoza"
- rogelio_espinoza_eco_desc: ""
- horacio_chiriani_for: "Horacio Chiriani"
- horacio_chiriani_for_desc: ""
- amancio_pampliega_sec: "Amancio Pampliega"
- amancio_pampliega_sec_desc: ""
+ juan_natalicio_gonzalez_hog:0 "Хуан Наталисио Гонсалес"
+ juan_natalicio_gonzalez_hog_desc:0 "ЗАГЛУШКА"
+ amancio_pampliega_eco:0 "Амансио Пампльега"
+ amancio_pampliega_eco_desc:0 "ЗАГЛУШКА"
+ epifano_mendez_fleitas_for:0 "Епифано Мендес Флитас"
+ epifano_mendez_fleitas_for_desc:0 "ЗАГЛУШКА"
+ auguste_ricord_sec:0 "Огюст Рикорд"
+ auguste_ricord_sec_desc:0 "ЗАГЛУШКА"
 
 ############
 ## EVENTS ##
