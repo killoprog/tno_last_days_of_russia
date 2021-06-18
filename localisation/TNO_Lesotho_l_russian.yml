@@ -1,21 +1,21 @@
 ﻿l_russian:
-POLITICS_MOSHOESHOE_II_DESC:0 "King of the Kingdom of Lesotho, Moshoeshoe II was born Constantine Bereng Seeiso, a descendant of Moshoeshoe I, the great founder of the nation. Educated at Roma College in Lesotho, from a young age he cooperated closely with the South African government, just as his stepmother, acting as his regent in the wake of his father's death, had before him. Granted full independence upon assuming the throne in 1960, he has so far competently led Lesotho in cooperation with the constitutional government."
+POLITICS_MOSHOESHOE_II_DESC:0 "Король Королевства Лесото Мошоешо II родился Константином Беренгисо, потомком Мошоешо I, великого основателя нации. Получив образование в колледже рома в Лесото, он с юных лет тесно сотрудничал с правительством Южной Африки, как и его мачеха, исполнявшая обязанности регента после смерти его отца. Получив полную независимость после вступления на престол в 1960 году, он до сих пор компетентно руководил Лесото в сотрудничестве с конституционным правительством."
  ## Country Names ##
- LTH_despotism:0 "Lesotho"
- LTH_despotism_DEF:0 "Lesotho"
- LTH_despotism_ADJ:0 "Basotho"
+ LTH_despotism:0 "Лесото"
+ LTH_despotism_DEF:0 "Лесото"
+ LTH_despotism_ADJ:0 "Басото"
  
  ####Party Names#####
 
- LTH_despotism_party:0 "House of Moshoeshoe"
- LTH_despotism_party_long:0 "House of Moshoeshoe"
+ LTH_despotism_party:0 "Дом Мошоешо"
+ LTH_despotism_party_long:0 "Дом Мошоешо"
 
  ## Ministers ##
  
  ## Ideas ##
  
- LTH_south_african_kingdom:0 "South African Kingdom"
- LTH_strong_anc_influence:0 "Strong ANC Influence"
+ LTH_south_african_kingdom:0 "Южноафриканское Королевство"
+ LTH_strong_anc_influence:0 "Сильное влияние АНК"
 
  ## Decisions ##
  

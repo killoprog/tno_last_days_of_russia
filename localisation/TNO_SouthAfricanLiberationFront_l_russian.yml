@@ -1,14 +1,14 @@
 ﻿l_russian:
  ## Country Names ##
- SLF_authoritarian_democrat:0 "South African Liberation Front"
- SLF_authoritarian_democrat_DEF:0 "The South African Liberation Front"
- SLF_authoritarian_democrat_ADJ:0 "South African"
+ SLF_authoritarian_democrat:0 "Южноафриканский фронт освобождения"
+ SLF_authoritarian_democrat_DEF:0 "Южноафриканский фронт освобождения"
+ SLF_authoritarian_democrat_ADJ:0 "Южная Африка"
 
- SLF_FEDERATION_authoritarian_democrat:0 "South African Federation"
- SLF_FEDERATION_authoritarian_democrat_DEF:0 "The South African Federation"
- SLF_FEDERATION_authoritarian_democrat_ADJ:0 "South African"
+ SLF_FEDERATION_authoritarian_democrat:0 "Южноафриканская Федерация"
+ SLF_FEDERATION_authoritarian_democrat_DEF:0 "Южноафриканская Федерация"
+ SLF_FEDERATION_authoritarian_democrat_ADJ:0 "Южная Африка"
 
- FACTION_SOUTH_AFRICAN_ALLIANCE:0 "South African Alliance"
+ FACTION_SOUTH_AFRICAN_ALLIANCE:0 "Южноафриканский альянс"
  
  ####Party Names#####
 
@@ -19,8 +19,8 @@
  
  ## Ideas ##
  
- SLF_lessons_first_civil_war:0 "Lessons of the First Civil War"
- SLF_governmental_rivalries:0 "Governmental Rivalries"
+ SLF_lessons_first_civil_war:0 "Уроки Первой гражданской войны"
+ SLF_governmental_rivalries:0 "Соперничество правительств"
 
  ## Decisions ##
  

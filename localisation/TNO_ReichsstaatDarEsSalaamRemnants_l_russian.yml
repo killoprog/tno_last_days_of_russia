@@ -1,8 +1,8 @@
 ﻿l_russian:
  ## Country Names ##
- RSD_burgundian_system:0 "SS Division Hindenburg"
- RSD_burgundian_system_DEF:0 "The SS Division Hindenburg"
- RSD_burgundian_system_ADJ:0 "Hindenburg"
+ RSD_burgundian_system:0 "Дивизия СС Гинденбург"
+ RSD_burgundian_system_DEF:0 "Дивизия СС Гинденбург"
+ RSD_burgundian_system_ADJ:0 "Гиндербург"
 
  ####Party Names#####
 

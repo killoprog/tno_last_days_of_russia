@@ -1,27 +1,27 @@
 ﻿l_russian:
  ## Country Names ##
- BRD_authoritarian_democrat:0 "Kingdom of Burundi"
- BRD_authoritarian_democrat_DEF:0 "The Kingdom of Burundi"
- BRD_authoritarian_democrat_ADJ:0 "Burundian"
+ BRD_authoritarian_democrat:0 "Королевство Бурунди"
+ BRD_authoritarian_democrat_DEF:0 "Королевство Бурунди"
+ BRD_authoritarian_democrat_ADJ:0 "Бурундийский"
 
- BRD_despotism:0 "Kingdom of Burundi"
- BRD_despotism_DEF:0 "The Kingdom of Burundi"
- BRD_despotism_ADJ:0 "Burundian"
+ BRD_despotism:0 "Королевство Бурундиi"
+ BRD_despotism_DEF:0 "Королевство Бурунди"
+ BRD_despotism_ADJ:0 "Бурундийский"
 
- BRD_fascism:0 "Republic of Burundi"
- BRD_fascism_DEF:0 "The Republic of Burundi"
- BRD_fascism_ADJ:0 "Burundian"
+ BRD_fascism:0 "Королевство Бурунди"
+ BRD_fascism_DEF:0 "Республика Бурунди"
+ BRD_fascism_ADJ:0 "Бурундийский"
 
- BRD_social_liberal:0 "Republic of Burundi"
- BRD_social_liberal_DEF:0 "The Republic of Burundi"
- BRD_social_liberal_ADJ:0 "Burundian"
+ BRD_social_liberal:0 "Королевство Бурунди"
+ BRD_social_liberal_DEF:0 "Республика Бурунди"
+ BRD_social_liberal_ADJ:0 "Бурундийский"
  
  ####Party Names#####
 
- BRD_authoritarian_democrat_party:0 "UNP"
- BRD_authoritarian_democrat_party_long:0 "Union for National Progress"
- BRD_despotism_party:0 "House of Bangiricenge"
- BRD_despotism_party_long:0 "House of Bangiricenge"
+ BRD_authoritarian_democrat_party:0 "СНП"
+ BRD_authoritarian_democrat_party_long:0 "Союз за национальный прогресс"
+ BRD_despotism_party:0 "Дом Бангириценге"
+ BRD_despotism_party_long:0 "Дом Бангириценге"
 
  ## Ministers ##
   

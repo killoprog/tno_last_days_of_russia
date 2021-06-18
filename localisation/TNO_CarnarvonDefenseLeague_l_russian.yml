@@ -1,20 +1,20 @@
 ﻿l_russian:
  ## Country Names ##
- CDL_social_conservative:0 "Carnarvon Defense League"
- CDL_social_conservative_DEF:0 "The Carnarvon Defense League"
- CDL_social_conservative_ADJ:0 "South African"
+ CDL_social_conservative:0 "Лига Обороны Карнарвона"
+ CDL_social_conservative_DEF:0 "Лига Обороны Карнарвона"
+ CDL_social_conservative_ADJ:0 "Южная Африка"
  
  ####Party Names#####
 
- CDL_social_conservative_party:0 "SocCon Party"
- CDL_social_conservative_party_long:0 "SocCon Party"
+ CDL_social_conservative_party:0 "Партия СоцКон"
+ CDL_social_conservative_party_long:0 "Партия СоцКон"
 
  ## Ministers ##
  
  ## Ideas ##
  
- CDL_political_refuge:0 "Political Refuge"
- CDL_haven_of_south_africa:0 "The Haven in the Civil War"
+ CDL_political_refuge:0 "Политическое убежище"
+ CDL_haven_of_south_africa:0 "Убежище в Гражданской войне"
 
  ## Decisions ##
  
