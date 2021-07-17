@@ -230,13 +230,13 @@
  
  MAG_regional_unifier_authoritarian_democrat:0 "Сибирская Национальная Республика"
  MAG_regional_unifier_authoritarian_democrat_DEF:0 "Сибирская Национальная Республика"
- MAG_regional_unifier_authoritarian_democrat_ADJ:0 "Сибирск."
+ MAG_regional_unifier_authoritarian_democrat_ADJ:0 "Дальневосточн."
  MAG_regional_unifier_despotism:0 "Сибирская Национальная Республика"
  MAG_regional_unifier_despotism_DEF:0 "Сибирская Национальная Республика"
- MAG_regional_unifier_despotism_ADJ:0 "Сибирск."
+ MAG_regional_unifier_despotism_ADJ:0 "Дальневосточн."
  MAG_regional_unifier_fascism:0 "Сибирская Национальная Республика"
  MAG_regional_unifier_fascism_DEF:0 "Сибирская Национальная Республика"
- MAG_regional_unifier_fascism_ADJ:0 "Сибирск."
+ MAG_regional_unifier_fascism_ADJ:0 "Дальневосточн."
  MAG_WA_regional_unifier_authoritarian_democrat:0 "Соединённые Штаты Сибири"
  MAG_WA_regional_unifier_authoritarian_democrat_DEF:0 "Соединённые Штаты Сибири"
  MAG_WA_regional_unifier_authoritarian_democrat_ADJ:0 "Западноаляскинск."
@@ -247,25 +247,25 @@
  MAG_WA_RUS_authoritarian_democrat_DEF:0 "Соединённые Штаты России"
  MAG_WA_RUS_authoritarian_democrat_ADJ:0 "Российск."
  
- MAG_WA_republic_regional_unifier_authoritarian_democrat:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_authoritarian_democrat_DEF:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_authoritarian_democrat_ADJ:0 "Сибирск."
- MAG_WA_republic_regional_unifier_social_conservative:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_social_conservative_DEF:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_social_conservative_ADJ:0 "Сибирск."
- MAG_WA_republic_regional_unifier_social_liberal:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_social_liberal_DEF:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_social_liberal_ADJ:0 "Сибирск."
- MAG_WA_republic_regional_unifier_social_democrat:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_social_democrat_DEF:0 "Сибирская Республика"
- MAG_WA_republic_regional_unifier_social_democrat_ADJ:0 "Сибирск."
+ MAG_WA_republic_regional_unifier_authoritarian_democrat:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_authoritarian_democrat_DEF:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_authoritarian_democrat_ADJ:0 "Восточносибирск."
+ MAG_WA_republic_regional_unifier_social_conservative:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_social_conservative_DEF:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_social_conservative_ADJ:0 "Восточносибирск."
+ MAG_WA_republic_regional_unifier_social_liberal:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_social_liberal_DEF:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_social_liberal_ADJ:0 "Восточносибирск."
+ MAG_WA_republic_regional_unifier_social_democrat:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_social_democrat_DEF:0 "Восточносибирская Республика"
+ MAG_WA_republic_regional_unifier_social_democrat_ADJ:0 "Восточносибирск."
  
  OMO_father_men_despotism:0 "Божие Владение над Дальним Востоком"
  OMO_father_men_despotism_DEF:0 "Божие Владение над Дальним Востоком"
- OMO_father_men_despotism_ADJ:0 "Сибирск."
+ OMO_father_men_despotism_ADJ:0 "Дальневосточн."
  OMO_regional_unifier_despotism:0 "Божие Владение над Дальним Востоком"
  OMO_regional_unifier_despotism_DEF:0 "Божие Владение над Дальним Востоком"
- OMO_regional_unifier_despotism_ADJ:0 "Сибирск."
+ OMO_regional_unifier_despotism_ADJ:0 "Дальневосточн."
  
  WCH_regional_unifier_social_liberal:0 "Дальневосточное Княжество"
  WCH_regional_unifier_social_liberal_DEF:0 "Дальневосточное Княжество"
@@ -417,7 +417,7 @@
  #Amur
  AMR_SIB_national_socialism:0 "Сибирское Национальное Государство"
  AMR_SIB_national_socialism_DEF:0 "Сибирское Национальное Государство"
- AMR_SIB_national_socialism_ADJ:0 "Сибирск"
+ AMR_SIB_national_socialism_ADJ:0 "Сибирск."
  
  #Magadan
  MAG_SIB_authoritarian_democrat:0 "Сибирская Национальная Республика"
@@ -433,7 +433,7 @@
  #Father Men
  OMO_SIB_despotism:0 "Божие Владение над Сибирью"
  OMO_SIB_despotism_DEF:0 "Божие Владение над Сибирью"
- OMO_SIB_despotism_ADJ:0 "Божие Владение над Сибирью"
+ OMO_SIB_despotism_ADJ:0 "Сибирск."
 
 
  ###RUSSIANS
@@ -463,8 +463,8 @@
  TOB_RUS_authoritarian_democrat_ADJ:0 "Русск."
   
  #Samara
- SAM_RUS_fascism:0 "Российская Федерация"
- SAM_RUS_fascism_DEF:0 "Российская Федерация"
+ SAM_RUS_fascism:0 "Российское Государство"
+ SAM_RUS_fascism_DEF:0 "Российское Государство"
  SAM_RUS_fascism_ADJ:0 "Русск."
  
  SAM_RUS_social_liberal:0 "Российская Республика"
