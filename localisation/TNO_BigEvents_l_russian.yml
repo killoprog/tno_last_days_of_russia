@@ -347,9 +347,9 @@ BE_BRAZIL_MILITARY_COUP_T:0 "ВОЕННЫЙ ПЕРЕВОРОТ В БРАЗИЛИ
 BE_BRAZIL_MILITARY_COUP_D:0 "Мил победитель богам, побежденный любезен Катону. \n-Марк Анней Лукан"
 BE_BRAZIL_MILITARY_COUP_A:0 "Всё разваливается"
 
-BE_ARGENTINA_PERON_T:0 "ХОХЛА СПРОСИЛИ"
-BE_ARGENTINA_PERON_D:0 "Я ПРОДАЛ РАССИЮ ЗА 10000 МИЛИОН ДОЛЛАРОВ!!!!! \nМихали Октан"
-BE_ARGENTINA_PERON_A:0 "иди нахуй"
+BE_ARGENTINA_PERON_T:0 "ПЕРОН ВЕРНУЛСЯ"
+BE_ARGENTINA_PERON_D:0 "ой-ой"
+BE_ARGENTINA_PERON_A:0 "странно"
 
 BE_CANAL_WAR_T:0 "Канальная Война"
 BE_CANAL_WAR_D:0 "Мы должны оставить у себя Панамский канал. В конце концов, мы украли его честно. \n-Самуэль Хаякава"

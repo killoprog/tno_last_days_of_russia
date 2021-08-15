@@ -17,8 +17,8 @@
  PAR_socialist_party:0 "N/A"
  PAR_socialist_party_long:0 "N/A"
 
- PAR_social_democrat_party:0 "Феберисты"
- PAR_social_democrat_party_long:0 "Феберистская Революционная Партия"
+ PAR_social_democrat_party:0 "Фебреристы"
+ PAR_social_democrat_party_long:0 "Фебреристская Революционная Партия"
 
  PAR_social_liberal_party:0 "Либералы"
  PAR_social_liberal_party_long:0 "Партия Либералов"
@@ -72,7 +72,7 @@
  ##Starting Spirits
  
  PAR_bastion_of_latin_american_fascism:0 "Бастион латиноамериканского фашизма"
- PAR_bastion_of_latin_american_fascism_desc:0 "Парагвай стоит особняком. Мы со всех сторон окружены врагами, которые хотят, чтобы наша Националистическая революция рухнула, наше Новое Государство рухнуло, а наш народ и нация попали под власть большевизма или ОФН. Наше государство является сильным и гордым как единственный защитник великого фашистского идеала на американском континенте, и с помощью наших немецких друзей мы будем удерживать линию против вырождения."
+ PAR_bastion_of_latin_american_fascism_desc:0 "Парагвай стоит особняком. Мы со всех сторон окружены врагами, которые хотят, чтобы наша Националистическая революция рухнула, наше Новое Государство рухнуло, а наш народ и нация попали под власть большевизма или ОСН. Наше государство является сильным и гордым как единственный защитник великого фашистского идеала на американском континенте, и с помощью наших немецких друзей мы будем держать строй против вырождения."
 
  ##Other Spirits
  
@@ -91,7 +91,7 @@
  PAR_coloradan_dissidence:0 "Раскол в партии Колорадо"
  PAR_coloradan_dissidence_desc:0 "ЗАГЛУШКА"
 
- PAR_fulna_insurgency:0 "ВосстаниеFULNA"
+ PAR_fulna_insurgency:0 "Восстание FULNA"
  PAR_fulna_insurgency_desc:0 "ЗАГЛУШКА"
 
  ##Ministers
@@ -99,7 +99,7 @@
  juan_natalicio_gonzalez_hog_desc:0 "ЗАГЛУШКА"
  amancio_pampliega_eco:0 "Амансио Пампльега"
  amancio_pampliega_eco_desc:0 "ЗАГЛУШКА"
- epifano_mendez_fleitas_for:0 "Епифано Мендес Флитас"
+ epifano_mendez_fleitas_for:0 "Епифанио Мендес Флейтас"
  epifano_mendez_fleitas_for_desc:0 "ЗАГЛУШКА"
  auguste_ricord_sec:0 "Огюст Рикорд"
  auguste_ricord_sec_desc:0 "ЗАГЛУШКА"
