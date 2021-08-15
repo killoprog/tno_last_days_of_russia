@@ -3,10 +3,12 @@
  CFS_social_liberal:0 "Конголезская Республика"
  CFS_social_liberal_DEF:0 "Конголезская Республика"
  CFS_social_liberal_ADJ:0 "Конголезск."
- CFS_social_conservative:0 "Конголезск."
+ CFS_social_conservative:0 "Конголезская Республика"
  CFS_social_conservative_DEF:0 "Конголезская Республика"
  CFS_social_conservative_ADJ:0 "Конголезск."
- 
+ CFS_despotism:0 "Государство Конго"
+ CFS_despotism:0 "Государство Конго"
+ CFS_despotism:0 "Конголезск."
  ####Party Names#####
 
  CFS_social_liberal_party:0 "MNC"
