@@ -1,17 +1,17 @@
 ﻿l_russian:
  ## Country Names ##
- RMB_despotism:0 "State of Nyasaland"
- RMB_despotism_DEF:0 "The State of Nyasaland"
- RMB_despotism_ADJ:0 "Nyasaland"
+ RMB_despotism:0 "Государство Ньясаленд"
+ RMB_despotism_DEF:0 "Государство Ньясаленд"
+ RMB_despotism_ADJ:0 "Ньясаленд"
 
- RMB_fascism:0 "State of Nyasaland"
- RMB_fascism_DEF:0 "The State of Nyasaland"
- RMB_fascism_ADJ:0 "Nyasaland"
+ RMB_fascism:0 "Государство Ньясаленд"
+ RMB_fascism_DEF:0 "Государство Ньясаленд"
+ RMB_fascism_ADJ:0 "Ньясаленд"
  
  ####Party Names#####
 
- RMB_despotism_party:0 "NCP"
- RMB_despotism_party_long:0 "Nyasaland Congress Party"
+ RMB_despotism_party:0 "ПКН"
+ RMB_despotism_party_long:0 "Партия Конгресса Ньясаленда"
 
  ## Ministers ##
  
