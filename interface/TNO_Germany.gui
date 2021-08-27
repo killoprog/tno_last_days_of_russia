@@ -233,7 +233,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_influence_main_text"
 			position = { x = 35 y = 785 }
-			textureFile = ""
 			font = "aldrich_24_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_MILITARIST_INFLUENCE_MAIN"
@@ -246,7 +245,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_power_main_text"
 			position = { x = 350 y = 785 }
-			textureFile = ""
 			font = "aldrich_24_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_MILITARIST_POWER_MAIN"
@@ -259,7 +257,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_Loyalty_main_text"
 			position = { x = 645 y = 785 }
-			textureFile = ""
 			font = "aldrich_24_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_MILITARIST_LOYALTY_MAIN"
@@ -273,7 +270,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_influence_influencer_positive"
 			position = { x = 160 y = 534 }
-			textureFile = ""
 			font = "aldrich_18_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_militarist_influence_influencer_positive"
@@ -284,7 +280,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_influence_influencer_negative"
 			position = { x = 160 y = 659 }
-			textureFile = ""
 			font = "aldrich_18_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_militarist_influence_influencer_negative"
@@ -296,7 +291,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_power_influencer_positive"
 			position = { x = 464 y = 534 }
-			textureFile = ""
 			font = "aldrich_18_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_militarist_power_influencer_positive"
@@ -307,7 +301,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_power_influencer_negative"
 			position = { x = 464 y = 659 }
-			textureFile = ""
 			font = "aldrich_18_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_militarist_power_influencer_negative"
@@ -319,7 +312,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_loyalty_influencer_positive"
 			position = { x = 768 y = 534 }
-			textureFile = ""
 			font = "aldrich_18_outline"
 			borderSize = {x = 0 y = 0}
 			text = GER_militarist_loyalty_influencer_positive
@@ -330,7 +322,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_loyalty_influencer_negative"
 			position = { x = 768 y = 659 }
-			textureFile = ""
 			font = "aldrich_18_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_militarist_loyalty_influencer_negative"
@@ -407,7 +398,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_leader_trait_1"
 			position = { x = 116 y = 410 }
-			textureFile = ""
 			font = "aldrich_16_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_MILITARIST_LEADER_TRAIT_1"
@@ -418,7 +408,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_leader_trait_2"
 			position = { x = 116 y = 428 }
-			textureFile = ""
 			font = "aldrich_16_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_MILITARIST_LEADER_TRAIT_2"
@@ -429,7 +418,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_leader_trait_3"
 			position = { x = 235 y = 410 }
-			textureFile = ""
 			font = "aldrich_16_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_MILITARIST_LEADER_TRAIT_3"
@@ -440,7 +428,6 @@ guiTypes = {
 		instantTextboxType = {
 			name = "ger_military_leader_trait_4"
 			position = { x = 235 y = 428 }
-			textureFile = ""
 			font = "aldrich_16_outline"
 			borderSize = {x = 0 y = 0}
 			text = "GER_MILITARIST_LEADER_TRAIT_4"
@@ -463,93 +450,113 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "TNO_SGR_Decisions_GUI" #The Speerdometer
-		size = { width = 525 height = 0 }
-		position = { x = 0 y = 0 }
+		size = { width = 525 height = 750 }
+		position = { x = 0 y = -2 }
+
+		instantTextboxType = {
+			name = "TNO_SGR_Decisions_GUI_regime_lean_text"
+			position = { x = 20 y = 3 }
+			font = "aldrich_16_outline"
+			text = "TNO_SGR_Decisions_GUI_regime_lean_text"
+			maxWidth = 200
+			maxHeight = 300
+		}
+
+		instantTextboxType = {
+			name = "TNO_SGR_Decisions_GUI_desc_text"
+			position = { x = 20 y = 480 }
+			font = "aldrich_16_outline"
+			text = "TNO_SGR_Decisions_GUI_desc_text"
+			maxWidth = 470
+			maxHeight = 450
+			multiline = yes
+		}
+
 
 		containerWindowType = {
 			name = "TNO_SGR_Decisions_GUI_movement_container"
-			size = { width = 525 height = 0 }
-			position = { x = 0 y = -50 }
+			size = { width = 525 height = 500 }
+			position = { x = 0 y = 0 }
 			
 			iconType = {
 				name = "SGR_speerdometer_outline"
 				spriteType = "GFX_SGR_speerdometer_outline"
-				position = { x = 55 y = -475 }
+				position = { x = 55 y = 25 }
 				pdx_tooltip = SGR_authdemvsfash_ticker_desc
 			}
 			
 			iconType = {
 				name = "SGR_speerdometer_tick_1"
 				spriteType = "GFX_SGR_speerdometer_tick_1"
-				position = { x = 57 y = -284 }
+				position = { x = 57 y = 216 }
 				#pdx_tooltip =
 			}
 			iconType = {
 				name = "SGR_speerdometer_tick_2"
 				spriteType = "GFX_SGR_speerdometer_tick_2"
-				position = { x = 118 y = -418 }
+				position = { x = 118 y = 82 }
 				#pdx_tooltip =
 			}
 			iconType = {
 				name = "SGR_speerdometer_tick_3"
 				spriteType = "GFX_SGR_speerdometer_tick_3"
-				position = { x = 257 y = -473 }
+				position = { x = 257 y = 27 }
 				#pdx_tooltip =
 			}
 			iconType = {
 				name = "SGR_speerdometer_tick_4"
 				spriteType = "GFX_SGR_speerdometer_tick_4"
-				position = { x = 370 y = -418 }
+				position = { x = 370 y = 82 }
 				#pdx_tooltip =
 			}
 			iconType = {
 				name = "SGR_speerdometer_tick_5"
 				spriteType = "GFX_SGR_speerdometer_tick_5"
-				position = { x = 412 y = -284 }
+				position = { x = 412 y = 216 }
 				#pdx_tooltip =
 			}
 
 			iconType = {
 				name = "SGR_speerdometer_text1"
 				spriteType = "GFX_SGR_speerdometer_text1"
-				position = { x = 6 y = -262 }
+				position = { x = 6 y = 238 }
 				alwaystransparent = yes
 			}
 			iconType = {
 				name = "SGR_speerdometer_text2"
 				spriteType = "GFX_SGR_speerdometer_text2"
-				position = { x = 6 y = -262 }
+				position = { x = 6 y = 238 }
 				alwaystransparent = yes
 			}
 			iconType = {
 				name = "SGR_speerdometer_text3"
 				spriteType = "GFX_SGR_speerdometer_text3"
-				position = { x = 6 y = -262 }
+				position = { x = 6 y = 238 }
 				alwaystransparent = yes
 			}
 			iconType = {
 				name = "SGR_speerdometer_text4"
 				spriteType = "GFX_SGR_speerdometer_text4"
-				position = { x = 6 y = -262 }
+				position = { x = 6 y = 238 }
 				alwaystransparent = yes
 			}
 			iconType = {
 				name = "SGR_speerdometer_text5"
 				spriteType = "GFX_SGR_speerdometer_text5"
-				position = { x = 6 y = -262 }
+				position = { x = 6 y = 238 }
 				alwaystransparent = yes
 			}
 
 			iconType = {
 				name = "SGR_speerdometer_line_break1"
 				spriteType = "GFX_speerdometer_line_break"
-				position = { x = 113 y = -190 }
+				position = { x = 113 y = 310 }
 				alwaystransparent = yes
 			}
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_propaganda_text"
-				position = { x = 113 y = -185 }
+				position = { x = 113 y = 315 }
 				font = "aldrich_32_outline"
 				text = SGR_state_propaganda
 				maxWidth = 300
@@ -559,7 +566,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_status_text"
-				position = { x = 113 y = -160 }
+				position = { x = 113 y = 340 }
 				font = "aldrich_22_outline"
 				text = SGR_campaign_status
 				maxWidth = 300
@@ -569,7 +576,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_pp_var_text"
-				position = { x = 95 y = -120 }
+				position = { x = 75 y = 370 }
 				font = "aldrich_20_outline"
 				text = SGR_ppinvest_text
 				maxWidth = 300
@@ -579,7 +586,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_usd_var_text"
-				position = { x = 300 y = -120 }
+				position = { x = 300 y = 370 }
 				font = "aldrich_20_outline"
 				text = SGR_moneyinvest_text
 				maxWidth = 200
@@ -590,7 +597,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_reformist_button"
 				spriteType = "GFX_speerdometer_reformist_button"
-				position = { x = 350 y = -60 }
+				position = { x = 350 y = 440 }
 				buttonText = "SGR_reformist_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_reformist_button_tt
@@ -599,7 +606,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_reformist_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 350 y = -60 }
+				position = { x = 350 y = 440 }
 				buttonText = "SGR_reformist_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_reformist_button_tt
@@ -608,7 +615,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_conservative_button"
 				spriteType = "GFX_speerdometer_conservative_button"
-				position = { x = 50 y = -60 }
+				position = { x = 50 y = 440 }
 				buttonText = "SGR_conservative_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_conservative_button_tt
@@ -617,7 +624,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_conservative_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 50 y = -60 }
+				position = { x = 50 y = 440 }
 				buttonText = "SGR_conservative_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_conservative_button_tt
@@ -626,7 +633,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_launch_button"
 				spriteType = "GFX_speerdometer_launch_button"
-				position = { x = 200 y = -60 }
+				position = { x = 200 y = 440 }
 				buttonText = "SGR_launch_campaign_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_launch_button_tt
@@ -635,7 +642,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_launch_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 200 y = -60 }
+				position = { x = 200 y = 440 }
 				buttonText = "SGR_launch_campaign_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_launch_underbutton_tt
@@ -644,100 +651,100 @@ guiTypes = {
 			buttonType = {
 				name = "Decrease_pp_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 160 y = -105 }
+				position = { x = 160 y = 395 }
 				pdx_tooltip = SGR_decrease_pp_button_tt
 			}
 			buttonType = {
 				name = "Increase_pp_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 190 y = -105 }
+				position = { x = 190 y = 395 }
 				pdx_tooltip = SGR_increase_pp_button_tt
 			}
 
 			buttonType = {
 				name = "Decrease_usd_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 332 y = -105 }
+				position = { x = 332 y = 395 }
 				pdx_tooltip = SGR_decrease_budget_button_tt
 			}
 			buttonType = {
 				name = "Increase_usd_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 362 y = -105 }
+				position = { x = 362 y = 395 }
 				pdx_tooltip = SGR_increase_budget_button_tt
 			}
 
 			iconType = {
 				name = "SGR_speerdometer_flag1"
 				spriteType = "GFX_SGR_speerdometer_flag1"
-				position = { x = 227 y = -309 }
+				position = { x = 227 y = 191 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_flag2"
 				spriteType = "GFX_SGR_speerdometer_flag2"
-				position = { x = 227 y = -309 }
+				position = { x = 227 y = 191 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_flag3"
 				spriteType = "GFX_SGR_speerdometer_flag3"
-				position = { x = 227 y = -309 }
+				position = { x = 227 y = 191 }
 			}
 
 			iconType = {
 				name = "SGR_speerdometer_arrow_down1"
 				spriteType = "GFX_SGR_Arrow_Down1"
-				position = { x = 132 y = -263 }
+				position = { x = 132 y = 237 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_arrow_down2"
 				spriteType = "GFX_SGR_Arrow_Down2"
-				position = { x = 132 y = -263 }
+				position = { x = 132 y = 237 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_arrow_down3"
 				spriteType = "GFX_SGR_Arrow_Down3"
-				position = { x = 132 y = -263 }
+				position = { x = 132 y = 237 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_arrow_up1"
 				spriteType = "GFX_SGR_Arrow_Up1"
-				position = { x = 360 y = -263 }
+				position = { x = 360 y = 237 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_arrow_up2"
 				spriteType = "GFX_SGR_Arrow_Up2"
-				position = { x = 360 y = -263 }
+				position = { x = 360 y = 237 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_arrow_up3"
 				spriteType = "GFX_SGR_Arrow_Up3"
-				position = { x = 360 y = -263 }
+				position = { x = 360 y = 237 }
 			}
 
 			iconType = {
 				name = "SGR_speerdometer_meter1"
 				spriteType = "GFX_SGR_speerdometer_meter1"
-				position = { x = 119 y = -311 }
+				position = { x = 119 y = 189 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_meter2"
 				spriteType = "GFX_SGR_speerdometer_meter2"
-				position = { x = 152 y = -385 }
+				position = { x = 152 y = 115 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_meter3"
 				spriteType = "GFX_SGR_speerdometer_meter3"
-				position = { x = 225 y = -417 }
+				position = { x = 225 y = 83 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_meter4"
 				spriteType = "GFX_SGR_speerdometer_meter4"
-				position = { x = 225 y = -385 }
+				position = { x = 225 y = 115 }
 			}
 			iconType = {
 				name = "SGR_speerdometer_meter5"
 				spriteType = "GFX_SGR_speerdometer_meter5"
-				position = { x = 225 y = -311 }
+				position = { x = 225 y = 189 }
 			}
 		}
 	}
@@ -750,7 +757,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "TNO_SGR_Decisions_RND_GUI_movement_container"
 			size = { width = 0 height = 0 }
-			position = { x = 0 y = 150 }
+			position = { x = 0 y = 250 }
 
 			iconType = {
 				name = "SGR_Orpo_GUI_Logo"
@@ -1416,7 +1423,6 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "tech_window_title"
 			position = { x = 0 y = 15 }
-			textureFile = ""
 			font = "aldrich_36_outline"
 			borderSize = {x = 0 y = 0}
 			text = "RND Research Completed"
@@ -1791,7 +1797,7 @@ guiTypes = {
 			text = "[THIS.GetName]"
 			format = left
 			maxWidth = 300
-			maxHeight = 200
+			maxHeight = 24
 			fixedsize = yes
 		}
 
@@ -2574,7 +2580,7 @@ guiTypes = {
 			name = "Notification_text"
 			position = { x = 770 y = 112 }
 			font = "aldrich_30_outline"
-			text = "Click on the states for further interactions"
+			text = "Нажмите на регионы для дальнейшего взаимодействия"
 			format = center
 		}
 		buttonType = {
