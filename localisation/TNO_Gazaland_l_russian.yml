@@ -1,20 +1,20 @@
 ﻿l_russian:
  ## Country Names ##
- GAZ_socialist:0 "Popular Republic of Gazaland"
- GAZ_socialist_DEF:0 "The Popular Republic of Gazaland"
- GAZ_socialist_ADJ:0 "Gazaland"
+ GAZ_socialist:0 "Народная Республика Газаленд"
+ GAZ_socialist_DEF:0 "Народная Республика Газаленд"
+ GAZ_socialist_ADJ:0 "Газалендск."
  
  ####Party Names#####
 
- GAZ_socialist_party:0 "GLF"
- GAZ_socialist_party_long:0 "Gazaland Liberation Front"
+ GAZ_socialist_party:0 "ФОГ"
+ GAZ_socialist_party_long:0 "Фронт Освобождения Газаленда"
 
  ## Ministers ##
  
- GAZ_Joaquim_Chissano_hog:0 "Joaquim Chissano"
- GAZ_Alberto_Massavanhane_for:0 "Alberto Massavanhane"
- GAZ_Marcelino_dos_Santos_eco:0 "Marcelino dos Santos"
- GAZ_Samora_Machel_sec:0 "Samora Machel"
+ GAZ_Joaquim_Chissano_hog:0 "Хоаким Чиссано"
+ GAZ_Alberto_Massavanhane_for:0 "Альберто Массаванхане"
+ GAZ_Marcelino_dos_Santos_eco:0 "Марселино Дос Сантос"
+ GAZ_Samora_Machel_sec:0 "Самора Машел"
 
  ## Ideas ##
  
