@@ -1,28 +1,28 @@
 ﻿l_russian:
  ## Country Names ##
- 
+
  ####Party Names#####
 
- POLITICS_Theodor_Eicke_DESC:0 "Betrayed, forgotten, abandoned. The Hangman has lost his way, but in the name of Germany, a new dawn, no, a new era, will begin.\n\nTheodor Eicke was born in the boiling stew of violence and rage which would spill over into the Great War, where he managed to find himself decorated for his courage along the front lines, even if he managed paychecks behind the lines most of the time. Nevertheless, the failures of democracy crashed hard upon Eicke as he fell into poverty and joblessness with the onset of Weimar's corruption and degeneracy; however, that was all until the National Socialist German Workers' Party came along. From then on, it was blood that earned Eicke his medals, be it the blood of his former commander, Ernst Röhm, or be it the blood of every single degenerate, handicapped, or corrupted subhuman that Eicke witnessed die within the concentration camp.\n\nTo Eicke, the German Reich had finally realized that it was strength that it needed for its people, and allowing any of these affronts to the Aryan image live would be an unacceptable slight against Germany's power. After the war, a lifetime of devotion and desire to please Himmler found him as a strong-and-true official within the Deutsche-SS, as SS-Obergruppenführer Eicke, despite his occasionally rocky relationship with Reinhard Heydrich, realized his true potential in destroying any traces of corruption within the Vaterland.\n\nBut, no. That bastard, Heydrich, that wretched beast ruined it all! He tore Germany apart, and left us all with nothing, leaving the process to transform the Reich into something more pure than ever in tatters! We must do what we can to honor the Reichsführer-SS, and purge Heydrich for his betrayal against the Burgundian System."
- 
+ POLITICS_Theodor_Eicke_DESC:0 "Предан, забыт, брошен. Палач сбился с пути, но во имя Германии начнется новый рассвет, нет, новая эра.\n\nТеодор Эйке родился в кипящем рагу насилия и ярости, которое вылилось в Великую войну, где ему удалось получить награду за мужество на передовой, даже несмотря на то, что он большую часть времени получал зарплату в тылу. Тем не менее, неудачи демократии были тяжким ударом для Эйке, когда он впал в нищету и безработицу с началом веймарской коррупции и вырождения; однако всё это было пока не появилась Национал-социалистическая немецкая рабочая партия. С тех пор именно кровь принесла Эйке его медали, будь то кровь его бывшего командира Эрнста Рёма или кровь каждого дегенерата, инвалида или коррумпированного недочеловека, которого Эйке видел умирающим в концентрационном лагере.\n\nКак это понимал Эйке, Немецкий Рейх наконец осознал, что его народ нуждается именно в силе, и позволить любому из этих оскорблений арийскому образу жить было бы неприемлемым оскорблением мощи Германии. После войны преисполненный преданности и желания угодить Гиммлеру он стал надёжным и верным чиновником в германских СС, и так обергруппенфюрер СС Эйке, несмотря на его иногда непростые отношения с Рейнхардом Гейдрихом, осознал свой истинный потенциал в уничтожении любых следов коррупции в Фатерлянде.\n\nНо нет. Этот ублюдок Гейдрих, это жалкое чудовище всё испортил! Он разорвал Германию на части и оставил нас всех ни с чем, разорвав процесс превращения Рейха во что-то более чистое чем когда-либо в клочья! Мы должны сделать все возможное, чтобы почтить память рейхсфюрера СС и избавиться от Гейдриха за его предательство бургундской системы."
+
  POLITICS_ULRIKE_MEINHOF_HGR_DESC:0 ""
 
  ## Ministers ##
- 
- ## Ideas ##
- 
- SSL_burgundy_wannabe:0 "Burgundian Wannabe"
- SSL_burgundy_wannabe_desc:0 "SS-Obergruppenführer Eicke strove throughout his entire career within the Deutsche-SS to remain a loyal butcher for the Aryan cause. Now that Heydrich has betrayed Himmler and the Aryan race in favor of what Eicke sees as decadence and politics, he has taken it upon himself to build within his fiefdom a Burgundian Ordenstaat west of the Rhine."
- 
- SSL_burgundian_pawn:0 "Himmler's Pawn"
- SSL_burgundian_pawn_desc:0 "Loyal to Himmler until the end, the SS-Ordenstaat Lothringen remains a piece upon the chessboard that Burgundy can move about freely... for now."
- 
- ## Decisions ##
- 
- ## Tooltips ##
- 
- ## Focus Tree ##
- 
- ## Events ##
 
- 
+ ## Ideas ##
+
+ SSL_burgundy_wannabe:0 "Бургундский подражатель"
+ SSL_burgundy_wannabe_desc:0 "Обергруппенфюрер СС Эйке на протяжении всей своей карьеры в германских СС стремился оставаться верным мясником для арийского дела. Теперь, когда Гейдрих предал Гиммлера и арийскую расу в пользу того, что Эйке считает упадком и политикой, он взял на себя смелость построить в своей вотчине бургундский орден к западу от Рейна."
+
+ SSL_burgundian_pawn:0 "Пешка Гиммлера"
+ SSL_burgundian_pawn_desc:0 "Верный Гиммлеру до конца, орден СС Лотарингия остается фигурой на шахматной доске, которую Бургундия может свободно передвигать...на данное время."
+
+## Decisions ##
+
+## Tooltips ##
+
+## Focus Tree ##
+
+## Events ##
+
+

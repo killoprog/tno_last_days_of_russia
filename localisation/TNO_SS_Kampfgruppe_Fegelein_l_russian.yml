@@ -1,26 +1,26 @@
 ﻿l_russian:
- ## Country Names ##
- 
- ####Party Names#####
- 
- POLITICS_Hermann_Fegelein_DESC:0 "From the city of Dresden comes a regular radio broadcast, singing the praises of the Reichsführer Heinrich Himmler and the Burgundian System- and urging the people to follow them.\n\nHermann Fegelein. Experienced, cynical, and ever-irreputable, the Obergruppenfuhrer has seen much in his years of service to the Reich and the SS, and his eyes have watched dozens of plots pass before them. Accusations of treason or crimes against the Reich, evidence passed hastily in back-door deals, the slow rise and fall- or, in some cases, success- Fegelein has seen it all.\n\nSo, when caught between what little loyalty he possesses to Himmler and the System and Heydrich's frankly ridiculous allegations of the Reichsfuhrer's plots- nuclear armageddon? The end of the world? Please.- Fegelein stuck with his guns. Today, he and his men devote themselves to ending Heydrich's treachery and exposing his falsehoods- through both pen and sword, as they broadcast nationwide urges to leave the traitor and instill the true Spartanist Aryan ideal as devotedly as they fight for it.  If there's one thing that the Obergruppenfuhrer is committed to, it's the Aryan paradise he's worked towards for so long.\n\nAnd yet, something tickles at the back of Fegelein's consciousness- What if Heydrich's words are somehow true? Fegelein wants the Aryan ideal, yes, but not by ending the world. It's a good thing Fegelein doesn't root himself to many causes, for if Heydrich backs his words with facts, Fegelein may find it wise to desert- and everyone wants a good propaganda department these days."
+## Country Names ##
 
- ## Ministers ##
- 
- ## Ideas ##
- 
- SSF_reichwide_political_ties:0 "Reich-wide Political Ties"
- SSF_reichwide_political_ties_desc:0 "Outside of the SS, Fegelein is known as a charmer and socialite. His political marriage to Eva Braun's sister opened up a wealth of opportunities to the dashing cavalryman. Since the war's end, he has utilized his ties to bring many supposed enemies of the SS to his side."
- 
- SSF_unscrupulous_nazism:0 "Unscrupulous Nazism"
- SSF_unscrupulous_nazism_desc:0 "Vain, cynical and self-centered, Fegelein manages to be both a devoted Nazi and an inveterate hooligan. His men regularly engage in criminal activity, in line with their commander's conduct. Fegelein is a disgrace to the SS, but Himmler barely seems to care."
- 
- ## Decisions ##
- 
- ## Tooltips ##
- 
- ## Focus Tree ##
- 
- ## Events ##
+####Party Names#####
 
- 
+ POLITICS_Hermann_Fegelein_DESC:0 "Из города Дрезден регулярно идет радиопередача, в которой восхваляются рейхсфюрер Генрих Гиммлер и бургундская система, и призывает людей следовать за ними.\n\nГерман Фегелейн. Опытный, циничный и с вечно дурной репутацией обергруппенфюрер многое повидал за годы службы Рейху и СС, и его глаза видели десятки заговоров, проходивших перед ними. Обвинения в государственной измене или преступлениях против Рейха, доказательства, поспешно состряпанные в рамках тайных сделок, медленный взлет и падение или, в некоторых случаях, успех - Фегелейн видел все это.\n\nТак что, когда он оказался между той небольшой лояльностью, которую он испытывал к Гиммлеру и Системе, и откровенно нелепыми утверждениями Гейдриха о заговорах рейхсфюрера о ядерном армагеддоне... Конец света? Да бросьте. Фегелейн остался при своём. Сегодня он и его люди посвящают себя прекращению предательства Гейдриха и разоблачению его лжи - как пером, так и мечом, поскольку они транслируют общенациональные призывы оставить предателя и привить истинный спартанский арийский идеал так же преданно, как они борются за него. Если и есть что-то, чему привержен обергруппенфюрер, так это арийский рай, к которому он так долго стремился. \n\nИ все же что-то щекочет Фегелейна в глубине сознания. Что если в словах Гейдриха каким-то образом есть правда? Фегелейн хочет арийского идеала, да, но не путем уничтожения мира. Хорошо, что Фегелейн не вникает слишком в причины, потому что, если Гейдрих подкрепит свои слова фактами, Фегелейн может счесть разумным дезертировать, а в наши дни всем нужен хороший отдел пропаганды."
+
+## Ministers ##
+
+## Ideas ##
+
+ SSF_reichwide_political_ties:0 "Политические связи по всему Рейху"
+ SSF_reichwide_political_ties_desc:0 "За пределами СС Фегелейн известен как обаятельный и светский человек. Его политический брак с сестрой Евы Браун открыл перед лихим кавалеристом множество возможностей. После окончания войны он использовал свои связи, чтобы привлечь на свою сторону многих предполагаемых врагов СС."
+
+ SSF_unscrupulous_nazism:0 "Беспринципный нацизм"
+ SSF_unscrupulous_nazism_desc:0 "Тщеславный, циничный и эгоцентричный, Фегелейн умудряется быть одновременно преданным нацистом и закоренелым хулиганом. Его люди регулярно занимаются преступной деятельностью в соответствии с поведением своего командира. Фегелейн - позор для СС, но Гиммлера, похоже, это почти не волнует."
+
+## Decisions ##
+
+## Tooltips ##
+
+## Focus Tree ##
+
+## Events ##
+
+
