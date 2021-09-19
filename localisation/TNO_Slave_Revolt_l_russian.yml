@@ -3,19 +3,19 @@
  ###########
  ##PARTIES##
  ###########
- SRT_socialist_party:0 "NUPO"
- SRT_socialist_party_long:0 "Di Nay Fareynikte Partizaner Organizatsye"
- SRT_social_democrat_party:0 "Reichsbanner"
- SRT_social_democrat_party_long:0 "Reichsbanner Schwarz-Rot-Gold"
- SRT_social_liberal_party:0 "SDV"
- SRT_social_liberal_party_long:0 "Spilka Demokratychnoho Vyzvolu"
- SRT_social_conservative_party:0 "SW"
- SRT_social_conservative_party_long:0 "Solidarność Walcząca"
+ SRT_socialist_party:0 "ОПО"
+ SRT_socialist_party_long:0 "Объединенная Партизанская Организация"
+ SRT_social_democrat_party:0 "Рейхсбаннер"
+ SRT_social_democrat_party_long:0 "Рейхсбаннер Шварц-рот-Голд"
+ SRT_social_liberal_party:0 "СДВ"
+ SRT_social_liberal_party_long:0 "Спiлка Демократичного Визволю"
+ SRT_social_conservative_party:0 "БС"
+ SRT_social_conservative_party_long:0 "Боевая Солидарность"
  
  ################
  ##LEADER DESCS##
  ################
- POLITICS_WILLY_BRANDT_DESC:0 "Willy Brandt fights for a Europe many believe will never exist. Born as Herbert Frahm in 1913, he strove with determination during the Weimar years to maintain the democratic republic against the threats of the Nazis and Communists alike. As Frahm, he joined the SPD aged 16, the SAPD aged 18, and the anti-Nazi resistance just aged 20. The death of Frahm and the birth of Willy Brandt came when he fled to Oslo to establish an SAPD cell as a bastion of German resistance.\n\nAs Norway and later the Soviet Union collapsed, Brandt and his fellow resistance members attempted to flee to the US to continue the struggle against tyranny. The cruelty of fate saw them all captured by the Kriegsmarine and thrown in an eastern European KZ, where they toiled with little but gruel and the threat of a bullet to sustain them.\n\nRefusing to be crushed by such brutality, Brandt covertly organized camp resistance cells and established outside contacts who were not surprised when Brandt and his allies escaped during the chaos of the West Russian War. Free at last and as fervent as ever, Brandt coalesced much of the German resistance around the re-established Reichsbanner Schwarz-Rot-Gold, working undercover as he grew his network to include European partisan organizations and German student leaders, exploiting the mayhem of the Bürgerkrieg to his advantage.\n\nMany would have given up such a fanciful dream in search of a peaceful life. Not Willy Brandt. The Slave Revolt provides the final flame of hope for the forces of liberation and democracy, whatever the cost may be. The final die has been tossed, and only time will tell if it heralds freedom or death."
+ POLITICS_WILLY_BRANDT_DESC:0 "Вилли Брандт борется за Европу, которой, по мнению большинства, миру уже никогда не суждено увидеть. Родившись под именем Герберт Фрам в 1913 году, в Веймарские годы молодой парень решительно боролся за сохранение демократической республики против угроз, как со стороны нацистов, так и коммунистов. В возрасте 16 лет Фрам вступил в Социал-Демократическую Партию Германии, в 18 лет - в Рейхсбаннер, а в 20 лет - в антинацисткое сопротивление. Смерть Фрама и рождение Вилли Брандта произошло при бегстве в Норвегию, вместе с созданием антинацисткой ячейки сопротивления в Осло.\n\nКогда Норвегия, а затем и Советский Союз пали, Брандт и его товарищи попытались бежать в США, чтобы продолжать борьбу с тиранией оттуда. Однако у судьбы были другие планы. Их корабль был захвачен Кригсмарине, после чего Брандт и товарищи были брошены в один из восточных концлагерей, не имея ничего, кроме каши и ударов плети.\n\nОтказываясь быть раздавленным такой жестокостью, Брандт тайно организовал ячейки сопротивления и установил контакты с внешним миром. Поэтому никто не удивился, что Брандт и его союзники сбежали из лагеря с началом Западнорусской войны. Наконец-то свободный и еще более горячий чем всегда, Брандт объединил большую часть немецкого сопротивления вокруг восстановленного Рейхсбаннера. Работая под прикрытием, он расширил свою сеть, включив в нее европейские партизанские организации и протестующих студентов, используя хаос Бюргеркрига в своих целях.\n\nМногие отказались бы от мечты в пользу спокойной жизни, но только не Вилли Брандт. Восстание рабов дает надежду последним силам освобождения и демократии, чего бы это ни стоило. Последний жребий брошен."
  
  #############
  ##MINISTERS##
@@ -25,9 +25,9 @@
  #########
  ##IDEAS##
  #########
- SRT_Freedom_or_Death:0 "Freedom or Death"
- SRT_Freedom_or_Death_desc:0 "The brave men and women of the revolt all fight under the same banner: The banner of freedom. Slaves from across the Reich have broken their chains and rallied under the banner of the Slave Revolt. For most, this is their first experience of freedom in decades, and if they do not succeed in overthrowing their former German slavers, it will be their last. Certain death awaits those who fall back under the shadow of the Reich. As such, the freed slaves will fight tooth and nail until their dying breath, so that they, their brothers, and their sisters may live free."
- SRT_Partisan_Alliance:0 "Partisan Alliance"
- SRT_Partisan_Alliance_desc:0 "The Slave Revolt is composed of a diverse collection of partisans, political movements, and of course freed slaves, all taking up arms under the same banner. These groups, long entrenched within eastern Europe, are scarcely used to fighting in the light of the sun, or doing battle against an organized enemy fighting force. Even less so are these partisans acclimatised to working alongside movements to which they were formerly opposed. Yet despite all, these men and women understand that they have now gone all-in, and have nothing left to gain from petty squabbles and partisan rivalry. Their revolution has arrived, and with it has come the time to fight."
- SRT_Unity_in_Diversity:0 "Unity in Diversity"
- SRT_Unity_in_Diversity_desc:0 "Unlike many movements in history, the Slave Revolt is not one bonded in language, ideology, or political goals. Many of the factions that complete the Revolt do not so much as speak the same language as others. Yet, regardless of any such divisions, they are united in the purpose of freedom.\n\nUnified against the Nazi threat, this unlikely band of brothers will stand together firmly until either victory is achieved, or they perish in pursuit of freedom."
+ SRT_Freedom_or_Death:0 "Свобода или смерть"
+ SRT_Freedom_or_Death_desc:0 "Храбрые мужчины и женщины восстания сражаются под одним знаменем: знаменем свободы. Рабы со всего Рейха разорвали свои цепи и сплотились под знаменем Рейхсбаннера. Для большинства это первый глоток свободы за последние десятилетия и если им не удастся свергнуть своих бывших немецких рабовладельцев, это будет их последний опыт. Верная смерть ждет тех, кто отступит обратно в лоно Рейха. Таким образом, освобожденные рабы будут сражаться до последнего вздоха, чтобы они, их братья и сестры могли жить свободными."
+ SRT_Partisan_Alliance_desc:0 "Партизанский союз"
+ SRT_Partisan_Alliance_desc:0 "Восстание рабов состоит из разнообразных партизан, политических движений и, конечно же, освобожденных рабов, которые берут в руки оружие под одним знаменем. Эти группы, уже давно существующие в Восточной Европе, едва ли привыкли сражаться при свете солнца, да еще и против организованных вражеских подразделений. Еще в меньшей степени эти партизаны приспособились к работе бок о бок с движениями, против которых они ранее выступали. И все же, несмотря ни на что, все эти мужчины и женщины понимают, что это их последний шанс и сейчас лучше забыть все прошлые мелкие ссоры и соперничество. Их революция пришла, и вместе с ней настало время сражаться."
+ SRT_Unity_in_Diversity:0 "Единство в многообразии"
+ SRT_Unity_in_Diversity_desc:0 "В отличие от многих других движений, восстание рабов не связао языком, идеологией или политической программой. Многие из фракций, сражающихся вместе, даже не говорят на том же языке, что и другие. И все же, независимо от любых различий, они едины в своем стремлении к свободе. Объединившись против нацисткой угрозы, эта разношерстная группа будет твердо держаться вместе до сих пор, пока не будет одержана победа, либо пока они не погибнут в погоне за свободой."
