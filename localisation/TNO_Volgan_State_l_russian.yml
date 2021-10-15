@@ -25,43 +25,43 @@
  
 ### Party Names ####
  VLG_fascism_party:0 "НСДАП-П"
- VLG_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei - Прагматисты"
+ VLG_fascism_party_long:0 "Национал-социалистическая немецкая рабочая партия - Прагматисты"
  VLG_national_socialism_party:0 "НСДАП-Д"
- VLG_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei - Догматисты"
+ VLG_national_socialism_party_long:0 "Национал-социалистическая немецкая рабочая партия - Догматисты"
  VLG_ultranational_socialism_party:0 "НСДАП-В"
- VLG_ultranational_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei - Wolgastaat"
+ VLG_ultranational_socialism_party_long:0 "Национал-социалистическая немецкая рабочая партия - Wolgastaat"
  VLG_authoritarian_democrat_party:0 "Волгабунд-В"
  VLG_authoritarian_democrat_party_long:0 "Волгабунд - фракция Вилькцера"
  VLG_social_conservative_party:0 ""
  VLG_social_conservative_party_long:0 ""
- VLG_social_liberal_party:0 "Wolgabund-H"
- VLG_social_liberal_party_long:0 "Wolgabund - Hollmann's Fraktion"
- VLG_social_democrat_party:0 "Wolgabund-F"
- VLG_social_democrat_party_long:0 "Wolgabund - Fyodorov's Fraktion"
- VLG_socialist_party:0 "EF"
- VLG_socialist_party_long:0 "Engels Freikorps"
+ VLG_social_liberal_party:0 "Волгабунд-Х"
+ VLG_social_liberal_party_long:0 "Волгабунд - Фракция Холлмана"
+ VLG_social_democrat_party:0 "Волгабунд-Ф"
+ VLG_social_democrat_party_long:0 "Волгабунд - Фракция Федорова"
+ VLG_socialist_party:0 "ДКЭ"
+ VLG_socialist_party_long:0 "Добровольческий Корпус Энгельса"
  
  ### Leaders ###
  POLITICS_KARL_DONITZ_DESC:0 "Дениц - человек со своими идеалами. Верный сторонник Рейха от его насильственного рождения до его, казалось бы, насильственного конца, он видел, как его еще более любимый Кригсмарине медленно сгорает в пламени восстания и разорения. В то время как многие корабли отказались от Рейха, чтобы найти гавань у различных сторонников, в основном либералами Шпеера, Дениц знает, что только один человек может действительно спасти Рейх от проклятия.\n\nКто может быть лучше Бормана? Сильный лидер, ставленник самого Гитлера и убежденный сторонник идеалов рейха. К сожалению, Кригсмарине больше не в безопасности в гаванях, где в любой день другой жалкий предатель может просто захватить их корабли, чтобы продолжить их дегенеративное дело.\n\nК счастью, Дениц уже получил "гражданскую" должность, надзирателя за портами Крыма от имени местного губернатора. С десятками военных кораблей в порту каждый день и со многими способными моряками, свергнуть это слабое правительство было просто. Теперь он сидит в Крыму, ожидая того дня, когда его корабли смогут снова вернуться на материк и помочь Рейху в его славном восстановлении."
  
 
 ### Ministers ### 
- VLG_minister_Dominik_Hollmann_hog:0 "Dominik Hollmann"
- VLG_minister_Alexander_Hasselbach_eco:0 "Alexander Hasselbach"
- VLG_minister_Wilfried_Strik_Strikfeld_for:0 "Wilfried Strik-Strikfeld"
- VLG_minister_Werner_Ebeling_sec:0 "Werner Ebeling"
- VLG_minister_Helmuth_von_Pannwitz_sec:0 "Helmut von Pannwitz"
+ VLG_minister_Dominik_Hollmann_hog:0 "Доминик Гольман"
+ VLG_minister_Alexander_Hasselbach_eco:0 "Александр Гассельбах"
+ VLG_minister_Wilfried_Strik_Strikfeld_for:0 "Вильфрид Штрик-Штрикфельдт"
+ VLG_minister_Werner_Ebeling_sec:0 "Вернер Эбелинг"
+ VLG_minister_Helmuth_von_Pannwitz_sec:0 "Гельмут фон Паннвиц"
 
 ### Ideas ###
  VLG_volga_settler_conflict:0 "Конфликт немецких поселенцев"
  VLG_volga_settler_conflict_desc:0 ""
  VLG_local_russian_resistance:0 "Русское сопротивление"
- VLG_local_russian_resistance_desc:0 "Despite the division many Russian subjects remain under our sovereignty. They aren't exactly thrilled about their fate, while free realms of their kin exist. Keeping them in line will require resources we could need elsewhere."
+ VLG_local_russian_resistance_desc:0 "Несмотря на разделение, многие российские субъекты остаются под нашим суверенитетом. Они не совсем в восторге от своей судьбы, пока существуют свободные государства их сородичей. Чтобы держать их в узде, потребуются ресурсы, которые нам могут понадобиться в других местах."
  VLG_NSDAP_meddling:0 "Вмешательство НСДАП"
  VLG_NSDAP_meddling_desc:0 ""
- VLG_mandatory_NSDAP_seats_tooltip:0 "The NSDAP maintains a permanent §R15§! seats in Wolgabund."
+ VLG_mandatory_NSDAP_seats_tooltip:0 "НСДАП поддерживает постоянные §R15§! мест в Вольгабунде."
  VLG_volga_autonomous_region:0 "Автономный регион на Волге"
- VLG_volga_autonomous_region_desc:0 "The Volga-german council, though split between Wolgabund and NSDAP ensures a certain level of autonomy for those areas, that the Volga-germans mainly inhabit."
+ VLG_volga_autonomous_region_desc:0 "Совет поволжских немцев, хотя и разделен между Вольгабундом и НСДАП, обеспечивает определенный уровень автономии для тех районов, в которых в основном проживают поволжские немцы."
 
  
 ### Events ###
